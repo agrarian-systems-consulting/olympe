@@ -1,0 +1,93 @@
+1 je mets tout  supprimable à true
+    //supprimable=true
+    for(n=0;n<V_Calendrier->Nbelt;n++)
+    {
+        calendrier=V_Calendrier->Vecteur[n];
+        calendrier->Supprimable=true;
+        periodeX=calendrier->V_Periode->Nbelt;
+        for(i=0;i<periodeX;i++)
+        {
+            periode=calendrier->V_Periode->Vecteur[i];
+            periode->Supprimable=true;
+        }
+    }
+
+2 pour chaque culture ou perenne
+	j'interdis de supprimer
+    for(n=0;n<V_BesTrav->Nbelt;n++)
+    {
+        besTrav=V_BesTrav->Vecteur[n];
+        calendrier=besTrav->Calendrier;
+        calendrier->Supprimable=false;
+        periodeX=calendrier->V_Periode->Nbelt;
+        for(i=0;i<periodeX;i++)
+        {
+            periode=calendrier->V_Periode->Vecteur[i];
+            for(j=0;j<NbPhase;j++)
+            {
+                if(besTrav->Besoins[i][j]!=0)
+                {
+                    periode->Supprimable=false;
+                    break;
+                }
+            }
+        }
+    }
+
+3 on a supprime des périodes
+int a; //a comme Atelier
+int b; //b       besoin en travail
+CL_Atelier *atelier;
+CL_BesTrav *besTrav
+    vecteur=V_Culture;
+           =V_animaux;
+           =V_Perenne; ?
+    for(a=0;a<vecteur->nbelt;a++)
+    {
+        atelier=vecteur->Vecteur[a];
+        for(b=0;b<atelier->V_BesTrav->nbelt:b++)
+        {
+            besTrav=atelier->V_BesTrav->Vecteur[b];
+        }
+    }
+
+4  dans besTrav  cpier
+
+      besTrav
+      bool estLibre[50];
+
+      calendrier=besTrav->Calendrier;
+      periodeX=calendrier->V_Periode->Nbelt;
+
+      for(i=0;i<periodeX;i++) estLibre[i]=false;
+      int nbLibre=0;
+
+      for(i=0;i<periodeX;i++)
+      {
+          periode=calendrier->V_Periode->Vecteur[i];
+          if(periode->Supprimable==false)
+          {
+            if(nbLibre==0) continue;
+
+            for(ip=0;ip<periodeX;ip++)
+            {
+                if(estLibre[ip]==true)
+                {
+                    for(j=0;j<nPhase;j++)
+                    {
+                        bestrav->Besoins[ip][j]= bestrav->Besoins[i][j];
+                    }
+
+                }
+            }
+            estLibre[i]=false;
+            nLibre--;
+          }
+          else
+          {
+            estLibre[i]=true;
+            nbLibre++;
+            }
+      }
+
+

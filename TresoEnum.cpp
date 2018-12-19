@@ -1,0 +1,3 @@
+enum {
+	TOTCAT, TOTCHA, ITEM
+};

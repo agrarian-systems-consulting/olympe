@@ -1,0 +1,144 @@
+#include <grids.hpp>
+class CL_Procedure;
+//reporter modif dans LesVecteurs.h
+
+extern CL_Vecteur<CL_SystemeUnite> *V_SystemeUnite;
+extern CL_Vecteur<CL_Tva>          *V_Tva;
+
+extern CL_Vecteur<CL_Categorie>    *V_Categorie; //représente un vecteur quelconque ci dessous
+extern CL_Vecteur<CL_Categorie>    *V_CatProduit;
+extern CL_Vecteur<CL_Categorie>    *V_CatCharge;
+extern CL_Vecteur<CL_Categorie>    *V_CatBestiaux; //260903
+extern CL_Vecteur<CL_Categorie>    *V_CatExternalite;
+
+extern CL_Vecteur<CL_Categorie>    *V_CatCulture;
+extern CL_Vecteur<CL_Categorie>    *V_CatAnimaux;
+extern CL_Vecteur<CL_Categorie>    *V_CatVivrier;
+
+extern CL_Vecteur<CL_Categorie>    *V_CatChStruct;
+extern CL_Vecteur<CL_Categorie>    *V_CatRecDiv;
+extern CL_Vecteur<CL_Categorie>    *V_CatDepDiv;
+extern CL_Vecteur<CL_Categorie>    *V_CatRecFam;
+extern CL_Vecteur<CL_Categorie>    *V_CatDepFam;
+
+extern CL_Vecteur<CL_Categorie>    *V_CatTypeZone;
+
+extern CL_Vecteur<CL_Categorie>    *V_CatIndic;
+extern CL_Vecteur<CL_Categorie>    *V_CatEtatSortie;
+extern CL_Vecteur<CL_Categorie>    *V_CatSerieComp;
+extern CL_Vecteur<CL_Categorie>    *V_CatProcedure;
+
+extern CL_Vecteur<CL_Item>         *V_Item;     //représente un vecteur quelconque ci dessous
+extern CL_Vecteur<CL_Item>         *V_Charge;
+extern CL_Vecteur<CL_Item>         *V_Produit;
+extern CL_Vecteur<CL_Bestiaux>     *V_Bestiaux;  //260903
+extern CL_Vecteur<CL_Item>         *V_Externalite;
+
+extern CL_Vecteur<CL_Atelier>      *V_Atelier; //représente un vecteur quelconque ci dessous
+extern CL_Vecteur<CL_Atelier>      *V_Culture;
+extern CL_Vecteur<CL_Atelier>      *V_Animaux;
+extern CL_Vecteur<CL_Atelier>      *V_Vivrier;
+extern CL_Vecteur<CL_Atelier>      *V_Perenne;
+
+extern CL_Vecteur<CL_Espece>       *V_Espece;
+
+extern CL_Vecteur<CL_Item>         *V_ChStruct;
+extern CL_Vecteur<CL_Item>         *V_RecDiv;    //Recette Diverses
+extern CL_Vecteur<CL_Item>         *V_DepDiv;    //Depense
+
+extern CL_Vecteur<CL_Item>         *V_RecFam;    //Recette Famille
+extern CL_Vecteur<CL_Item>         *V_DepFam;    //Depense
+
+extern  CL_Vecteur<CL_Item>         *V_TypeZone;
+
+extern  CL_Vecteur<CL_Categorie>    *V_CatVar;  //Categories de Variables
+extern  CL_Vecteur<CL_Item>         *V_Variable;     //Variables
+
+extern  CL_Vecteur<CL_Calendrier>   *V_Calendrier;
+
+extern CL_Vecteur<CL_Agriculteur>   *V_Agriculteur;
+extern CL_Vecteur<CL_Ensemble>      *V_Ensemble;
+
+extern  CL_Vecteur<CL_Categorie>    *V_CatRepart;
+extern  CL_Vecteur<CL_Repart>       *V_Repart;       //240203
+
+
+extern CL_Vecteur<CL_EtatSortie>   *V_EtatSortie;
+extern CL_Vecteur<CL_EtatSortie>   *V_SerieComp;
+extern CL_Vecteur<CL_Procedure>    *V_Procedure;
+
+extern CL_Vecteur<CL_Indicateur>   *V_Indicateur;
+
+extern CL_Vecteur<CL_Elt>          *V_Intitule;
+extern CL_Vecteur<CL_Poste>	       *V_Poste;
+extern CL_Vecteur<CL_Elt>          *V_Elt;
+
+extern CL_Elt					   *EltTrait;
+extern CL_Elt 					   *EltBlanc;
+extern CL_Elt 					   *EltTitre;
+
+extern  CL_Agriculteur             *AgriEnCours;
+extern  CL_Ensemble                *EnsembleEnCours;
+extern  CL_SystemeUnite            *SysMonnaie;
+
+extern  CL_Vecteur<CL_Categorie>   *V_CatDico;
+extern  CL_Vecteur<CL_Item>    	   *V_Dico;
+
+extern  int Global;
+extern  CL_Tva *TvaDefaut;
+extern  CL_Tva *TvaImmo;
+
+extern  CL_Vecteur<CL_Tendance>      *V_TendPrixProd;
+extern  CL_Vecteur<CL_Tendance>      *V_TendPrixCharge;
+extern  CL_Vecteur<CL_Tendance>      *V_ScenPrixProd;
+extern  CL_Vecteur<CL_Tendance>      *V_ScenPrixCharge;
+
+extern  CL_Vecteur<CL_Tendance>      *V_TendQProd;
+extern  CL_Vecteur<CL_Tendance>      *V_TendQCharge;
+extern  CL_Vecteur<CL_Tendance>      *V_ScenQProd;
+extern  CL_Vecteur<CL_Tendance>      *V_ScenQCharge;
+extern  CL_Vecteur<CL_Tendance>      *V_TendQExt;
+extern  CL_Vecteur<CL_Tendance>      *V_ScenQExt;
+
+extern  CL_Vecteur<CL_AgriDefSim>    *V_DefSim;
+
+extern  AnsiString                   Notes;
+extern  CL_Conversion  *Conversion;
+extern  CL_Vecteur<CL_Conversion>     *V_Conversion;
+extern  AnsiString                   ExcelExe;
+
+ 
+ extern char CarConst;
+ extern char CarVar;
+ extern char CarDif;
+ extern char CarMens;
+ extern char CarSem;
+ extern char CarTrim;
+ extern char CarAn;
+
+ extern char CarPreCompte;
+ extern char CarNonPrecompte;
+
+ extern char CarEnt;
+ extern char CarPrive;
+ extern char CarPlactFin;
+ extern char CarPlactAn;
+
+ extern char CarDeg;
+ extern char CarLin;
+ extern char CarSans;
+
+// ESSAI !!!
+//extern    TStringGrid *LaGrille;
+  extern TStringList *LstNom;
+
+//....
+/*--------->
+extern CL_Vecteur<CL_NomCibleAlea> *V_NomCibleAlea;
+
+extern CL_Vecteur<CL_TypeAlea>     *V_TypeAlea;
+extern CL_Vecteur<CL_FamilleAlea>  *V_FamilleAlea;
+extern CL_Vecteur<CL_Alea>         *V_Alea;
+
+extern CL_Vecteur<CL_Simu>         *V_Simu;
+--------->*/

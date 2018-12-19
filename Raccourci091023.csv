@@ -1,0 +1,11 @@
+Raccourcis;
+nbRaccourci;9;
+T_Standard;  -;  -;Synthèse;Synthèse;T;0;0;
+T_Standard;  -;  -;Recettes Depenses;Recettes Depenses;T;0;0;
+T_Standard;  -;  -;QUANTITES;QUANTITES;T;0;0;
+T_Standard;Etats de sortie;Resultaten;Rundvee hoofdlijnen;Rundvee hoofdlijnen;T;0;20;
+G_Dictionnaire;Indicateurs;Reserving capacity;Reserveringscapaciteit;Reserveringscapaciteit;G;120;20;
+G_Dictionnaire;Poste;  -;Recettes Produits;Recettes Produits;G;120;100;
+G_Dictionnaire;Bilan;  -;Trésorerie;Trésorerie;G;120;0;
+C_Série Comparaisons;Resultaten melkvee;  -;Rundvee hoofdlijnen;Rundvee hoofdlijnen;C;28;0;
+G_Woordenboek;Indicatoren;Reserving capacity;Reserveringscapaciteit;Reserveringscapaciteit;G;120;20;

@@ -1,0 +1,633 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="Olympe2.exe"/>
+    <OBJFILES value="Olympe2.obj Main.obj LesClassesApp.obj FichierEcrire.obj FichierLire.obj 
+      FichierUtil.obj FichierAdresse.obj FichierElt.obj Tableur.obj 
+      TabResultat.obj Forme0.obj Forme00.obj TVChoix.obj LBChoix.obj 
+      LBChoixMC.obj TVDico.obj LBChoixMCInd.obj SysUnite.obj Tva.obj Espece.obj 
+      GereAtelier.obj Atelier.obj Atelier1.obj Atelier2.obj Atelier3.obj 
+      AtelierMarge.obj Indicateur.obj GereAgri.obj AgriSaisie.obj 
+      AgriSaisieVersG.obj AgriSaisieVerif.obj AgriSaisieReport.obj 
+      AgriSaisieCalculQuant.obj Resultat.obj Erreur.obj APropos.obj 
+      Compilateur.obj CompAnalex.obj CompCalcul.obj TVChoixItem.obj NouvAgri.obj 
+      NoteAgri.obj GereEnsemble.obj Ensemble.obj NoteEnsemble.obj 
+      TVVarianteAgri.obj AideEmpLT.obj AleaPrix.obj AleaPrix1.obj LBTChoix.obj 
+      TVPrixChoix.obj AleaPrix3.obj AleaPrix2.obj Emprunt.obj GereIndic.obj 
+      GereEtat.obj AgriSaisieTotal.obj TVVarianteEns.obj LBToutAgri.obj 
+      AgriSaisieStocker.obj CompFormule.obj AgriSaisieFormule.obj 
+      AgriSaisiePrepEcran.obj AgriSaisieCestBon.obj GereAleaPrix.obj 
+      AgriDefSim.obj Effacer.obj AleaRdt1.obj GereAleaRdt.obj AleaRdt.obj 
+      TVRdtChoix.obj AleaRdt2.obj FichierImp.obj AtelierMDetail.obj 
+      AtelierMDetailPerenne.obj LesDefSim.obj LBChoixTva.obj Tableur1.obj 
+      TabFinance.obj TabImmo.obj TabEtat.obj Forme01.obj Assol.obj 
+      TVChoixEtat.obj CL_MvtAnnee.obj MvtAnnee.obj EntreChaine.obj Util.obj 
+      AgriSaisieCalculEns.obj SituDepart.obj ConfigurationFrm.obj Conversion.obj 
+      LBSysUnit.obj AgriSaisieConversion.obj LBConversion.obj LBTva.obj 
+      QuelExcelCSV.obj TabAtelier.obj LBCompAgri.obj TVChoixComp.obj Tarif.obj 
+      TabComp.obj LBTypeZone.obj TriAgri.obj LBSelectionAgri.obj 
+      LBToutEnsemble.obj LBProduit.obj AgriSaisieVoir.obj TabCompta.obj 
+      Commercialisation.obj TVChoixProduit.obj AgriSaisieAgrege.obj 
+      CL_PolStock.obj QRGrille00.obj QRCatNom.obj QRCatNomTva.obj 
+      QRCatNomUnite.obj QRCatTout.obj QRSortieQuant.obj QRResSortieQuant.obj 
+      QRResEtat.obj QRResComparaison.obj QRAtelier.obj SortieEcran.obj 
+      TravCal.obj QRMemo.obj TravGraph.obj CL_SousPeriode.obj CL_Matrice.obj 
+      MvtAnnnee1.obj CL_BesTrav.obj TravCal1.obj TravCal0.obj ResGraph.obj 
+      AgriSaisieMarge.obj TVChoixMarge.obj AgriAtelierMarge.obj LBMarge.obj 
+      Treso.obj TresoRepart.obj FenRepart.obj TVChoixRepart.obj TresoRes.obj 
+      CL_TresoMens.obj CL_Comm.obj LesStocks.obj FenRepartDef.obj 
+      TVChoixAniProCha.obj Troupeau.obj TroupeauIni.obj TroupeauDe.obj 
+      TroupeauBouton.obj TroupeauMvt.obj TroupeauEffVal.obj LBChoixBestiaux.obj 
+      CL_BesTravAtelier.obj Motif.obj ChoixMotif.obj Motif2.obj 
+      AgriSaisieCalculValeur.obj CL_Passe.obj TVChoixCalendrier.obj 
+      AgriSaisieVideTout.obj AgriSaisieIniG.obj DefItem.obj DefZone.obj 
+      DefChStruct.obj DefVariable.obj DefProduit.obj DefBestiaux.obj 
+      GereCatItem.obj GereCatProduit.obj GereCatChStruct.obj GereCatVariable.obj 
+      GereCatZone.obj GereCatBestiaux.obj GereEspece.obj GereComparaison.obj 
+      GereCalendrier.obj DefCalendrier.obj CreeLB.obj DefEtatSortie.obj 
+      ErreurImmoSommaire.obj AgriSaisieControleCell.obj AgriSaisieDeG.obj 
+      TresoGraph.obj QrTresoVal.obj QrTresoQuant.obj TabAgri.obj AgriClasst.obj 
+      DefAction.obj LBChoixAction.obj TresoDefOccc.obj CL_PossibOcPlact.obj 
+      ActionRemplacer.obj DefProcedure.obj ErreurFinSommaire.obj CopierDans.obj 
+      FichierEcrireXml.obj GereProcedure.obj TVDonProcedure.obj CL_Procedure.obj 
+      CL_Don.obj CL_EltProc.obj QRResSortieVal.obj QRSortieVal.obj 
+      TresoCopieRepart.obj DefChProduit.obj CL_Trad.obj AgriDefSerie.obj 
+      Outil.obj AgriData.obj TypeEmpLT.obj TypeAmor.obj TypeEmpCT.obj 
+      TypePlact.obj SortieLD.obj Aide.obj hh.obj hh_funcs.obj D6OnHelpFix.obj 
+      TabCategorie.obj LireAccess.obj EcrireAccess.obj RacDef.obj ImpDelta.obj 
+      Requete.obj"/>
+    <RESFILES value="Olympe2.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) Main.dfm Forme0.dfm Forme00.dfm TVChoix.dfm LBChoix.dfm 
+      LBChoixMC.dfm TVDico.dfm LBChoixMCInd.dfm SysUnite.dfm Tva.dfm Espece.dfm 
+      GereAtelier.dfm Atelier.dfm AtelierMarge.dfm Indicateur.dfm GereAgri.dfm 
+      AgriSaisie.dfm Resultat.dfm Erreur.dfm APropos.dfm TVChoixItem.dfm 
+      NouvAgri.dfm NoteAgri.dfm GereEnsemble.dfm Ensemble.dfm NoteEnsemble.dfm 
+      TVVarianteAgri.dfm AideEmpLT.dfm AleaPrix.dfm LBTChoix.dfm TVPrixChoix.dfm 
+      GereIndic.dfm GereEtat.dfm TVVarianteEns.dfm LBToutAgri.dfm 
+      GereAleaPrix.dfm AgriDefSim.dfm Effacer.dfm GereAleaRdt.dfm AleaRdt.dfm 
+      TVRdtChoix.dfm AtelierMDetail.dfm AtelierMDetailPerenne.dfm LesDefSim.dfm 
+      LBChoixTva.dfm Forme01.dfm Assol.dfm TVChoixEtat.dfm MvtAnnee.dfm 
+      EntreChaine.dfm SituDepart.dfm ConfigurationFrm.dfm Conversion.dfm 
+      LBSysUnit.dfm LBConversion.dfm LBTva.dfm QuelExcelCSV.dfm LBCompAgri.dfm 
+      TVChoixComp.dfm Tarif.dfm LBTypeZone.dfm TriAgri.dfm LBSelectionAgri.dfm 
+      LBToutEnsemble.dfm LBProduit.dfm Commercialisation.dfm TVChoixProduit.dfm 
+      QRGrille00.dfm QRCatNom.dfm QRCatNomTva.dfm QRCatNomUnite.dfm 
+      QRCatTout.dfm QRSortieQuant.dfm QRAtelier.dfm SortieEcran.dfm TravCal.dfm 
+      QRMemo.dfm TravGraph.dfm ResGraph.dfm TVChoixMarge.dfm 
+      AgriAtelierMarge.dfm LBMarge.dfm Treso.dfm TresoRepart.dfm FenRepart.dfm 
+      TVChoixRepart.dfm TresoRes.dfm LesStocks.dfm FenRepartDef.dfm 
+      TVChoixAniProCha.dfm Troupeau.dfm LBChoixBestiaux.dfm Motif.dfm 
+      ChoixMotif.dfm Motif2.dfm TVChoixCalendrier.dfm DefItem.dfm DefZone.dfm 
+      DefChStruct.dfm DefVariable.dfm DefProduit.dfm DefBestiaux.dfm 
+      GereCatItem.dfm GereCatProduit.dfm GereCatChStruct.dfm GereCatVariable.dfm 
+      GereCatZone.dfm GereCatBestiaux.dfm GereEspece.dfm GereComparaison.dfm 
+      GereCalendrier.dfm DefCalendrier.dfm DefEtatSortie.dfm 
+      ErreurImmoSommaire.dfm TresoGraph.dfm QrTresoVal.dfm QrTresoQuant.dfm 
+      AgriClasst.dfm DefAction.dfm LBChoixAction.dfm TresoDefOccc.dfm 
+      ActionRemplacer.dfm DefProcedure.dfm ErreurFinSommaire.dfm CopierDans.dfm 
+      GereProcedure.dfm TVDonProcedure.dfm QRSortieVal.dfm TresoCopieRepart.dfm 
+      DefChProduit.dfm AgriDefSerie.dfm Outil.dfm AgriData.dfm TypeEmpLT.dfm 
+      TypeAmor.dfm TypeEmpCT.dfm TypePlact.dfm SortieLD.dfm Aide.dfm 
+      LireAccess.dfm EcrireAccess.dfm RacDef.dfm ImpDelta.dfm"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value="dss.lib bcb2kaxserver.lib indy.lib dbxcds.lib soaprtl.lib bcbie.lib 
+      nmfast.lib dbexpress.lib inetdbxpress.lib inetdbbde.lib dsnapcon.lib 
+      dsnapcrba.lib visualdbclx.lib teeqr.lib teedb.lib teeui.lib vcldbx.lib 
+      bdecds.lib cds.lib ibxpress.lib adortl.lib bcbsmp.lib inet.lib xmlrtl.lib 
+      bcb97axserver.lib qrpt.lib vcldb.lib dbrtl.lib bdertl.lib tee.lib 
+      dclocx.lib vclx.lib vcl.lib rtl.lib"/>
+    <SPARELIBS value="rtl.lib vcl.lib vclx.lib dclocx.lib tee.lib bdertl.lib dbrtl.lib vcldb.lib 
+      qrpt.lib bcb97axserver.lib xmlrtl.lib inet.lib bcbsmp.lib adortl.lib 
+      ibxpress.lib cds.lib bdecds.lib vcldbx.lib teeui.lib teedb.lib teeqr.lib 
+      visualdbclx.lib dsnapcrba.lib dsnapcon.lib inetdbbde.lib inetdbxpress.lib 
+      dbexpress.lib nmfast.lib bcbie.lib soaprtl.lib dbxcds.lib indy.lib 
+      bcb2kaxserver.lib dss.lib"/>
+    <PACKAGES value="vclx.bpi rtl.bpi vcl.bpi bcbsmp.bpi dclocx.bpi qrpt.bpi dbrtl.bpi 
+      vcldb.bpi bdertl.bpi vcldbx.bpi teeui.bpi vclsmp.bpi teedb.bpi tee.bpi 
+      ibsmp.bpi nmfast.bpi inetdb.bpi inet.bpi"/>
+    <PATHCPP value=".;"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG"/>
+    <SYSDEFINES value="NO_STRICT"/>
+    <MAINSOURCE value="Olympe2.cpp"/>
+    <INCLUDEPATH value="C:\OlymPac;&quot;C:\Program Files\Borland\CBuilder6\Examples\Doc\OleCtnrs&quot;;F:\Aout;&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;&quot;C:\Program Files\Borland\CBuilder6\Bin&quot;;&quot;C:\Program Files\Borland\CBuilder5\Projects&quot;;F:\nostests\testchoix;&quot;F:\program files\borland\cbuilder3\projects&quot;;F:\;F:\olympe2;&quot;c:\program files\borland\cbuilder3\bin&quot;;F:\nostests\grillemh;$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="C:\OlymPac;$(BCB)\Projects\Lib;&quot;C:\Program Files\Borland\CBuilder6\Examples\Doc\OleCtnrs&quot;;F:\Aout;&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;&quot;C:\Program Files\Borland\CBuilder6\Bin&quot;;&quot;C:\Program Files\Borland\CBuilder5\Projects&quot;;F:\nostests\testchoix;&quot;F:\program files\borland\cbuilder3\projects&quot;;&quot;F:\program files\borland\cbuilder3\lib&quot;;F:\;F:\olympe2;&quot;c:\program files\borland\cbuilder3\bin&quot;;F:\nostests\grillemh;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-wuse -w-par -w-8027 -w-8026"/>
+    <WARNOPTSTR value=""/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-src_suffix cpp -D_DEBUG -IC:\OlymPac 
+      -I&quot;C:\Program Files\Borland\CBuilder6\Examples\Doc\OleCtnrs&quot; -IF:\Aout 
+      -I&quot;C:\Program Files\Borland\CBuilder6\Projects&quot; 
+      -I&quot;C:\Program Files\Borland\CBuilder6\Bin&quot; 
+      -I&quot;C:\Program Files\Borland\CBuilder5\Projects&quot; -IF:\nostests\testchoix 
+      -I&quot;F:\program files\borland\cbuilder3\projects&quot; -IF:\. -IF:\olympe2 
+      -I&quot;c:\program files\borland\cbuilder3\bin&quot; -IF:\nostests\grillemh 
+      -I$(BCB)\include -I$(BCB)\include\vcl -boa"/>
+    <CFLAG1 value="-Od -Q -Vx -Ve -Tkh30000 -X- -r- -a8 -b- -d -k -y -v -vi- -c -tW -tWM"/>
+    <CFLAG2 value=""/>
+    <CFLAG3 value=""/>
+    <PFLAGS value="-$Y+ -$W -$O- -$A8 -v -M -JPHNE"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zi"/>
+    <LFLAGS value="-D&quot;&quot; -aa -Tpe -GD -x -Gn -v"/>
+    <IFLAGS value=""/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mt.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="Olympe2.cpp" FORMNAME="" UNITNAME="Olympe2" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Main.cpp" FORMNAME="MainForm" UNITNAME="Main" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="olympedec.h" FORMNAME="" UNITNAME="olympedec" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LesClassesApp.cpp" FORMNAME="" UNITNAME="LesClassesApp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FichierEcrire.cpp" FORMNAME="" UNITNAME="FichierEcrire" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FichierLire.cpp" FORMNAME="" UNITNAME="FichierLire" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FichierUtil.cpp" FORMNAME="" UNITNAME="FichierUtil" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FichierAdresse.cpp" FORMNAME="" UNITNAME="FichierAdresse" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FichierElt.cpp" FORMNAME="" UNITNAME="FichierElt" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LesVecteurs.h" FORMNAME="" UNITNAME="LesVecteurs" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LesVecteurs.hse" FORMNAME="" UNITNAME="LesVecteurs" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Tableur.cpp" FORMNAME="" UNITNAME="Tableur" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TabResultat.cpp" FORMNAME="" UNITNAME="TabResultat" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Olympe.h" FORMNAME="" UNITNAME="Olympe" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Olympe.hse" FORMNAME="" UNITNAME="Olympe" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Forme0.cpp" FORMNAME="Forme0Frm" UNITNAME="Forme0" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Forme00.cpp" FORMNAME="Forme00Frm" UNITNAME="Forme00" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVChoix.cpp" FORMNAME="TVChoixFrm" UNITNAME="TVChoix" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBChoix.cpp" FORMNAME="LBChoixFrm" UNITNAME="LBChoix" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBChoixMC.cpp" FORMNAME="LBChoixMCFrm" UNITNAME="LBChoixMC" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVDico.cpp" FORMNAME="TVDicoFrm" UNITNAME="TVDico" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBChoixMCInd.cpp" FORMNAME="LBChoixMCIndFrm" UNITNAME="LBChoixMCInd" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="SysUnite.cpp" FORMNAME="SysUniteFrm" UNITNAME="SysUnite" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Tva.cpp" FORMNAME="TvaFrm" UNITNAME="Tva" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Espece.cpp" FORMNAME="EspeceFrm" UNITNAME="Espece" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereAtelier.cpp" FORMNAME="GereAtelierFrm" UNITNAME="GereAtelier" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Atelier.cpp" FORMNAME="AtelierFrm" UNITNAME="Atelier" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Atelier1.cpp" FORMNAME="" UNITNAME="Atelier1" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Atelier2.cpp" FORMNAME="" UNITNAME="Atelier2" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Atelier3.cpp" FORMNAME="" UNITNAME="Atelier3" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AtelierMarge.cpp" FORMNAME="AtelierMargeFrm" UNITNAME="AtelierMarge" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Indicateur.cpp" FORMNAME="IndicateurFrm" UNITNAME="Indicateur" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereAgri.cpp" FORMNAME="GereAgriFrm" UNITNAME="GereAgri" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisie.cpp" FORMNAME="AgriSaisieFrm" UNITNAME="AgriSaisie" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieVersG.cpp" FORMNAME="" UNITNAME="AgriSaisieVersG" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieVerif.cpp" FORMNAME="" UNITNAME="AgriSaisieVerif" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieReport.cpp" FORMNAME="" UNITNAME="AgriSaisieReport" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieCalculQuant.cpp" FORMNAME="" UNITNAME="AgriSaisieCalculQuant" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Resultat.cpp" FORMNAME="ResultatFrm" UNITNAME="Resultat" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Erreur.cpp" FORMNAME="ErreurFrm" UNITNAME="Erreur" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="APropos.cpp" FORMNAME="AProposFrm" UNITNAME="APropos" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Compilateur.cpp" FORMNAME="" UNITNAME="Compilateur" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CompAnalex.cpp" FORMNAME="" UNITNAME="CompAnalex" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CompCalcul.cpp" FORMNAME="" UNITNAME="CompCalcul" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVChoixItem.cpp" FORMNAME="TVChoixItemFrm" UNITNAME="TVChoixItem" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="NouvAgri.cpp" FORMNAME="NouvAgriFrm" UNITNAME="NouvAgri" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="NoteAgri.cpp" FORMNAME="NoteAgriFrm" UNITNAME="NoteAgri" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereEnsemble.cpp" FORMNAME="GereEnsembleFrm" UNITNAME="GereEnsemble" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Ensemble.cpp" FORMNAME="EnsembleFrm" UNITNAME="Ensemble" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="NoteEnsemble.cpp" FORMNAME="NoteEnsembleFrm" UNITNAME="NoteEnsemble" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Olympe2.res" FORMNAME="" UNITNAME="Olympe2" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVVarianteAgri.cpp" FORMNAME="TVVarianteAgriFrm" UNITNAME="TVVarianteAgri" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Olympe2.todo" FORMNAME="" UNITNAME="Olympe2" CONTAINERID="ToDo" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AideEmpLT.cpp" FORMNAME="AideEmpLTFrm" UNITNAME="AideEmpLT" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AleaPrix.cpp" FORMNAME="AleaPrixFrm" UNITNAME="AleaPrix" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AleaPrix1.cpp" FORMNAME="" UNITNAME="AleaPrix1" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBTChoix.cpp" FORMNAME="LBTChoixFrm" UNITNAME="LBTChoix" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVPrixChoix.cpp" FORMNAME="TVPrixChoixFrm" UNITNAME="TVPrixChoix" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AleaPrix3.cpp" FORMNAME="" UNITNAME="AleaPrix3" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AleaPrix2.cpp" FORMNAME="" UNITNAME="AleaPrix2" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Emprunt.cpp" FORMNAME="" UNITNAME="Emprunt" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereIndic.cpp" FORMNAME="GereIndicFrm" UNITNAME="GereIndic" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereEtat.cpp" FORMNAME="GereEtatFrm" UNITNAME="GereEtat" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieTotal.cpp" FORMNAME="" UNITNAME="AgriSaisieTotal" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVVarianteEns.cpp" FORMNAME="TVVarianteEnsFrm" UNITNAME="TVVarianteEns" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBToutAgri.cpp" FORMNAME="LBToutAgriFrm" UNITNAME="LBToutAgri" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieStocker.cpp" FORMNAME="" UNITNAME="AgriSaisieStocker" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CompFormule.cpp" FORMNAME="" UNITNAME="CompFormule" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieFormule.cpp" FORMNAME="" UNITNAME="AgriSaisieFormule" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisiePrepEcran.cpp" FORMNAME="" UNITNAME="AgriSaisiePrepEcran" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieCestBon.cpp" FORMNAME="" UNITNAME="AgriSaisieCestBon" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereAleaPrix.cpp" FORMNAME="GereAleaPrixFrm" UNITNAME="GereAleaPrix" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriDefSim.cpp" FORMNAME="AgriDefSimFrm" UNITNAME="AgriDefSim" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Effacer.cpp" FORMNAME="EffacerFrm" UNITNAME="Effacer" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AleaRdt1.cpp" FORMNAME="" UNITNAME="AleaRdt1" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereAleaRdt.cpp" FORMNAME="GereAleaRdtFrm" UNITNAME="GereAleaRdt" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AleaRdt.cpp" FORMNAME="AleaRdtFrm" UNITNAME="AleaRdt" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVRdtChoix.cpp" FORMNAME="TVRdtChoixFrm" UNITNAME="TVRdtChoix" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AleaRdt2.cpp" FORMNAME="" UNITNAME="AleaRdt2" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FichierImp.cpp" FORMNAME="" UNITNAME="FichierImp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AtelierMDetail.cpp" FORMNAME="AtelierMDetailFrm" UNITNAME="AtelierMDetail" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AtelierMDetailPerenne.cpp" FORMNAME="AtelierMDetailPerenneFrm" UNITNAME="AtelierMDetailPerenne" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TendanceEnum.h" FORMNAME="" UNITNAME="TendanceEnum" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LesDefSim.cpp" FORMNAME="LesDefSimFrm" UNITNAME="LesDefSim" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBChoixTva.cpp" FORMNAME="LBChoixTvaFrm" UNITNAME="LBChoixTva" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Tableur1.cpp" FORMNAME="" UNITNAME="Tableur1" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TabFinance.cpp" FORMNAME="" UNITNAME="TabFinance" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TabImmo.cpp" FORMNAME="" UNITNAME="TabImmo" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TabEtat.cpp" FORMNAME="" UNITNAME="TabEtat" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Forme01.cpp" FORMNAME="Forme01Frm" UNITNAME="Forme01" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Assol.cpp" FORMNAME="AssolFrm" UNITNAME="Assol" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVChoixEtat.cpp" FORMNAME="TVChoixEtatFrm" UNITNAME="TVChoixEtat" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_MvtAnnee.cpp" FORMNAME="" UNITNAME="CL_MvtAnnee" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MvtAnnee.cpp" FORMNAME="MvtAnneeFrm" UNITNAME="MvtAnnee" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="EntreChaine.cpp" FORMNAME="EntreChaineFrm" UNITNAME="EntreChaine" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Util.cpp" FORMNAME="" UNITNAME="Util" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieCalculEns.cpp" FORMNAME="" UNITNAME="AgriSaisieCalculEns" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="SituDepart.cpp" FORMNAME="SituDepartFrm" UNITNAME="SituDepart" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ConfigurationFrm.cpp" FORMNAME="ConfigFrm" UNITNAME="ConfigurationFrm" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Conversion.cpp" FORMNAME="ConversionFrm" UNITNAME="Conversion" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBSysUnit.cpp" FORMNAME="LBSysUnitFrm" UNITNAME="LBSysUnit" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieConversion.cpp" FORMNAME="" UNITNAME="AgriSaisieConversion" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBConversion.cpp" FORMNAME="LBConversionFrm" UNITNAME="LBConversion" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBTva.cpp" FORMNAME="LBTvaFrm" UNITNAME="LBTva" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QuelExcelCSV.cpp" FORMNAME="QuelExcelCSVFrm" UNITNAME="QuelExcelCSV" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TabAtelier.cpp" FORMNAME="" UNITNAME="TabAtelier" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBCompAgri.cpp" FORMNAME="LBCompAgriFrm" UNITNAME="LBCompAgri" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVChoixComp.cpp" FORMNAME="TVChoixCompFrm" UNITNAME="TVChoixComp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Tarif.cpp" FORMNAME="TarifFrm" UNITNAME="Tarif" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TabComp.cpp" FORMNAME="" UNITNAME="TabComp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBTypeZone.cpp" FORMNAME="LBTypeZoneFrm" UNITNAME="LBTypeZone" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TriAgri.cpp" FORMNAME="TriAgriFrm" UNITNAME="TriAgri" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBSelectionAgri.cpp" FORMNAME="LBSelectionAgriFrm" UNITNAME="LBSelectionAgri" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBToutEnsemble.cpp" FORMNAME="LBToutEnsembleFrm" UNITNAME="LBToutEnsemble" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBProduit.cpp" FORMNAME="LBProduitFrm" UNITNAME="LBProduit" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieVoir.cpp" FORMNAME="" UNITNAME="AgriSaisieVoir" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TabCompta.cpp" FORMNAME="" UNITNAME="TabCompta" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Commercialisation.cpp" FORMNAME="CommercialisationFrm" UNITNAME="Commercialisation" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVChoixProduit.cpp" FORMNAME="TVChoixProduitFrm" UNITNAME="TVChoixProduit" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieAgrege.cpp" FORMNAME="" UNITNAME="AgriSaisieAgrege" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_PolStock.cpp" FORMNAME="" UNITNAME="CL_PolStock" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRGrille00.cpp" FORMNAME="QRGrille00Frm" UNITNAME="QRGrille00" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRCatNom.cpp" FORMNAME="QRCatNomFrm" UNITNAME="QRCatNom" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRCatNomTva.cpp" FORMNAME="QRCatNomTvaFrm" UNITNAME="QRCatNomTva" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRCatNomUnite.cpp" FORMNAME="QRCatNomUniteFrm" UNITNAME="QRCatNomUnite" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRCatTout.cpp" FORMNAME="QRCatToutFrm" UNITNAME="QRCatTout" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRSortieQuant.cpp" FORMNAME="QRSortieQuantFrm" UNITNAME="QRSortieQuant" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRResSortieQuant.cpp" FORMNAME="" UNITNAME="QRResSortieQuant" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRResEtat.cpp" FORMNAME="" UNITNAME="QRResEtat" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRResComparaison.cpp" FORMNAME="" UNITNAME="QRResComparaison" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRAtelier.cpp" FORMNAME="QRAtelierFrm" UNITNAME="QRAtelier" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="SortieEcran.cpp" FORMNAME="SortieEcranFrm" UNITNAME="SortieEcran" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TravCal.cpp" FORMNAME="TravCalFrm" UNITNAME="TravCal" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRMemo.cpp" FORMNAME="QRMemoFrm" UNITNAME="QRMemo" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TravGraph.cpp" FORMNAME="TravGraphFrm" UNITNAME="TravGraph" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_SousPeriode.cpp" FORMNAME="" UNITNAME="CL_SousPeriode" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_Matrice.cpp" FORMNAME="" UNITNAME="CL_Matrice" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MvtAnnnee1.cpp" FORMNAME="" UNITNAME="MvtAnnnee1" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_BesTrav.cpp" FORMNAME="" UNITNAME="CL_BesTrav" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TravCal1.cpp" FORMNAME="" UNITNAME="TravCal1" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TravCal0.cpp" FORMNAME="" UNITNAME="TravCal0" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ResGraph.cpp" FORMNAME="ResGraphFrm" UNITNAME="ResGraph" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieMarge.cpp" FORMNAME="" UNITNAME="AgriSaisieMarge" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVChoixMarge.cpp" FORMNAME="TVChoixMargeFrm" UNITNAME="TVChoixMarge" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriAtelierMarge.cpp" FORMNAME="AgriAtelierMargeFrm" UNITNAME="AgriAtelierMarge" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBMarge.cpp" FORMNAME="LBMargeFrm" UNITNAME="LBMarge" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Treso.cpp" FORMNAME="TresoFrm" UNITNAME="Treso" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TresoRepart.cpp" FORMNAME="TresoRepartFrm" UNITNAME="TresoRepart" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FenRepart.cpp" FORMNAME="FenRepartFrm" UNITNAME="FenRepart" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVChoixRepart.cpp" FORMNAME="TVChoixRepartFrm" UNITNAME="TVChoixRepart" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TresoRes.cpp" FORMNAME="TresoResFrm" UNITNAME="TresoRes" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_TresoMens.cpp" FORMNAME="" UNITNAME="CL_TresoMens" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_Comm.cpp" FORMNAME="" UNITNAME="CL_Comm" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LesStocks.cpp" FORMNAME="LesStocksFrm" UNITNAME="LesStocks" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FenRepartDef.cpp" FORMNAME="FenRepartDefFrm" UNITNAME="FenRepartDef" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVChoixAniProCha.cpp" FORMNAME="TVChoixAniProChaFrm" UNITNAME="TVChoixAniProCha" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Troupeau.cpp" FORMNAME="TroupeauFrm" UNITNAME="Troupeau" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TroupeauIni.cpp" FORMNAME="" UNITNAME="TroupeauIni" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TroupeauDe.cpp" FORMNAME="" UNITNAME="TroupeauDe" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TroupeauBouton.cpp" FORMNAME="" UNITNAME="TroupeauBouton" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TroupeauMvt.cpp" FORMNAME="" UNITNAME="TroupeauMvt" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TroupeauEffVal.cpp" FORMNAME="" UNITNAME="TroupeauEffVal" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBChoixBestiaux.cpp" FORMNAME="LBChoixBestiauxFrm" UNITNAME="LBChoixBestiaux" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_BesTravAtelier.cpp" FORMNAME="" UNITNAME="CL_BesTravAtelier" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Motif.cpp" FORMNAME="MotifFrm" UNITNAME="Motif" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ChoixMotif.cpp" FORMNAME="ChoixMotifFrm" UNITNAME="ChoixMotif" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Motif2.cpp" FORMNAME="Motif2Frm" UNITNAME="Motif2" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieCalculValeur.cpp" FORMNAME="" UNITNAME="AgriSaisieCalculValeur" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_Passe.cpp" FORMNAME="" UNITNAME="CL_Passe" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVChoixCalendrier.cpp" FORMNAME="TVChoixCalendrierFrm" UNITNAME="TVChoixCalendrier" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieVideTout.cpp" FORMNAME="" UNITNAME="AgriSaisieVideTout" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieIniG.cpp" FORMNAME="" UNITNAME="AgriSaisieIniG" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="DefItem.cpp" FORMNAME="DefItemFrm" UNITNAME="DefItem" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="DefZone.cpp" FORMNAME="DefZoneFrm" UNITNAME="DefZone" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="DefChStruct.cpp" FORMNAME="DefChStructFrm" UNITNAME="DefChStruct" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="DefVariable.cpp" FORMNAME="DefVariableFrm" UNITNAME="DefVariable" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="DefProduit.cpp" FORMNAME="DefProduitFrm" UNITNAME="DefProduit" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="DefBestiaux.cpp" FORMNAME="DefBestiauxFrm" UNITNAME="DefBestiaux" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereCatItem.cpp" FORMNAME="GereCatItemFrm" UNITNAME="GereCatItem" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereCatProduit.cpp" FORMNAME="GereCatProduitFrm" UNITNAME="GereCatProduit" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereCatChStruct.cpp" FORMNAME="GereCatChStructFrm" UNITNAME="GereCatChStruct" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereCatVariable.cpp" FORMNAME="GereCatVariableFrm" UNITNAME="GereCatVariable" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereCatZone.cpp" FORMNAME="GereCatZoneFrm" UNITNAME="GereCatZone" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereCatBestiaux.cpp" FORMNAME="GereCatBestiauxFrm" UNITNAME="GereCatBestiaux" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereEspece.cpp" FORMNAME="GereEspeceFrm" UNITNAME="GereEspece" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereComparaison.cpp" FORMNAME="GereComparaisonFrm" UNITNAME="GereComparaison" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereCalendrier.cpp" FORMNAME="GereCalendrierFrm" UNITNAME="GereCalendrier" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="DefCalendrier.cpp" FORMNAME="DefCalendrierFrm" UNITNAME="DefCalendrier" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CreeLB.cpp" FORMNAME="" UNITNAME="CreeLB" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="DefEtatSortie.cpp" FORMNAME="DefEtatSortieFrm" UNITNAME="DefEtatSortie" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ErreurImmoSommaire.cpp" FORMNAME="ErreurImmoSommaireFrm" UNITNAME="ErreurImmoSommaire" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieControleCell.cpp" FORMNAME="" UNITNAME="AgriSaisieControleCell" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriSaisieDeG.cpp" FORMNAME="" UNITNAME="AgriSaisieDeG" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TresoGraph.cpp" FORMNAME="TresoGraphFrm" UNITNAME="TresoGraph" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QrTresoVal.cpp" FORMNAME="QRTresoValFrm" UNITNAME="QrTresoVal" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QrTresoQuant.cpp" FORMNAME="QRTresoQuantFrm" UNITNAME="QrTresoQuant" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TabAgri.cpp" FORMNAME="" UNITNAME="TabAgri" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriClasst.cpp" FORMNAME="AgriClasstFrm" UNITNAME="AgriClasst" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="DefAction.cpp" FORMNAME="DefActionFrm" UNITNAME="DefAction" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LBChoixAction.cpp" FORMNAME="LBChoixActionFrm" UNITNAME="LBChoixAction" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TresoDefOccc.cpp" FORMNAME="TresoDefOcccFrm" UNITNAME="TresoDefOccc" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_PossibOcPlact.cpp" FORMNAME="" UNITNAME="CL_PossibOcPlact" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ActionRemplacer.cpp" FORMNAME="ActionRemplacerFrm" UNITNAME="ActionRemplacer" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="DefProcedure.cpp" FORMNAME="DefProcedureFrm" UNITNAME="DefProcedure" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ErreurFinSommaire.cpp" FORMNAME="ErreurFinSommaireFrm" UNITNAME="ErreurFinSommaire" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CopierDans.cpp" FORMNAME="CopierDansFrm" UNITNAME="CopierDans" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FichierEcrireXml.cpp" FORMNAME="" UNITNAME="FichierEcrireXml" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="GereProcedure.cpp" FORMNAME="GereProcedureFrm" UNITNAME="GereProcedure" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TVDonProcedure.cpp" FORMNAME="TVDonProcedureFrm" UNITNAME="TVDonProcedure" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_Procedure.cpp" FORMNAME="" UNITNAME="CL_Procedure" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_Don.cpp" FORMNAME="" UNITNAME="CL_Don" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_EltProc.cpp" FORMNAME="" UNITNAME="CL_EltProc" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRResSortieVal.cpp" FORMNAME="" UNITNAME="QRResSortieVal" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="QRSortieVal.cpp" FORMNAME="QRSortieValFrm" UNITNAME="QRSortieVal" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TresoCopieRepart.cpp" FORMNAME="TresoCopieRepartFrm" UNITNAME="TresoCopieRepart" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="DefChProduit.cpp" FORMNAME="DefChProduitFrm" UNITNAME="DefChProduit" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CL_Trad.cpp" FORMNAME="" UNITNAME="CL_Trad" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriDefSerie.cpp" FORMNAME="AgriDefSerieFrm" UNITNAME="AgriDefSerie" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Outil.cpp" FORMNAME="OutilFrm" UNITNAME="Outil" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="AgriData.cpp" FORMNAME="AgriDataFrm" UNITNAME="AgriData" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TypeEmpLT.cpp" FORMNAME="TypeEmpLTFrm" UNITNAME="TypeEmpLT" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TypeAmor.cpp" FORMNAME="TypeAmorFrm" UNITNAME="TypeAmor" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TypeEmpCT.cpp" FORMNAME="TypeEmpCTFrm" UNITNAME="TypeEmpCT" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TypePlact.cpp" FORMNAME="TypePlactFrm" UNITNAME="TypePlact" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="SortieLD.cpp" FORMNAME="SortieLDFrm" UNITNAME="SortieLD" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Aide.cpp" FORMNAME="AideFrm" UNITNAME="Aide" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="hh.pas" FORMNAME="" UNITNAME="hh.pas" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="hh_funcs.pas" FORMNAME="" UNITNAME="hh_funcs.pas" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="D6OnHelpFix.pas" FORMNAME="" UNITNAME="D6OnHelpFix.pas" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TabCategorie.cpp" FORMNAME="" UNITNAME="TabCategorie" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LireAccess.cpp" FORMNAME="LireAccessFrm" UNITNAME="LireAccess" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="EcrireAccess.cpp" FORMNAME="EcrireAccessFrm" UNITNAME="EcrireAccess" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="RacDef.cpp" FORMNAME="RacDefFrm" UNITNAME="RacDef" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ImpDelta.cpp" FORMNAME="ImpDeltaFrm" UNITNAME="ImpDelta" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Requete.cpp" FORMNAME="" UNITNAME="Requete" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=1
+AutoIncBuild=0
+MajorVer=1
+MinorVer=3
+Release=4
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1036
+CodePage=1252
+
+[Version Info Keys]
+CompanyName=INRA-CIRAD
+FileDescription=Olympe
+FileVersion=1.3.4.0
+InternalName=Olympe
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=Olympe2
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[Excluded Packages]
+c:\program files\borland\cbuilder6\Bin\dcldss60.bpl=Composants Decision Cube Borland
+C:\Program Files\Borland\CBuilder6\Bin\dcltee60.bpl=Composants TeeChart
+C:\Program Files\Borland\CBuilder6\Bin\dclbde60.bpl=Composants BD BDE Borland
+C:\Program Files\Borland\CBuilder6\Bin\dbx60.bpl=Paquet d'interface Explorateur SQL Borland
+c:\program files\borland\cbuilder6\Bin\dcltqr60.bpl=Composants TeeChart pour QuickReport
+c:\program files\borland\cbuilder6\Bin\DBWEBXPRT.BPL=Paquet Expert Web Borland
+
+[HistoryLists\hlIncludePath]
+Count=13
+Item0=C:\OlymPac;C:\Program Files\Borland\CBuilder6\Examples\Doc\OleCtnrs;F:\Aout;C:\Program Files\Borland\CBuilder6\Projects;C:\Program Files\Borland\CBuilder6\Bin;C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\include;$(BCB)\include\vcl
+Item1=C:\Program Files\Borland\CBuilder6\Examples\Doc\OleCtnrs;F:\Aout;C:\Program Files\Borland\CBuilder6\Projects;C:\Program Files\Borland\CBuilder6\Bin;C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\include;$(BCB)\include\vcl
+Item2=F:\Aout;C:\Program Files\Borland\CBuilder6\Projects;C:\Program Files\Borland\CBuilder6\Bin;C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\include;$(BCB)\include\vcl
+Item3=C:\Program Files\Borland\CBuilder6\Projects;C:\Program Files\Borland\CBuilder6\Bin;C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\include;$(BCB)\include\vcl
+Item4=C:\Program Files\Borland\CBuilder6\Bin;C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\include;$(BCB)\include\vcl
+Item5=C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\include;$(BCB)\include\vcl
+Item6=C:\Program Files\Borland\CBuilder5\Projects\;F:\nostests\testchoix\;F:\program files\borland\cbuilder3\projects\;F:\;F:\olympe2\;c:\program files\borland\cbuilder3\bin\;F:\nostests\grillemh\;$(BCB)\include;$(BCB)\include\vcl
+Item7=A:\;C:\Program Files\Borland\CBuilder5\Projects\;F:\nostests\testchoix\;F:\program files\borland\cbuilder3\projects\;F:\;F:\olympe2\;c:\program files\borland\cbuilder3\bin\;F:\nostests\grillemh\;$(BCB)\include;$(BCB)\include\vcl
+Item8=C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix\;F:\program files\borland\cbuilder3\projects\;F:\;F:\olympe2\;c:\program files\borland\cbuilder3\bin\;F:\nostests\grillemh\;$(BCB)\include;$(BCB)\include\vcl
+Item9=F:\nostests\testchoix\;F:\program files\borland\cbuilder3\projects\;F:\;F:\olympe2\;c:\program files\borland\cbuilder3\bin\;F:\nostests\grillemh\;$(BCB)\include;$(BCB)\include\vcl
+Item10=..\nostests\testchoix;..\program files\borland\cbuilder3\projects;..\;..\olympe2;c:\program files\borland\cbuilder3\bin;..\nostests\grillemh;$(BCB)\include;$(BCB)\include\vcl
+Item11=..\program files\borland\cbuilder3\projects;..\;..\olympe2;c:\program files\borland\cbuilder3\bin;..\nostests\grillemh;$(BCB)\include;$(BCB)\include\vcl
+Item12=..\;..\olympe2;c:\program files\borland\cbuilder3\bin;..\nostests\grillemh;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=14
+Item0=C:\OlymPac;$(BCB)\Projects\Lib;C:\Program Files\Borland\CBuilder6\Examples\Doc\OleCtnrs;F:\Aout;C:\Program Files\Borland\CBuilder6\Projects;C:\Program Files\Borland\CBuilder6\Bin;C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\program files\borland\cbuilder3\lib;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\lib\obj;$(BCB)\lib
+Item1=$(BCB)\Projects\Lib;C:\Program Files\Borland\CBuilder6\Examples\Doc\OleCtnrs;F:\Aout;C:\Program Files\Borland\CBuilder6\Projects;C:\Program Files\Borland\CBuilder6\Bin;C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\program files\borland\cbuilder3\lib;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\lib\obj;$(BCB)\lib
+Item2=C:\Program Files\Borland\CBuilder6\Examples\Doc\OleCtnrs;F:\Aout;C:\Program Files\Borland\CBuilder6\Projects;C:\Program Files\Borland\CBuilder6\Bin;C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\program files\borland\cbuilder3\lib;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\lib\obj;$(BCB)\lib
+Item3=F:\Aout;C:\Program Files\Borland\CBuilder6\Projects;C:\Program Files\Borland\CBuilder6\Bin;C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\program files\borland\cbuilder3\lib;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\lib\obj;$(BCB)\lib
+Item4=C:\Program Files\Borland\CBuilder6\Projects;C:\Program Files\Borland\CBuilder6\Bin;C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\program files\borland\cbuilder3\lib;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\lib\obj;$(BCB)\lib
+Item5=C:\Program Files\Borland\CBuilder6\Bin;C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\program files\borland\cbuilder3\lib;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\lib\obj;$(BCB)\lib
+Item6=C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix;F:\program files\borland\cbuilder3\projects;F:\program files\borland\cbuilder3\lib;F:\;F:\olympe2;c:\program files\borland\cbuilder3\bin;F:\nostests\grillemh;$(BCB)\lib\obj;$(BCB)\lib
+Item7=C:\Program Files\Borland\CBuilder5\Projects\;F:\nostests\testchoix\;F:\program files\borland\cbuilder3\projects\;F:\program files\borland\cbuilder3\lib\;F:\;F:\olympe2\;c:\program files\borland\cbuilder3\bin\;F:\nostests\grillemh\;$(BCB)\lib\obj;$(BCB)\lib
+Item8=A:\;C:\Program Files\Borland\CBuilder5\Projects\;F:\nostests\testchoix\;F:\program files\borland\cbuilder3\projects\;F:\program files\borland\cbuilder3\lib\;F:\;F:\olympe2\;c:\program files\borland\cbuilder3\bin\;F:\nostests\grillemh\;$(BCB)\lib\obj;$(BCB)\lib
+Item9=C:\Program Files\Borland\CBuilder5\Projects;F:\nostests\testchoix\;F:\program files\borland\cbuilder3\projects\;F:\program files\borland\cbuilder3\lib\;F:\;F:\olympe2\;c:\program files\borland\cbuilder3\bin\;F:\nostests\grillemh\;$(BCB)\lib\obj;$(BCB)\lib
+Item10=F:\nostests\testchoix\;F:\program files\borland\cbuilder3\projects\;F:\program files\borland\cbuilder3\lib\;F:\;F:\olympe2\;c:\program files\borland\cbuilder3\bin\;F:\nostests\grillemh\;$(BCB)\lib\obj;$(BCB)\lib
+Item11=..\nostests\testchoix;..\program files\borland\cbuilder3\projects;..\program files\borland\cbuilder3\lib;..\;..\olympe2;c:\program files\borland\cbuilder3\bin;..\nostests\grillemh;$(BCB)\lib\obj;$(BCB)\lib
+Item12=..\program files\borland\cbuilder3\projects;..\program files\borland\cbuilder3\lib;..\;..\olympe2;c:\program files\borland\cbuilder3\bin;..\nostests\grillemh;$(BCB)\lib\obj;$(BCB)\lib
+Item13=..\;..\olympe2;c:\program files\borland\cbuilder3\bin;..\nostests\grillemh;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=4
+Item0=_DEBUG
+Item1=USEPACKAGES
+Item2=_RTLDLL
+Item3=_RTLDLL;USEPACKAGES
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=E:\TP_2012\_Modele.oly
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=1
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Resource DLL Projects]
+Item0=Anglais (États-Unis)*0x00000409*ENU*ENU
+
+[RDP Source Files]
+Item0=Main.dfm
+Item1=Forme0.dfm
+Item2=Forme00.dfm
+Item3=TVChoix.dfm
+Item4=LBChoix.dfm
+Item5=LBChoixMC.dfm
+Item6=TVDico.dfm
+Item7=LBChoixMCInd.dfm
+Item8=SysUnite.dfm
+Item9=Tva.dfm
+Item10=Espece.dfm
+Item11=GereAtelier.dfm
+Item12=Atelier.dfm
+Item13=AtelierMarge.dfm
+Item14=Indicateur.dfm
+Item15=GereAgri.dfm
+Item16=AgriSaisie.dfm
+Item17=Resultat.dfm
+Item18=Erreur.dfm
+Item19=APropos.dfm
+Item20=TVChoixItem.dfm
+Item21=NouvAgri.dfm
+Item22=NoteAgri.dfm
+Item23=GereEnsemble.dfm
+Item24=Ensemble.dfm
+Item25=NoteEnsemble.dfm
+Item26=TVVarianteAgri.dfm
+Item27=AideEmpLT.dfm
+Item28=AleaPrix.dfm
+Item29=LBTChoix.dfm
+Item30=TVPrixChoix.dfm
+Item31=GereIndic.dfm
+Item32=GereEtat.dfm
+Item33=TVVarianteEns.dfm
+Item34=LBToutAgri.dfm
+Item35=GereAleaPrix.dfm
+Item36=AgriDefSim.dfm
+Item37=Effacer.dfm
+Item38=GereAleaRdt.dfm
+Item39=AleaRdt.dfm
+Item40=TVRdtChoix.dfm
+Item41=AtelierMDetail.dfm
+Item42=AtelierMDetailPerenne.dfm
+Item43=LesDefSim.dfm
+Item44=LBChoixTva.dfm
+Item45=Forme01.dfm
+Item46=Assol.dfm
+Item47=TVChoixEtat.dfm
+Item48=MvtAnnee.dfm
+Item49=EntreChaine.dfm
+Item50=SituDepart.dfm
+Item51=ConfigurationFrm.dfm
+Item52=Conversion.dfm
+Item53=LBSysUnit.dfm
+Item54=LBConversion.dfm
+Item55=LBTva.dfm
+Item56=QuelExcelCSV.dfm
+Item57=LBCompAgri.dfm
+Item58=TVChoixComp.dfm
+Item59=Tarif.dfm
+Item60=LBTypeZone.dfm
+Item61=TriAgri.dfm
+Item62=LBSelectionAgri.dfm
+Item63=LBToutEnsemble.dfm
+Item64=LBProduit.dfm
+Item65=Commercialisation.dfm
+Item66=TVChoixProduit.dfm
+Item67=QRSortieVal.dfm
+Item68=QRGrille00.dfm
+Item69=QRCatNom.dfm
+Item70=QRCatNomTva.dfm
+Item71=QRCatNomUnite.dfm
+Item72=QRCatTout.dfm
+Item73=QRSortieQuant.dfm
+Item74=QRAtelier.dfm
+Item75=SortieEcran.dfm
+Item76=TravCal.dfm
+Item77=QRMemo.dfm
+Item78=TravGraph.dfm
+Item79=ResGraph.dfm
+Item80=TVChoixMarge.dfm
+Item81=AgriAtelierMarge.dfm
+Item82=LBMarge.dfm
+Item83=Treso.dfm
+Item84=TresoRepart.dfm
+Item85=FenRepart.dfm
+Item86=TVChoixRepart.dfm
+Item87=TresoRes.dfm
+Item88=LesStocks.dfm
+Item89=FenRepartDef.dfm
+Item90=TresoQouV.dfm
+Item91=TVChoixAniProCha.dfm
+Item92=Troupeau.dfm
+Item93=LBChoixBestiaux.dfm
+Item94=Motif.dfm
+Item95=ChoixMotif.dfm
+Item96=Motif2.dfm
+Item97=TVChoixCalendrier.dfm
+Item98=DefItem.dfm
+Item99=DefZone.dfm
+Item100=DefChStruct.dfm
+Item101=DefVariable.dfm
+Item102=DefProduit.dfm
+Item103=DefBestiaux.dfm
+Item104=GereCatItem.dfm
+Item105=GereCatProduit.dfm
+Item106=GereCatChStruct.dfm
+Item107=GereCatVariable.dfm
+Item108=GereCatZone.dfm
+Item109=GereCatBestiaux.dfm
+Item110=GereEspece.dfm
+Item111=GereComparaison.dfm
+Item112=GereCalendrier.dfm
+Item113=DefCalendrier.dfm
+Item114=DefEtatSortie.dfm
+Item115=ErreurImmoSommaire.dfm
+Item116=TresoGraph.dfm
+Item117=QrTresoVal.dfm
+Item118=QrTresoQuant.dfm
+Item119=AgriClasst.dfm
+Item120=DefAction.dfm
+Item121=LBChoixMCAction.dfm
+Item122=TresoDefOccc.dfm
+Item123=Olympe2.drc
+
+[Language]
+ActiveLang=
+ProjectLang=0x0000040C
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

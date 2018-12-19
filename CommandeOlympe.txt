@@ -1,0 +1,6 @@
+c:\olympeInter\TestProc\TPregProc.oly
+F
+gmbtb
+c:\olympeInter\TestProc\Procedures.xml
+CatProc1
+Proc1

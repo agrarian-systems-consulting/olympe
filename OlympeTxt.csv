@@ -1,0 +1,1117 @@
+//Le 19/08/10;modifié 853;;;;;
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AgriAtelierMargeFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+AgriAtelierMargeFrm;L_Charge;Charges;Expenses;Costos;Uitgaven;Encargos????
+AgriAtelierMargeFrm;L_Detail;Détail;Detail;Detalle;Detail;Detalhe
+AgriAtelierMargeFrm;L_Marge;Marge;Margin;Margen;Marge;Margem
+AgriAtelierMargeFrm;L_Produit;Produits;Products;Productos;Producten;Produtos
+AgriAtelierMargeFrm;L_Synthese;Synthèse;Synthesis;Resumen;Synthese;Sintese
+AgriAtelierMargeFrm;L_TotCharge;Total Charges;Total Expenses;Total costos;Totale uitgaven;Encragos totais
+AgriAtelierMargeFrm;L_TotProd;Total Produits;Total Products;Total productos;Totaal producten;Produtos totais
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AgriDefSimFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+AgriDefSimFrm;L_Aucun;Aucun;None;Ninguno;Geen;Nenhum
+AgriDefSimFrm;L_ErrM;ERREUR;ERROR;ERROR;FOUT;ERRO
+AgriDefSimFrm;L_ErrScen;Aucun scénario;No scenario;Ningun escenario;Geen scenario;Nenhum cenario
+AgriDefSimFrm;L_ErrTend;Aucune tendance;No tendancy;Ninguna tendencia;Geen tendens;Nenhuma tendencia
+AgriDefSimFrm;L_LimDate;Doit être compris entre 1950 et 2050;Must fall between 1950 and 2050;Debe estar comprendido entre 1950 y 2050;Moet tussen 1950 en 2050 liggen;Deve estar entre 1950 e 2050
+AgriDefSimFrm;L_LimDateM;Annee erronée;Year not valid;Año no valido;Geen geldig jaar;Ano invalido
+AgriDefSimFrm;L_Res1;Je vais calculer les résultats pour  ;I will compute the results for;Voy a calcular los resultados para;Ik zal de resultaten berekenen;Eu calcularei os resultados para
+AgriDefSimFrm;L_Res2;  Ans + tard;  Years  later;Años mas tarde;  Jaren   Later;Anos mais tarde
+AgriDefSimFrm;L_Scenario;Scenario;Scenario;Escenario;Scenario;Cenario
+AgriDefSimFrm;L_Tendance;Tendance;Tendancy;Tendencia;Tendens;Tendencia
+AgriDefSimFrm;L_SimSur;SIMULATION SUR;Simulation on;simulación sobre;simulatie op ;simulacion
+AgriDefSimFrm;L_CestSur;C'est bien sûr ?;Are you sure?;Estas seguro?;bent u zeker?;é você certo?
+AgriDefSimFrm;L_An;Ans;years;Años;Jaren;Anos
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AgriSaisieFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+AgriSaisieFrm;L_Achat;Achat;Buy;Compra;Aankoop;Compra
+AgriSaisieFrm;L_Amor;Amortissement;Depreciation;Amortización;Afschrijving;amortizacao   
+AgriSaisieFrm;L_Animaux;Animaux;Animals;Animales;Dieren;Animais
+AgriSaisieFrm;L_Assol;Assolement;Cropping plan;Distribución de cultivos;Bouwplan;Divisao de cultivo
+AgriSaisieFrm;L_Att;ATTENTION;ATTENTION;¡ATENCIÓN!;ATTENTIE;ATENÇÃO!
+AgriSaisieFrm;L_Cat;Catégorie;Category;Categoria;Categorie;Categoria
+AgriSaisieFrm;L_Charge;Charges;Expenses;Costos;Uitgaven;Encargos
+AgriSaisieFrm;L_ChOpe;Charges Opérationnelles;Operational Expenses;Costos operacionales;Variabele kosten;Encargos operacionais
+AgriSaisieFrm;L_ChStruct;Charges de Structure;Fixed assets;Costos fijos;Vaste kosten;Encargos estruturais
+AgriSaisieFrm;L_Creance;Créances;Credits;Creditos;Vorderingen;Creditos
+AgriSaisieFrm;L_CT;Court Terme;Short Term;Corto plazo;Korte termijn;Curto prazo
+AgriSaisieFrm;L_Culture;Cultures;Crops;Cultivos;Gewassen;Culturas
+AgriSaisieFrm;L_DepDiv;Dépenses Diverses;Misc Expenses;Gastos varios;Diverse uitgaven;Dispesas diversas
+AgriSaisieFrm;L_DepPriv;Dépenses Privées;Private Expenses;Gastos privados;Privé uitgaven;Despesas privadas
+AgriSaisieFrm;L_DetteCT;Dette CT;ST Debts;Deuda CP;Schuld KT;Divida CP
+AgriSaisieFrm;L_DetteLT;Dette LT;LT Debts;Deuda LP;Schuld LT;Divida LP
+AgriSaisieFrm;L_Dettes;Dettes;Debts;Deudas;Schulden;Debitos
+AgriSaisieFrm;L_Dico;Dico;Diction;Diccionario;Woordenlijst;Diccion
+AgriSaisieFrm;L_DonNonModif;Données NON Modifiables;Data CANNOT be Modified;Datos no modificables;Gegevens KUNNEN NIET worden aangepast;Dados nao modificaveis
+AgriSaisieFrm;L_DonPasse;Données du Passé nécessaires;Data from the Past required;Datos del Pasado necesarios;Vereiste gegevens uit verleden;Dados passados sao necessario
+AgriSaisieFrm;L_Dur1;Durée 1;Duration 1;Duración 1;Duur 1;Duracao 1
+AgriSaisieFrm;L_Dur2;Durée 2;Duration 2;Duración 2;Duur 2;Duracao 2
+AgriSaisieFrm;L_EMP;EMPRUNTS;Loans;PRESTAMOS;LENINGEN;EMPRESTIMOS
+AgriSaisieFrm;L_EmpCT;Court Terme;Short Term;Corto plazo;Korte termijn;Curto prazo
+AgriSaisieFrm;L_EmpLT;Long Terme;Long Term;Largo plazo;Lange termijn;Longo prazo
+AgriSaisieFrm;L_EmpSom;Finances Global;Total Finances;Total Finanzas ;Globale Financiën;Financas globais
+AgriSaisieFrm;L_EouP;E/P;F/p;E/P;B/P;E/P
+AgriSaisieFrm;L_Err;ERREUR;ERROR;ERROR;FOUT;ERRO
+AgriSaisieFrm;L_ErrAm;Durée Amortissement >50 !!;Depreciation duration >50 !!;Duracion depreciación >50 !!;Afschrijvingstermijn >50 !!;Duracao da amortizacao >50!!
+AgriSaisieFrm;L_ErrArrach;ligne n°:%2d Arrachage AVANT Plantation ;line n°:%2d Uprooting BEFORE Planting ;linea nº:%2d Arranque antes de plantación;lijn n°:%2d Wieden VOORAF AAN planten;Linha n°:%2d Divisao ANTES do plantio
+AgriSaisieFrm;L_ErrDateAn;Erreur sur la date Seulement l'année !;Error on the date Only the year !;Error en la fecha Solo el año!;Foutmelding op datum Alleen het jaar;Erro de data Somente o ano !
+AgriSaisieFrm;L_ErrDurSup50;ligne n°:%2d Durée supérieure à 50 ans;line n°:%2d Duration greater than 50 years;linea nº:%2d Duración superior a 50 años;lijn n°:%2d Looptijd langer dan 50 jaar;Linha n°:%2d Duracao superior a 50 anos
+AgriSaisieFrm;L_ErrDurTropL;ligne n°:%2d Durée trop longue ;line n°:%2d Time length too long;linea nº:%2d Duración demasiado larga;lijn n°:%2d Tijdsduur te lang ;Linha n°:%2d Duracao muito longa
+AgriSaisieFrm;L_ErrEmpDur;Durée Emprunt >50 !!;Loan duration >50 !!;Duración prestamo >50 !!;Looptijd lening >50 !!;Duracao do emprestimo >50 !!
+AgriSaisieFrm;L_ErrIntCal;Le montant des interets est calculé !!;The amount of interest is computed !!;La cantidad de intereses se calcula!!;Het bedrag aan rente wordt berekend;Os juros foram calculados
+AgriSaisieFrm;L_ErrIntEmpCT;ligne n°:%2d Intérêts Non précomptés N par defaut;line n°:%2d Interests Not deducted N by default;linea nº:%2d Intereses No deducidos N por defecto;lijn n°:%2d Renten niet afgeleid N voorgedefinieerd;Linha n°:%2d Juros nao dedutiveis N por padrao
+AgriSaisieFrm;L_ErrPasDate;ligne n°:%2d Pas de date ;line n°:%2d No date;linea nº:%2d No tiene fecha;lijn n°:%2d Geen datum;Linha n°:%2d Sem data
+AgriSaisieFrm;L_ErrPasDateAchat;ligne n°:%2d Pas de date d'achat;line n°:%2d No buying date;linea nº:%2d No tiene fecha de compra;lijn n°:%2d Geen aankoopdatum;Linha n°:%2d Sem data de compra
+AgriSaisieFrm;L_ErrPasDatePlant;ligne n°:%2d Pas de date de plantation ;line n°:%2d No planting date ;linea nº:%2d No tiene fecha de plantación;lijn n°:%2d Geen plantdatum ;Linha n°:%2d Sem data de plantio
+AgriSaisieFrm;L_ErrPasDateReal;ligne n°:%2d Pas de date de réalisation ;line n°:%2d No Implementation date;linea nº:%2d No tiene fecha de realización;lijn n°:%2d Geen datum van realisatie;Linha n°:%2d Sem data de implementacao
+AgriSaisieFrm;L_ErrPasDateRembEmp;ligne n°:%2d Pas de date de remboursement ;line n°:%2d No reimbursment date;linea nº:%2d No tiene fecha de reembolso;lijn n°:%2d Geen datum van aflossing;Linha n°:%2d Sem data de reembolso
+AgriSaisieFrm;L_ErrPasDateTerme;ligne n°:%2d Pas de date de terme;line n°:%2d No date of duration;linea nº:%2d No tiene fecha de duración;lijn n°:%2d Geen looptijd;Linha n°:%2d Sem data final
+AgriSaisieFrm;L_ErrPasDur2;ligne n°:%2d Pas de Durée 2;line n°:%2d No Duration 2;linea nº:%2d No tiene duración 2;lijn n°:%2d Geen Looptijd 2;Linha n°:%2d Sem duracao 2
+AgriSaisieFrm;L_ErrPasDurAmor;ligne n°:%2d Pas de durée d'amortissement;line n°:%2d No duration for depreciation;linea nº:%2d No tiene duración de amortización;lijn n°:%2d Geen afschrijvingsduur;Linha n°:%2d Sem periodo de amortizacao
+AgriSaisieFrm;L_ErrPasDuree;ligne n°:%2d Pas de Durée;line n°:%2d No Duration;linea nº:%2d No tiene duración;lijn n°:%2d Geen Looptijd;Linha n°:%2d Sem duracao
+AgriSaisieFrm;L_ErrPasEPEmp;ligne n°:%2d Entreprise ou Privé E par defaut;line n°:%2d Farm or Private F by default;linea nº:%2d Empresa o Privado por defecto;lijn n°:%2d Onderneming of Privé E voorgedefinieerd;Linha n°:%2d Fazenda E privado por padrao
+AgriSaisieFrm;L_ErrPasImmo;Pas d'Immobilisation à reporter;No Fixed Assets to copy;Ninguna inmobilización a copiar;Geen vaste activa om te kopieren;Sem imobilizacao a relatar
+AgriSaisieFrm;L_ErrPasMontant;ligne n°:%2d Pas de Montant;line n°:%2d No Amount;linea nº:%2d No tiene cantidad;lijn n°:%2d Geen Bedrag;Linha n°:%2d Sem montante
+AgriSaisieFrm;L_ErrPasNom;ligne n°:%2d Pas de NOM ;line n°:%2d No NAME ;linea nº:%2d No tiene NOMBRE;lijn n°:%2d Geen NAAM ;Linha n°:%2d Sem NOME
+AgriSaisieFrm;L_ErrPasSurf;Pas de surface ;No area;Ninguna superficie;Geen oppervlakte;Sem area
+AgriSaisieFrm;L_ErrPasTaux;ligne n°:%2d Pas de Taux;line n°:%2d No Rate;linea nº:%2d No tiene Tasa;lijn n°:%2d Geen tarief;Linha n°:%2d Sem taxa
+AgriSaisieFrm;L_ErrPasTaux2;ligne n°:%2d Pas de Taux 2;line n°:%2d No Rate 2;linea nº:%2d No tiene Tasa 2;lijn n°:%2d Geen Tarief 2;Linha n°:%2d Sem taxa 2
+AgriSaisieFrm;L_ErrPasTypAmor;ligne n°:%2d Pas de type d'amortissement;line n°:%2d No type of depreciation;linea nº:%2d No tiene tipo de amortización;lijn n°:%2d Geen afschrijvingstype;Linha n°:%2d Sem tipo de amortizacao
+AgriSaisieFrm;L_ErrPasTypEmp;ligne n°:%2d Pas de Type CA par défaut;line n°:%2d No CA Type by default;linea nº:%2d No tiene tipo de CA por defecto;lijn n°:%2d Geen CA Type voorgedefinieerd;Linha n°:%2d Sem tipo CA por padrao
+AgriSaisieFrm;L_ErrPasVal;ligne n°:%2d Pas de Valeur;line n°:%2d No Value;linea nº:%2d No tiene valor nuevo;lijn n°:%2d Geen waarde;Linha n°:%2d Sem valor
+AgriSaisieFrm;L_ErrPasValNeuf;ligne n°:%2d Pas de Valeur à neuf;line n°:%2d No Value for new;linea nº:%2d No tiene valor nuevo;lijn n°:%2d Geen nieuwwaarde;Linha n°:%2d Sem valor para novos
+AgriSaisieFrm;L_ErrPbDate;ligne n°:%2d Problème de date;line n°:%2d Problem with date;linea nº:%2d Problema con la fecha;line n°:%2d Problemen met datum;Linha n°:%2d Problema de data
+AgriSaisieFrm;L_ErrRepImpo;Report impossible dans cette colonne;Copy not allowed in this column;Imposible copiar en esta columna;Kopieren niet mogelijk in deze kolom;Copia impossivel nesta coluna
+AgriSaisieFrm;L_ErrSub;Durée Subvention >50 !!;Grant duration >50 !!;Duración subvención >50 !!;Looptijd subsidie >50 !!;Duracao do subsidio >50!!
+AgriSaisieFrm;L_ErrTypePlact;ligne n°:%2d Pas de Type AF A défaut;line n°:%2d No Type AF A default;linea nº:%2d No tipo AF A por defecto;lijn n°:%2d Geen Soort AF A voorgedefinieerd;Linha n°:%2d Sem tipo AF A por padrao
+AgriSaisieFrm;L_EvolStock;Evolution des Stocks;Evolution of Stocks;Evolución del Stock;Ontwikkeling veestapel;Evolucao do estoque
+AgriSaisieFrm;L_ExtNeg;Externalités Négatives;Negative Externalities;Externalidades negativas;Negatieve omgevingseffecten;Externalidades negativas
+AgriSaisieFrm;L_ExtPos;Externalités Positives;Positive Externalities;Externalidades positivas;Positieve omgevingseffecten;Externalidades positivas
+AgriSaisieFrm;L_Immo;Inventaires;Stocklist;Inventario;Inventaris;Inventário
+AgriSaisieFrm;L_ImmoRap;Immobilisation Global;Total Loans for Fixed Assets;Inmobilizacion total;Globale leningen voor vaste activa;Imobilizacao global
+AgriSaisieFrm;L_Impo;IMPOSSIBLE;IMPOSSIBLE;IMPOSIBLE;ONMOGELIJK;IMPOSSIVEL
+AgriSaisieFrm;L_IntCT;Intérêt CT;ST Interest;Interes CP;Rente KT;Juros CP
+AgriSaisieFrm;L_IntLT;Intérêt LT;LT Interest;Interes LP;Rente LT;Juros LP
+AgriSaisieFrm;L_JeffToutQ;j'efface tout ?;Do I delete all?;Debo borrar todo?;Verwijder ik alles?;Apago tudo?
+AgriSaisieFrm;L_JeffToutT;EFFACER TOUT LE TABLEAU;DELETE ALL SHEET;BORRAR TODA LA TABLA;VERWIJDER ALLE BLADEN;APAGAR TOTA A TABELA
+AgriSaisieFrm;L_JQuit; Je quitte cet agriculteur. Vous êtes sur ?; Do you really want to leave this farmer?;Estad usted seguro de salir de este agricultor?;Weet u zeker dat u deze landbouwer wilt verlaten?;Voce tem certeza de que quer deixar esse agricultor?
+AgriSaisieFrm;L_LesAteliers;Les ateliers:;Farming Systems:;Las actividades;Bedrijfsactiviteiten;Sistemas de cultura
+AgriSaisieFrm;L_LiNonSup; Ligne NON supprimable?; Line NOT Removable?;Linea no suprimible?;Lijn NIET verwijderbaar?;Linha nao removivel
+AgriSaisieFrm;L_LiSupQ; Je supprime la ligne. Vous êtes sur ?; Do you really want to delete the line?;Esta usted seguro de suprimir esta línea?;Weet u zeker dat u deze lijn wilt verwijderen?;Voce te certeza de que quer suprimir essa linha?
+AgriSaisieFrm;L_LT;Long Terme;Long Term;Largo plazo;Lange termijn;Longo prazo
+AgriSaisieFrm;L_Modifie;modifié;modified;modificado;aangepast;Modificado
+AgriSaisieFrm;L_MoinsVal;Moins Value;Capital loss;Perdida de valor;Kapitaalverlies;Menos valor
+AgriSaisieFrm;L_Montant;Montant;Amount;Cantidad;Bedrag;Montante
+AgriSaisieFrm;L_MotCle;Mot Cle;Key word;Palabra clave;Sleutelwoord;Palavra chave
+AgriSaisieFrm;L_Moy;Moy;Average;Media;Gemiddelde;Media
+AgriSaisieFrm;L_Mvt;Mouvement des Animaux;Movement of Animals;Movimiento de los animales;Verloop van dieren;Movimentacao de animais
+AgriSaisieFrm;L_Nom;NOM;NAME;NOMBRE;NAAM;NOME
+AgriSaisieFrm;L_NouvCT;Nouveau CT;ST new;Nuevo CP;Nieuw KT;Novo CP
+AgriSaisieFrm;L_NouvLT;Nouveau LT;LT New;Nuevo LP;Nieuw LT;Novo LP
+AgriSaisieFrm;L_Occc;Ouverture de Crédit;OverDraft;Crédito al descubierto;Kredietovereenkomst;Abertura de credito
+AgriSaisieFrm;L_PasDon;Aucune Donnée à introduire;No Data to input;Ningun dato a introducir;Geen gegevens om in te voeren;Nenhum dado a indtroduzir
+AgriSaisieFrm;L_PasDonAInt;Aucune Donnée à introduire;No Data to input;No introducir ningun dato;Geen gegevens om in te voeren;Nenhum dado a indtroduzir
+AgriSaisieFrm;L_PasProd;Aucun Produit !!;No Product !!;Ningun Producto!!;Geen product !!;Nunhum produto !!
+AgriSaisieFrm;L_Passe;PASSE;PAST;PASADO;OVERSLAAN;PASSADO
+AgriSaisieFrm;L_Perenne;Pérennes;Tree crops;Perennes;Blijvende teelten;Perenes
+AgriSaisieFrm;L_Petit;Petit Matériel;Small Equipment;Material pequeño;Klein materiaal;Pequenos materiais
+AgriSaisieFrm;L_Plact;Placements;Investments;Inversion;Belegging;Investimentos
+AgriSaisieFrm;L_Pluri;Pluriannuelles;Perennials;Plurianuales;Meerjarige Gewassen;Plurianuais
+AgriSaisieFrm;L_PlusVal;Plus Value;Surplus;Aumento de valor;Meerwaarde;Mais valor
+AgriSaisieFrm;L_PolStock;Politique de stockage;Storage Policy;Politica de almacenamiento;Voorraadbeheer;Politica de estocagem
+AgriSaisieFrm;L_PrixRevient;Prix Revient;Cost Price;Precio de coste;Kostprijs;Preco de custo
+AgriSaisieFrm;L_ProdImmo;Production d'Immo;Fixed assets Production;Producción de Inmo;Productie Vaste Activa;Producao de Imob
+AgriSaisieFrm;L_Produit;Produits;Products;Productos;Producten;Produtos
+AgriSaisieFrm;L_QuitAgri; Je quitte cet agriculteur. Vous êtes sur ?; Do you really want to leave this farmer?;Esta usted seguro de salir de este agricultor?;Weet u zeker dat u deze landbouwer wilt verlaten?;Voce tem certza de que quer deixar esse agricultor?
+AgriSaisieFrm;L_Real;Réalisation;Implementation;Realización;Implementatie;Realizacao
+AgriSaisieFrm;L_RecDiv;Recettes Diverses;Misc Revenues;Ingresos varios;Diverse inkomsten;Receitas diversas
+AgriSaisieFrm;L_RecPriv;Recettes Privées;Private Revenues;Ingresos privados;Privé inkomsten;Receitas privadas
+AgriSaisieFrm;L_Remb;Remboursement;Refund;Rembolso;Aflossing;Reembolso
+AgriSaisieFrm;L_RembCapCT;Remb Capital CT;ST Refund;Rembolso Capital CP;ST Aflossing;Reemb Capital CP
+AgriSaisieFrm;L_RembCapLT;Remb Capital LT;LT Refund;Rembolso Capital LP;LT Aflossing;Reemb Capital LP
+AgriSaisieFrm;L_ResDe;résultats de  ;results from;resultados de ;resultaten van;resultados de
+AgriSaisieFrm;L_Revente;Revente;Sold;Reventa;Doorverkoop;Revenda
+AgriSaisieFrm;L_StockIni;Stocks initiaux;Initial Stocks;Existencias iniciales;Beginvoorraden;Estoque inicial
+AgriSaisieFrm;L_Stocks;Stocks;Stocks;Existencias;Voorraden;Estoques
+AgriSaisieFrm;L_Sub;Subventions;Grants;Subvenciones;Subsidies;Subsideos
+AgriSaisieFrm;L_Sup;SUPPRESSION;DELETION;SUPRESIÓN;VERWIJDERING;SUPRESSAO
+AgriSaisieFrm;L_Surface;Surface;Area;Area;Oppervlakte;Area
+AgriSaisieFrm;L_Taux1;Taux 1;Rate 1;Tasa 1;Tarief 1;Taxa 1
+AgriSaisieFrm;L_Taux2;Taux 2;Rate 2;Tasa 2;Tarief 2;Taxa 2
+AgriSaisieFrm;L_TitreCrDette;.,.,PRODUIT,Valeur,Paiement;.,.,PRODUCT,Value,Payment;.,.,PRODUCTO,Valor, Pago;.,.,PRODUCT,Waarde,Betaling;.,.,PRODUTO,Valor,Pagamento
+AgriSaisieFrm;L_TitreEmp;.,.,EMPRUNTS,Montant,Taux,Type,Réalisation,Remboursement,E/P;.,.,LOANS,Amount,Rate,Type,Implementation,Reimbursment,F/p;.,.,PRESTAMOS,Cantidad,Tasa,Tipo,Realización, Reembolso,E/P;.,.,LENINGEN,Bedrag,Tarief,Soort,Implementatie,Aflossing,B/P;.,.,EMPRESTIMOS,Montante,Taxa,Tipo,Réalisation,Reembolso,E/P
+AgriSaisieFrm;L_TitreImmo;.,.,IMMOBILISATION,V_Achat,Date,Type_Amor,Durée_Amor,TVA,V_Vente,Date;.,.,FIXED_ASSETS,Purchase_Val,Date,Deprec_Type,Deprec_length,VAT,Sale_Val,Date;.,.,INMOBILIZACIÓN,V_Compra,Fecha, Tipo_Amor,Duración_Amor,IVA,V_Venta,Fecha;.,.,VASTE_ACTIVA,W_Aankoop,Datum,Soort_afschrijving,Duur_afschrijving,BTW,W_Verkoop,Datum;.,.,IMOBILIZACAO,V_Compra,Data,Tipo_Amor,Duracao_Amor,VAT,V_Venda,Data
+AgriSaisieFrm;L_TitreOccc;Exercice,Montant,%Consommé,Taux,Frais;Year,Amount,%Spent,Rate,Costs;Año_fiscal,Cantidad,%Gastado,Tasa,Costos;Boekjaar,Bedrag,%Besteed,Tarief,Kosten;Exercicio,Montante,%Consido,Taxa,Custos
+AgriSaisieFrm;L_TitrePasse;Famille,Categorie,Nom;Family,Category,Name;Familia,Categoria,Nombre;Familie,Categorie,Naam;Familia,Categoria,Nome
+AgriSaisieFrm;L_TitrePer;.,.,Nom,Espèce,Surface,Plantation,Arrachage;.,.,Name,Species,Area,Planting,Uprooting;.,.,Nombre,Especie,Superficie,Plantación,Arranque;.,.,Naam,Soort,Oppervlakte,Planten,Wieden;.,.,Nome,Especie,Area,Plantacao,Destoca
+AgriSaisieFrm;L_TitrePetit;.,.,Exercice,Valeur,TVA;.,.,Year,Value,VAT;.,.,Año fiscal,Valor,IVA;.,.,Boekaar,Waarde,BTW;.,.,Exercicio,Valor,VTA
+AgriSaisieFrm;L_TitrePlact;.,.,PLACEMENTS,Montant,Taux,Type,Réalisation,Terme,E/P;.,.,INVESTMENTS,Amount,Rate,Type,Implementation,Period,F/p;.,.,INVERSIÓN,Cantidad,Tasa,Tipo,Realización,Plazo,E/P;.,.,BELEGGINGEN,Bedrag,Koers,Soort,Implementatie,Termijn,B/P;.,.,INVESTIMENTOS,Montante,Taxa,Tipo,Réalisation,Periodo,E/P
+AgriSaisieFrm;L_TitrePolStock;.,Produit,Prix,Unité,%Stocké,Maxi_Stockable,%Augmentation_Prix,%Décote;.,Product,Price,Unit,%Stored,Maxi_Stock_cap,%Price_increase,%Depreciation;.,Producto,Precio,Unidad,%Almacenado,Max_Almacenable,%Aumento_precio,%Depreciación;.,Product,Prijs,Eenheid,%opgeslagen,Maximale_opslagcapaciteit,%Prijsstijging,%Afschrijving;.,Produto,Preco,Unidade,%Estoque,Maxi_Estocavel,%Aumento_Precos,%Depreciacao
+AgriSaisieFrm;L_TitreSub;.,.,SUBVENTION,Montant,Date,Durée;.,.,SUBVENTION,Amount,Date,Duration;.,.,SUBVENCIÓN,Cantidad,Fecha,Duración;.,.,SUBSIDIE,Bedrag,Datum,Duur;.,.,SUBSIDIO,Montante,Data,Duracao
+AgriSaisieFrm;L_TitreViv;.,.,NOM,Catégorie,Surface,Plantation,Durée;.,.,NAME,Category,Area,Planting,Duration;.,.,NOMBRE,Categoria,Superficie,Plantación,Duración;.,.,NAAM,Categorie,Oppervlakte,Planten,Looptijd;.,.,NOME,Categoria,Area,Plantacao,Duracao
+AgriSaisieFrm;L_Total;TOTAL;TOTAL;TOTAL;TOTAAL;TOTAL
+AgriSaisieFrm;L_Tva;TVA;VAT;IVA;BTW;IVA
+AgriSaisieFrm;L_Type;Type;Type;Tipo;Type;Tipo
+AgriSaisieFrm;L_V_Resid;V. Résiduelle;Residual value;V. Residual;Restwaarde;V. Residual
+AgriSaisieFrm;L_Variable;Variables;Variables;Variables;Variabelen;Variaveis
+AgriSaisieFrm;L_Vente;Vente;Sale;Venta;Verkoop;Venda
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AleaPrixFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+AleaPrixFrm;L_Base;Base;Basis;Base;Basis;Base
+AleaPrixFrm;L_Cat;Catégorie;Category;Categoria;Categorie;Categoria
+AleaPrixFrm;L_SupLiQ; Je supprime la ligne. Vous êtes sur ?; Do you really want to delete the line?;Esta usted seguro de suprimir esta línea?;Weet u zeker dat u deze lijn wilt verwijderen?;Voce tem certeza de que quer apagar a linha?
+AleaPrixFrm;L_SupT;SUPPRESSION;DELETION;SUPRESIÓN;VERWIJDERING;APAGANDO
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AssolFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+AssolFrm;L_Assol;Surface Cultivée;Total Cropped Area;Superficie Cultivada;Totale Oppervlakte met Gewassen;Area cultivada
+AssolFrm;L_Culture;CULTURES;CROPS;CULTIVOS;GEWASSEN;CULTURAS
+AssolFrm;L_Derobee;DEROBEES;SECONDARY CROPS;CULTIVOS SECUNDARIOS;NAGEWASSEN;CULTURAS SECUNDARIAS
+AssolFrm;L_Perenne;PERENNE;TREE CROP;Perennes;Blijvende teelt;PERENE
+AssolFrm;L_Pluri;PLURIANNUELLE;PERENNIALS;PLURIANUALES;MEERJARIGE GEWASSEN;PLURIANUAIS
+AssolFrm;L_Total;TOTAL;TOTAL;TOTAL;TOTAAL;TOTAL
+AssolFrm;L_TotCulture;total cultures;total crops;Total cultivos;totaal gewassen;total culturas
+AssolFrm;L_TotDerobee;total derobées;total secondary crops;Total cultivos secundarios;totaal nagewassen;total culturas secundarias
+AssolFrm;L_TotPerenne;total pérennes;total tree crops;Total perennes;totaal blijvende teelten;total perenes
+AssolFrm;L_TotPluri;total PluriAnnuelles;total Perennials;Total plurianuales;totaal meerjarige gewassen;total plurianuais
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AtelierFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+AtelierFrm;L_Avant1;Avant_1;Before_1;Antes_1;Voor_1;Antes_1
+AtelierFrm;L_Derobe;Dérobé; Secondary crop;Cultivo secundario;Nagewassen;Cultura secundaria
+AtelierFrm;L_SupQ; Je supprime Vous êtes sur ?;Do you really want to delete?;Estad usted seguro de suprimir?;Weet u zeker dat u wilt verwijderen?;Voce tem certeza de que quer apagar?
+AtelierFrm;L_SupT;SUPPRESSION;DELETION;SUPRESIÓN;VERWIJDERING;APAGANDO
+AtelierFrm;L_TitreProduit;.,.,Nom,Categorie,Unité;.,.,Name,Category,Unit;.,.,Nombre,Categoria,Unidad;.,.,Naam,Categorie,Eenheid;.,.,Nome,Categoria,Unidade
+AtelierFrm;L_TitreVol;.,.,PRODUIT,Unité,APPRO,Unité;.,.,Output,Unit,Input,Unit;.,.,PRODUCTO,Unidad,Input,Unidad;.,.,PRODUCT,Eenheid,INPUT,Eenheid;.,.,PRODUTO,Unidade,ENTRANTE,Unidade
+AtelierFrm;L_Ent;Par l'entreprise;By the farm;Por la empresa;Landbouwbedrijf;exploração agrícola
+AtelierFrm;L_Fam;Par la famille;By the family;Por la familia;Familie;Familia
+AtelierFrm;L_Repro;Reproducteur;Breeder;Reproductores;Ouderdier;Reprodutor
+AtelierFrm;L_Autre;Autre;Other;Otro;Andere;Outro
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AtelierMargeFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+AtelierMargeFrm;L_Charge;Charges;Expenses;Costos;Uitgaven;Encargos
+AtelierMargeFrm;L_ChVol;Charges Volume;Expenses Volume;Costos Volumen;Uitgaven hoeveelheid;Volume de encargos
+AtelierMargeFrm;L_Marge;Marge;Margin;Margen;Marge;Margem
+AtelierMargeFrm;L_MargeCum;Marge Cumulée;Total Margin;Margen total;Totale marge;Margem acumulada
+AtelierMargeFrm;L_Moy;Moyenne;Average;Media;Gemiddelde;Media
+AtelierMargeFrm;L_Prod;Produits;Products;Productos;Producten;Produtos
+AtelierMargeFrm;L_Tot;Total;Total;Total;Totaal;Total
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AtelierMDetailFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+AtelierMDetailFrm;L_AvtQuant;Avant Quant;Before_1 Quant;Antes Cantidad;Vooraf hvh;Antes Quant
+AtelierMDetailFrm;L_Besoins;Besoins;Needs;Necesidades;Behoeften;Necessidade
+AtelierMDetailFrm;L_Charge;Charges;Expenses;Costos;Uitgaven;Encargos
+AtelierMDetailFrm;L_Heure;heure;hour;hora;uur;horas
+AtelierMDetailFrm;L_Marge;Marge;Margin;Margen;Marge;Margem
+AtelierMDetailFrm;L_MargeDe;Marge de ;Margin of ;Margen de;Marge van;Margem de
+AtelierMDetailFrm;L_MargeDet;Marge Détaillée  ;Detailed Margin ;Margen detallado;Gedetailleerde marge;Margem detalhada
+AtelierMDetailFrm;L_MargeUnit;Marge unitaire;Margin per unit;Margen unitario;Marge per eenheid;Margem unitaria
+AtelierMDetailFrm;L_Produit;Produits;Products;Productos;Producten;Produtos
+AtelierMDetailFrm;L_Quant;Quant;Quant;Cantidad;Hvh;Quant
+AtelierMDetailFrm;L_QuantEt;et + Quant;and + Quant;y + Cantidad;en + Hvh;e + Quant
+AtelierMDetailFrm;L_QuantV;%2d Quant;%d Quant;%2d Cantidad;%2d Hvh;%2d Quant
+AtelierMDetailFrm;L_SousTot;sous total;sub total;Subtotal;Subtotaal;Subtotal
+AtelierMDetailFrm;L_Titre;Titre;Title;Título;Titel;Titulo
+AtelierMDetailFrm;L_TitreGrille;NOM,CATEGORIE,Unité,Prix,Quantite,Valeur;NAME,CATEGORY,Unit,Price,Quantity,Value;NOMBRE,CATEGORIA,Unidad,Precio,Cantidad,Valor;NAAM,CATEGORIE,Eenheid,Prijs,Hoeveelheid,Waarde;NOME,CATEGORIA,Unidade,Preco,Quantidade,Valor
+AtelierMDetailFrm;L_Total;Total;Total;Total;Totaal;Total
+AtelierMDetailFrm;L_TotCharge;total Charges;total Expenses;Toral costos;totaal Uitgaven;total Encragos
+AtelierMDetailFrm;L_TotChvol;total chf(vol);total exp f(vol);Total costosf(vol);totaal exp f(vol);total enc f(vol)
+AtelierMDetailFrm;L_TotProd;total Produits;total Products;Total productos;totaal Producten;total Produtos
+AtelierMDetailFrm;L_Travail;Travail;Labour;Trabajo;Arbeid;Trabalho
+AtelierMDetailFrm;L_Valeur;Valeur;Value;Valor;Waarde;Valor
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//CL_ES;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+CL_ES;L_CarInvalide;  %c Est un Caractère Invalide;  %c Is not a valid character;%c es un carácter no válido;  %c Is geen geldig karakter;  %c E um caractere invalido
+CL_ES;L_Cereale;Céréales;Cereals;Cereales;Granen;Cereais
+CL_ES;L_ChGlob;Charge Globale;Total Expenses;Costo Total;Totaal uitgaven;Encargos globais
+CL_ES;L_Engrais;Engrais;Fertilizers;Fertilizantes;Meststoffen;Adubos
+CL_ES;L_NomAlpha;Doit commencer par caractère alpha;Must start with an alpha character;Debe empezar por el carácter alpha;U moet starten met een letter;Deve comecar por um caractere alfa
+CL_ES;L_NomVide;Le nom est vide;Name is empty;El nombre esta vacio;Naam is leeg;O nome esta vazio
+CL_ES;L_Normal;Normal;Normal;Normal;Normaal;Normal
+CL_ES;L_Oleagineux;Oléagineux;Oleaginous plants;Oleaginosas;Oliehoudende gewassen;Oleaginosas
+CL_ES;L_Phyto;Phytosanitaires;Pesticides;Fitosanitarios;Gewasbescherming;Agrotoxicos
+CL_ES;L_Proteagineux;Protéagineux;Proteaginous plants;Proteaginosas;Eiwithoudende gewassen;Proteicas
+CL_ES;L_Reduit;Réduit;Reduced;Reducido;Verminderd;Reduzido
+CL_ES;L_Sans;Sans;Without;Sin;Zonder;Sem
+CL_ES;L_Semence;Semences;Seeds;Semillas;Zaden;Sementes
+CL_ES;LesTitresBilan[0];Immobilisation;Fixed Assets;Inmobilizacion;Vaste activa;imobilizacao
+CL_ES;LesTitresBilan[1];Materiel Batiment;Material Buildings;Material construcción;Materiaal gebouwen;Material construcao
+CL_ES;LesTitresBilan[10];Trésorerie;Treasury;Tesoreria;Kas;Tesouraria
+CL_ES;LesTitresBilan[11];Perte;Losses;Perdidas;Verliezen;Perda
+CL_ES;LesTitresBilan[12];Total Actif;Total Assets;Activo Total;Totale Activa;Ativo total
+CL_ES;LesTitresBilan[13];PASSIF;LIABILITY;PASIVO;PASSIVA;PASSIVO
+CL_ES;LesTitresBilan[14];Capital;Capital;Capital;Kapitaal;Capital
+CL_ES;LesTitresBilan[15];Solde Privé;Private Revenues;Saldo Privado;Privé opbrengsten;Saldo privado
+CL_ES;LesTitresBilan[16];Subvention;Subsidy;Subvención;Subsidie;Subsidio
+CL_ES;LesTitresBilan[17];Dette LT;LT Debt;Deuda LP;LT Schuld;Divida LP
+CL_ES;LesTitresBilan[18];Dette ct;ST Debt;Deuda CP;KT Schuld;Divida CP
+CL_ES;LesTitresBilan[19];Dette Tva;Debt Vat;Deuda IVA;Schuld BTW;Divida Vat
+CL_ES;LesTitresBilan[2];Animaux Reproducteurs;Breeders;Animales Reproductores;Ouderdieren;Reprodutores
+CL_ES;LesTitresBilan[20];Dettes Diverses;Debt Misc.;Deudas Varias;Verschillende Schulden ;Dividas diversas
+CL_ES;LesTitresBilan[21];Bénéfice;Profit;Beneficio;Winst;Beneficios
+CL_ES;LesTitresBilan[22];Total Passif;Total Liabilities;Total Pasivo;Totaal Passiva;Passivo total
+CL_ES;LesTitresBilan[3];Plantations;Plantations;Plantaciones;Aanplantingen;Plantacoes
+CL_ES;LesTitresBilan[4];Stocks;Stocks;Stocks;Voorraden;Estoques
+CL_ES;LesTitresBilan[5];Stocks en terre;Land;Terrenos;Land;Terra
+CL_ES;LesTitresBilan[6];Animaux ;Animals;Animales ;Dieren;Animais
+CL_ES;LesTitresBilan[7];Placements;Investments;Inversiones;Beleggingen;Investimentos
+CL_ES;LesTitresBilan[8];Creance Tva;Debts Vat;Crédito IVA;Vordering BTW;Debitos Vat
+CL_ES;LesTitresBilan[9];Creances Diverses;Debts Misc.;Créditos Varios;Verschillende vorderingen ;Debitos diversos
+CL_ES;LesTitresCeg[0];Produits;Products;Productos;Producten;Produtos
+CL_ES;LesTitresCeg[1];Recettes;Incomes;Ingresos;Inkomsten;Recettes
+CL_ES;LesTitresCeg[10];Perte Exceptionnelle;Exceptional Losses;Pérdidas excepcionales;Exceptionele verliezen;Perda exepcional
+CL_ES;LesTitresCeg[11];Amortissement Subvention;Depreciation Subsidy;Amortización Subvención;Afschrijving Subsidie;Amortizacao subsidios
+CL_ES;LesTitresCeg[12];Charges;Costs;Costos;Kosten;Encargos
+CL_ES;LesTitresCeg[13];Dépenses Exploitation;Farm Expenses;Gastos Explotación;BedrijfsUitgaven;Despesas a fazenda
+CL_ES;LesTitresCeg[14];Dépenses Diverses;Misc. Expenses;Gastos diversos;Verschillende Uitgaven;Despesas diversas
+CL_ES;LesTitresCeg[15];Val comptable cession;Transfer of Account Val;Val contable cesión;Waarde bij bedrijfsoverdracht;Val Transferencia contabil
+CL_ES;LesTitresCeg[16];Charges de Structure;Fixed Asset Costs;Costos fijos;Kosten Vaste Activa;Encargos estruturais
+CL_ES;LesTitresCeg[17];Amortissement Immo;Fixed Asset Depreciation;Amortización Inmo;Waardevermindering Vaste Activa;Amortizacao imobil.
+CL_ES;LesTitresCeg[18];Amortissement Plantation;Land Depreciation;Amortización Plantación;Waardevermindering Land;Amortizacao plantacao
+CL_ES;LesTitresCeg[19];Frais fin LT;LT Fin. Cost;Costos fin LP;LT Financiele lasten;Custo financ. LP
+CL_ES;LesTitresCeg[2];Recettes Diverses;Misc. Incomes;Ingresos varios;Verschillende inkomens;Receitas diversas
+CL_ES;LesTitresCeg[20];Frais fin CT;ST Fin. Cost;Costos fin CP;KT Financiele lasten;Custo financ. CP
+CL_ES;LesTitresCeg[21];Frais fin OCCC;Overdraft Fin. Cost;Costos fin Crédito al descubierto;Kosten einde OCCC;Custo financ. Descoberto autorizado
+CL_ES;LesTitresCeg[22];Autres Ch Struct;Other Fixed Costs;Otros Costos Fijos;Overige Vaste Kosten;Outros encargos estruturais
+CL_ES;LesTitresCeg[23];Résultat;Results;Resultado;Resultaten;Resultado
+CL_ES;LesTitresCeg[3];"Var. Stock""";Stock Var.;"Var. Stock""";Variabele Voorraad;"Var. Est""oques"
+CL_ES;LesTitresCeg[4];Var. stock en terre;Land Stock Var.;Var. terrenos;Variabele LandVoorraad;Var. terra
+CL_ES;LesTitresCeg[5];Var. inv animal Repro;Var. inv animal Repro;Var. Inv animal Repro;Var. inv dieren Repro;Var. inv reprodutores
+CL_ES;LesTitresCeg[6];Var. inv animal Autre;Var. inv animal Other;Var. inv Otros animales;Var. inv dieren Andere;Var. inv outros animais
+CL_ES;LesTitresCeg[7];Produits financiers;Financial Products;Productos financieros;Financiele producten;Produtos financeiros
+CL_ES;LesTitresCeg[8];Production d'immo;Fixed Assets Production;Producción de inmo;Vaste Activa Productie;Produtos de imobilizacao
+CL_ES;LesTitresCeg[9];Cession d'actif;Transfer of assets;Transferencia de activo;Overdracht van activa;Transferencia de ativos
+CL_ES;LesTitresEmp[0];Annuités      Tot Ent;Annuities       Tot Farm;Anualidades Tot Emp;Annuiteiten          Totale Boerderij;Anuidades      Tot Ent
+CL_ES;LesTitresEmp[1];Cap Remboursé Tot Ent;Cap Reimbursed  Tot Farm;Cap Reembolso Tot Emp;Kap Terugbetaald Totale Bedrijf;Cap Reembolsado Tot Ent
+CL_ES;LesTitresEmp[10];Annuités      CT Ent;Annuities      ST Farm;Anualidades CP Emp;Annuiteiten          KT Boerderij;Anuidades      CP Ent
+CL_ES;LesTitresEmp[11];Cap Remboursé CT Ent;Cap. Refund  ST Farm;Cap Reembolso CP Emp;Kap Terugbetaald       KT Bedrijf;Cap Reembolsado CP Ent
+CL_ES;LesTitresEmp[12];Interet       CT Ent;Interest        ST Farm;Interes CP Emp;Rente       KT Boerderij;Juros       CP Ent
+CL_ES;LesTitresEmp[13];Nouveaux  Emp CT Ent;New loans     ST Farm;Nuevos Prest CP Emp;Nieuwe Leningen       KT Bedrijf;Novos  Emp CP Ent
+CL_ES;LesTitresEmp[14];Dettes        CT Ent;Debts           ST Farm;Deudas CP Emp;Schulden           KT Bedrijf;Dividas        CP Ent
+CL_ES;LesTitresEmp[15];Annuités      Privé;Annuities      Private;Anualidades Privado;Annuiteiten          Privé;Anuidades      Privado
+CL_ES;LesTitresEmp[16];Cap Remboursé Privé;Cap. Refund  Private;Cap Reembolso Privado;Kap Terugbetaald        Privé;Cap Reembolsado Privado
+CL_ES;LesTitresEmp[17];Interet       Privé;Interest         Private;Interes Privado;Rente       Privé;Juros       Privado
+CL_ES;LesTitresEmp[18];Nouveaux Emp  Privé;New loans     Private;Nuevos Prest Privado;Nieuwe Leningen       Privé;Novos Emp  Privado
+CL_ES;LesTitresEmp[19];Dettes        Privé;Debts           Private;Deudas Privado;Schulden        Privé;Dividas        Privado
+CL_ES;LesTitresEmp[2];Interet       Tot Ent;Interest        Tot Farm;Interes Tot Emp;Rente       Totale Bedrijf;Juros       Tot Ent
+CL_ES;LesTitresEmp[3];Nouveaux Emp  Tot Ent;New Loan        Tot Farm;Nuevos Prest Tot Emp;Nieuwe Leningen       Totale Bedrijf;Novos Emp  Tot Ent
+CL_ES;LesTitresEmp[4];Dettes        Tot Ent;Debts           Tot Farm;Deudas Tot Emp;Schulden             Totale Bedrijf;Dividas        Tot Ent
+CL_ES;LesTitresEmp[5];Annuités      LT Ent;Annuities       LT Farm;Anualidades LP Emp;Annuiteiten          LT Bedrijf;Anuidades      LP Ent
+CL_ES;LesTitresEmp[6];Cap Remboursé LT Ent;Cap Reimbursed  LT Farm;Cap Reembolso LP Emp;Kap Terugbetaald Totale Bedrijf;Cap Reembolsado LP Ent
+CL_ES;LesTitresEmp[7];Interet       LT Ent;Interest        LT Farm;Interes LP Emp;Rente       LT Bedrijf;Juros       LP Ent
+CL_ES;LesTitresEmp[8];Nouveaux Emp  LT Ent;New Loan        LT Farm;Nuevos Prest LP Emp;Nieuwe Leningen      LT Bedrijf;Novos Emp  LP Ent
+CL_ES;LesTitresEmp[9];Dettes        LT Ent;Debts           LT Farm;Deudas LP Emp;Schulden             LT Bedrijf;Dividas        LP Ent
+CL_ES;LesTitresImmo[0];Amortissement;Depreciation;Amortización ;Afschrijving;Amortissementizacao
+CL_ES;LesTitresImmo[1];Val Résiduelle;Residual value;Val Residual;Restwaarde;Val Residual
+CL_ES;LesTitresImmo[2];Achat;Buying;Compra;Aankoop;Compra
+CL_ES;LesTitresImmo[3];Val Brute;Gross Value;Val Bruto;Bruto Waarde;Val Bruto
+CL_ES;LesTitresPoste[0];Recettes Produits;Incomes Products;Ingreso Productos;Inkomsten Producten;Receitas Produtos
+CL_ES;LesTitresPoste[1];Dépenses Appro;Expenses Supplies;Gastos Aprovisionamiento;Kas Uitgaven;Despesa Provisoes
+CL_ES;LesTitresPoste[10];CEG;Farm Accounts;Cuentas de explotación;Rekening;Contas de exploração
+CL_ES;LesTitresPoste[11];Variables;Variables;Variables;Variabelen;Variaveis
+CL_ES;LesTitresPoste[12];Indicateurs;Indicators;Indicadores;Indicatoren;Indicadores
+CL_ES;LesTitresPoste[13];Ext. Positive;Positive Ext.;Ext. Positivas;Positieve omgevingsfactoren;Ext. Positiva
+CL_ES;LesTitresPoste[14];Ext. Négative;Negative Ext.;Ext. Negativas;Negatieve omgevingsfactoren;Ext. Nagativa
+CL_ES;LesTitresPoste[15];Quant Produit;Product Quant;Cantidad Producida;Product Hoeveelheid;Quant Produto
+CL_ES;LesTitresPoste[16];Quant Charge;Cost Quant;Cantidad Costos;Kosten Hoeveelheid;Quant Encargo
+CL_ES;LesTitresPoste[17];Prix Produit;Product Price;Precio Producto;Product Prijs;Preco Produto
+CL_ES;LesTitresPoste[18];Prix Charge;Cost Price;Precio Costo;Kost Prijs;Preco Encargo
+CL_ES;LesTitresPoste[19];Immobilisation;Fixed Assets;Inmobilización;Vaste Activa;Imobilizacao
+CL_ES;LesTitresPoste[2];Marge;Margin;Margen;Marge;Margem
+CL_ES;LesTitresPoste[20];Emprunt;Loan;Prestamo;Lening;Emprestimo
+CL_ES;LesTitresPoste[21];Emprunt LT;LT Loan;Prestamo LP;LT Lening;Emprestimo LP
+CL_ES;LesTitresPoste[22];Emprunt CT;ST Loan;Prestamo CP;KT Lening;Emprestimo CP
+CL_ES;LesTitresPoste[23];Emprunt Privé;Private Loan;Préstamo Privado;Privé Lening;Emprestimo Privado
+CL_ES;LesTitresPoste[24];Subvention;Subsidy;Subvención;Subsidie;Subsidio
+CL_ES;LesTitresPoste[25];Tva;Vat;IVA;BTW;Vat
+CL_ES;LesTitresPoste[26];Surf Cultures;Crop area;Superf Cultivos;Oppervlakte Gewassen;Area culturas
+CL_ES;LesTitresPoste[27];Surf Pérennes;Tree-crop Area;Sup Perennes;Oppervlakte Blijvende teelt;Area perenes
+CL_ES;LesTitresPoste[28];Surf PluriAnnuelle;Multiannual Area;Sup Plurianuales;Oppervlakte Meerjarige gewassen;Area plurianuais
+CL_ES;LesTitresPoste[29];Eff  Animaux;Number Animals;Nº Animales;Aantal Dieren;Efetivo animais
+CL_ES;LesTitresPoste[3];Ch_structure;Fix_Ass_Costs;C_fijos;Kosten_Vaste_Activa;Ch_estrutura
+CL_ES;LesTitresPoste[30];Mvt Animaux;Mvt Animals;Mvto Animales;Mvt Dieren;Mvt Animais
+CL_ES;LesTitresPoste[4];Recettes_Diverses;Misc_Incomes;Ingresos_Varios;Verschillende_Inkomsten;Receitas_Diversas
+CL_ES;LesTitresPoste[5];Dépenses_Diverses;Misc_Expenses;Gastos_Varios;Verschillende_Uitgaven;Despesas_Diversas
+CL_ES;LesTitresPoste[6];Recettes_Familiales;Family_Incomes;Ingresos_Familiares;Familie_Inkomsten;Receitas_Familiares
+CL_ES;LesTitresPoste[7];Dépenses_Familiales;Family_Expenses;Gastos_Familiares;Familie_Uitgaven;Despesas_Familiares
+CL_ES;LesTitresPoste[8];Poste;Item;Puesto;Item;Item
+CL_ES;LesTitresPoste[9];Bilan;Balance;Balance;Balans;Balanco
+CL_ES;LesTitresSub[0];Valeur;Value;Valor;Waarde;Valor
+CL_ES;LesTitresSub[1];Amortissement;Depreciation;Amortización ;Afschrijving;amortizacao
+CL_ES;LesTitresSub[2];Val Résiduelle;Residual value;Val Residual;Restwaarde;Val residual
+CL_ES;LesTitresTreso[0];Recettes Produits;Incomes Products;Ingresos Productos;Inkomsten Producten;Receitas Produtos
+CL_ES;LesTitresTreso[1];Dépenses Appro;Expenses Supplies;Gastos Aprovisionamiento;Kas Uitgaven;Despesas Provisoes
+CL_ES;LesTitresTreso[10];Résultat;Result;Resultado;Resultaten;Resultado
+CL_ES;LesTitresTreso[11];Ebe;Ebe;Ebe;Ebe;Ebe
+CL_ES;LesTitresTreso[12];Caf;Caf;Caf;Caf;Caf
+CL_ES;LesTitresTreso[2];Marge;Margin;Margen;Marge;Margem
+CL_ES;LesTitresTreso[3];Ch_structure;Fix_Ass_Costs;C_fijos;Kosten_Vaste_Activa;Ch_estrutura
+CL_ES;LesTitresTreso[4];Recettes_Diverses;Misc_Incomes;Ingresos_Varios;Verschillende_Inkomsten;Receitas_Diversas
+CL_ES;LesTitresTreso[5];Dépenses_Diverses;Misc_Expenses;Gastos_Varios;Verschillende_Uitgaven;Despesas_Diversas
+CL_ES;LesTitresTreso[6];"Recettes_Familiales""";Family_Income;Ingresos_Familiares;Familie_Inkomen;"Receitas_Familiares"""
+CL_ES;LesTitresTreso[7];Dépenses_Familiales;Family_Expenses;Gastos_Familiares;Familie_Uitgaven;Despesas_Familiares
+CL_ES;LesTitresTreso[8];Solde;Balance;Saldo;Saldo;Saldo
+CL_ES;LesTitresTreso[9];Solde Cumul;Total Balance;Saldo acumulado;Cum saldo;Saldo total
+CL_ES;LesTitresTva[0];Encaissé;Cashed;Recibido;Geïnd;Caixa
+CL_ES;LesTitresTva[1];Versé;Paid;Pagado;Betaald;Pago
+CL_ES;LesTitresTva[2];Régularisation;Regularisation;Regularización;Regularisatie;Regularizacao
+CL_ES;LesTitresTva[3];Solde;Balance;Saldo;Saldo;Saldo
+CL_ES;L_ExistePas;Le Fichier %s n'existe pas. Le Créer ?;The %s file does not exist. Create it?;El Fichero %s no exista. ¿Quiere crearlo?;Het Bestand  %s bestaat niet. Wilt u het creëren?;O arquivo %s no exista. Querem criá-lo?
+CL_ES;L_ProbSurFichier;PROBLEME SUR FICHIER;PROBLEM with the file;PROBLEMA con el fichero;PROBLEEM met het bestand.;PROBLEMA com o arquivo 
+CL_ES;L_VerActuelle;Actuellement Version= %4.2f ;Currently Version= %4.2f ;Actualmente Versión= %4.2f ;Momenteel Versie= %4.2f ;Actualmente Versão= %4.2f 
+CL_ES;L_JmetAJour;Je mets à jour Version= %4.2f   ?;Do you wish to update to Version= %4.2f ?;Desea poner al día el archivo= %4.2f   ?;Wenst u om aan Versie = %4.2f  bij te werken?;Actualizo versão= %4.2f   ?
+CL_ES;L_VerInco;Version   %4.2f    Inconnue;Version   %4.2f    unknown;Versión   %4.2f   desconocida;Onbekende versie   %4.2f    ;Versão    %4.2f    desconhecida
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//CL_Trad;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+CL_Trad;L_2Point;manque : ;missing: ;falta :;missend :;faltando :
+CL_Trad;L_Act_Action;ACTION;ACTION;ACCIÓN;ACTIE;ACAO
+CL_Trad;L_Act_Arracher;Arracher;Uproot;Arrancar;Wieden;Destoca
+CL_Trad;L_Act_DescAction;Description de l'action;Description of action;Descripción de la acción;Beschrijving van actie;Descricao da acao
+CL_Trad;L_Act_Emprunter;Emprunter;Borrow;Pedir prestado;Lenen;Emprestar
+CL_Trad;L_Act_Investir;Investir;Invest;Invertir;Investeren;Investir
+CL_Trad;L_Act_Planter;Planter;Plant;Plantar;Planten;Plantar
+CL_Trad;L_Act_Reg1;Règle 1;Rule 1;Regla 1;Regel 1;Regra 1
+CL_Trad;L_Act_Remplacer;Remplacer;Replace;Remplazar;Vervangen;Substituir
+CL_Trad;L_Act_Supprimer;Supprimer;Delete;Suprimir;Verwijderen;Apagar
+CL_Trad;L_Agri;Agriculteur;Farmer;Agricultor;Landbouwer;Agricultor
+CL_Trad;L_Animaux;Animaux;Animals;Animales;Dieren;Animais
+CL_Trad;L_Atelier;Atelier;Activity;Actividad;Activiteit;Atividade
+CL_Trad;L_Avt1;Avt 1;Before 1;Antes 1;Voor 1;Antes 1
+CL_Trad;L_Bilan;Bilan;Balance;Balance;Balans;Balanco
+CL_Trad;L_CarInco;caractère inconnu;unknown character;carácter desconocido;onbekend karakter;caractere desconhecido
+CL_Trad;L_Cat;Catégorie;Category;Categoria;Categorie;Categoria
+CL_Trad;L_CatAElt;Cette catégorie a des éléments!;This category contains items;Esta categoria tiene elementos!;Deze categorie bevat items;Essa categoria possui itens
+CL_Trad;L_Ceg;CEG;Farm Accounts;Cuentas de explotación;Rekening;Contas de exploração
+CL_Trad;L_Charge;Charges;Expenses;Costos;Uitgaven;Encargos
+CL_Trad;L_ChfProd;Charges f(Quant);Expenses f(Prod);Costos f(Cantidad);Uitgaven f(Hoeveelheid);Encargos f(Quant)
+CL_Trad;L_ChStruct;Charges Structure;Fixed Assets;Costos fijos;Vaste kosten;Encargos estruturais
+CL_Trad;L_Culture;Culture;Crop;Cultivo;Gewassen;Cultura
+CL_Trad;L_DepDiv;Dépenses diverses;Misc Expenses;Gastos diversos;Diverse uitgaven;Despesas diversas
+CL_Trad;L_DonModifQ;Données Modifiées Voulez vous conserver;Data Modified Do you want to keep?;Datos modificados Quiere conservarlos;Gegevens gewijzigd  Wilt u deze behouden;Dados modificados Voce quer conserva-los
+CL_Trad;L_DonModifT;MODIFICATION;MODIFICATION;MODIFICACIÓN;WIJZIGING;MODIFICACAO
+CL_Trad;L_Eff_Achetes;Eff Achetés;Bought Number;Número comprado;Aankoopnummer;efetivo Comprado
+CL_Trad;L_Eff_Vendus;Eff Vendus;Sold Number;Número vendido;Verkoopnummer;Efetivo vendido
+CL_Trad;L_EffaceQ;j'efface TOUT ?;Do I delete ALL?;elimino todo?;Verwijder ik ALLES?;Apagar TUDO?
+CL_Trad;L_EffaceT;EFFACER TOUT LE TABLEAU;DELETE ALL SHEET;ELIMINAR TODA LA TABLA;VERWIJDER ALLE BLADEN;APAGAR TODA A TABELA?
+CL_Trad;L_Effectifs;Effectifs;Number;Número;Aantal;Efetivo
+CL_Trad;L_Emp_Ct;ct;ST;cp;KT;CP
+CL_Trad;L_Emp_Immo;immo;Fixed Assets;Inmo;Vaste activa;Imobili.
+CL_Trad;L_Emp_Lt;lt;LT;lp;LT;LP
+CL_Trad;L_Emp_Plact;plact;Invest;Inv;Investering;Investir
+CL_Trad;L_Emp_Sub;sub;sub;sub;sub;sub
+CL_Trad;L_Emp_Total;Total;Total;Total;Totaal;Total
+CL_Trad;L_Emprunt;Emprunt;Loan;Prestamo;Lening;Emprestimo
+CL_Trad;L_Emprunt_CT;Emprunt CT;ST Loan;Prestamo CP;KT Lening;Emprestimo CP
+CL_Trad;L_Emprunt_LT;Emprunt LT;LT Loan;Prestamo LP;LT Lening;Emprestimo LP
+CL_Trad;L_Emprunt_Prive;Emprunt Privé;Private Loan;Prestamo Privado;Privé lening;Emprestimo privado
+CL_Trad;L_Erreur;ERREUR;ERROR;ERROR;FOUT;ERRO
+CL_Trad;L_Exter;Externalités;Externalities;Externalidades;Omgevingseffecten;Externalidades
+CL_Trad;L_Fam;Famille;Family;Familia;Familie;Familia
+CL_Trad;L_IdentInco;Identificateur Inconnu;Unknown Identificator;Identificador Desconocido;Onbekende identificator;Identificador desconhecido
+CL_Trad;L_Immobilisation;Immobilisation;Fixed Assets;Inmobilización;Vaste activa;Imobilizacao
+CL_Trad;L_Impo;IMPOSSIBLE;IMPOSSIBLE;IMPOSIBLE;ONMOGELIJK;IMPOSSIVEL
+CL_Trad;L_Inco;  Inconnu;  Unknown;Desconocido;Onbekend;  Desconhecido
+CL_Trad;L_Inconnu; Inconnu  ; Unknown;Desconocido;Onbekend;Desconhecido
+CL_Trad;L_Marge;Marge;Margin;Margen;Marge;Margem
+CL_Trad;L_MargeHeure;Marge/heure;Margin/hour;Margen/hora;Marge/uur;Margem/hora
+CL_Trad;L_Modif;MODIFICATION;MODIFICATION;MODIFICACIÓN;WIJZIGING;MODIFICACAO
+CL_Trad;L_Mvt_Animaux;Mvt Animaux;Mvt Animals;Mvto Animales;Mvt Dieren;Mvt animais
+CL_Trad;L_Nat;Nature;Nature;Naturaleza;Natuur;Natureza
+CL_Trad;L_NbLong;nombre trop long;number too long;nombre demasiado largo;getal is te lang;numero muito grande
+CL_Trad;L_Nom;Nom;Name;Nombre;Naam;Nome
+CL_Trad;L_NonDef;Elément non défini;Item not defined;Elemento no definido;Item niet gedefinieerd;Item nao definido
+CL_Trad;L_ParFerm;manque (;missing (;falta (;missend (;faltando (
+CL_Trad;L_ParOuv;manque );missing );falta );missend );faltando )
+CL_Trad;L_PasDeNom; %s row=%d Pas de nom; %s row=%d No name;%s row=%d No tiene nombre; %s rij=%d Geen Naam; %s rij=%d Sem nome
+CL_Trad;L_PasFinComm;Absence de fin de Commentaire ];End of Comment missing ];Falta el final del comentario ];Einde van commentaar wordt gemist ];Faltando o fim do comentario ]
+CL_Trad;L_PasUnite;Pas d'unité ligne %d ;No unit at line %d;No tiene unidad la línea %d;Geen eenheid in de lijn %d;Sem unidade linha %d
+CL_Trad;L_Perenne;Pérenne;Tree crops;Perenne;Blijvende teelt;Perene
+CL_Trad;L_Poste;Poste;Item;Puesto;Item;Item
+CL_Trad;L_Probleme; Problème ; Problem;Problema;Probleem;Problema
+CL_Trad;L_Proc_PasDon;Pas de données Je NE lance PAS;No data, I cannot start;No hay datos NO se puede comenzar;Geen gegevens, ik kan niet starten;Sem dados
+CL_Trad;L_Produit;Produits;Products;Productos;Producten;Produtos
+CL_Trad;L_QuitQ;Vous voulez vraiment quitter;Do you really want to exit?;Esta usted seguro de salir?;Weet u zeker dat u wilt afsluiten?;Voce quer realmente sair
+CL_Trad;L_QuitT;QUITTER OLYMPE;EXIT OLYMPE;SALIR DE OLYMPE;SLUIT OLYMPE;SAIR DO OLYMPE
+CL_Trad;L_RecDiv;Recettes diverses;Misc Revenues;Ingresos diversos;Diverse uitgaven;Receitas diversas
+CL_Trad;L_Scenario;Scénario;Scenario;Escenario;Scenario;Cenario
+CL_Trad;L_Subvention;Subvention;Subsidy;Subvención;Subsidie;Subsidio
+CL_Trad;L_SupInutQ;j'efface tous les éléments INUTILISES ?;Do you want to delete all UNUSED items?;elimino todos los elementos INUTILIZADOS?;Weet u zeker dat u alle ONGEBRUIKTE items wilt verwijderen;Voce quer apagar todos os elementos nao utilizados?
+CL_Trad;L_SupInutT;NETTOYER;REMOVE;LIMPIAR;VERWIJDER;REMOVER
+CL_Trad;L_SupLiQ; Je supprime la ligne. Vous êtes sur ?; Do you really want to delete the line?;Estad usted seguro de suprimir esta línea?;Weet u zeker dat u deze lijn wilt verwijderen?;Voce tem certeza de que quer apagar a linha?
+CL_Trad;L_Supp;SUPPRESSION;DELETION;SUPRESIÓN;VERWIJDERING;APAGANDO
+CL_Trad;L_SupQ; Je supprime Vous êtes sur ?; Do you really want to delete?;Estad usted seguro de suprimir?;Weet u zeker dat u wilt verwijderen?;Voce tem certeza de que quer apagar?
+CL_Trad;L_SupT;SUPPRESSION;DELETE;SUPRESIÓN;VERWIJDERING;APAGANDO
+CL_Trad;L_SupToutQ; Attention Je supprime TOUT! Vous êtes sur ?; Attention! Do you really want to delete ALL?;Atención Estad usted seguro de suprimir TODO?; Attentie! Weet u zeker dat u ALLES wilt verwijderen?;Atencao! Voce quer realmente apagar TUDO?
+CL_Trad;L_Tendance;Tendance;Tendancy;Tendencia;Tendens;Tendencia
+CL_Trad;L_Total;Total;Total;Total;Totaal;Total
+CL_Trad;L_TotalM;TOTAL;TOTAL;TOTAL;TOTAAL;TOTAL
+CL_Trad;L_Tva;Tva;Vat;Iva;BTW;Vat
+CL_Trad;L_Utilise;UTILISE;USED;UTILIZADO;GEBRUIKT;UTILIZADOS
+CL_Trad;L_Val_Achats;Val Achats;Buying Value;Valor Compras;Aankoopwaarde;Valor das compras
+CL_Trad;L_Val_Inv;Val Inv;Fix. Ass. Value;Valor Inventario;Balanswaarde;Valor imobilizado
+CL_Trad;L_Val_Ventes;Val Ventes;Sales Value;Valor Ventas;Verkoopwaarde;Valor das vendas
+CL_Trad;L_Vivrier;Vivrier;Crops;Cultivos anuales;Voedingsgewassen;Comodites
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//CommercialisationFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+CommercialisationFrm;L_Annee;Année;Year;Año;Jaar;Ano
+CommercialisationFrm;L_Continuer;On continue ?;Do you want to continue?;Quiere usted continuar?;Wilt u verder gaan?;Voce quer continuar?
+CommercialisationFrm;L_Eff;J'efface ;I delete;Borrar;Ik verwijder;Apago
+CommercialisationFrm;L_EffTt; J'efface Tout ;I delete All;Borrar todo;Ik verwijder Alles; Apago tudo
+CommercialisationFrm;L_Impo;Impossible !;Impossible !;Imposible !;Onmogelijk !;Impossivel!
+CommercialisationFrm;L_MemeAn;l'année où copier est la même;cannot copy to same year;no se puede copiar en el mismo año;kan niet gekopieerd worden naar hetzelfde jaar;Nao e possivel copiar o mesmo ano
+CommercialisationFrm;L_Message;Tout n'est pas vendu;Not all is sold;Todo no está vendido;Niet alles wordt verkocht;Nem tudo foi vendido
+CommercialisationFrm;L_MessT;Je Stocke ?;DoI save?;Guardar?;Sla ik op?;Devo estocar?
+CommercialisationFrm;L_Ok;D'accord ?;OK?;De acuerdo?;OK?;OK?
+CommercialisationFrm;L_PasProd;Vous n'avez pas choisi de Produit;You did not select any product;No ha seleccionado un Producto;U heeft geen product geselecteerd;Voce nao escolheu produtos
+CommercialisationFrm;L_PasVenteAvt;Pas de vente avant la production\n à discuter;No sales before production\n to discuss;No hay venta antes de la producción\n a discutir;Geen verkoop voor de productie \te bediscussiëren n;Nao ha vendas antes de produzir\n a discutir
+CommercialisationFrm;L_Prix;    Prix;    Price;  Precio;   Prijs;   Preco
+CommercialisationFrm;L_Quant;Quantité;Quantity;Cantidad;Hoeveelheid;Quantidade
+CommercialisationFrm;L_QVendu;Quantités Vendues;Quantities Sold;Cantidad vendida;Verkoophoeveelheid;Quantidades vendidas
+CommercialisationFrm;L_StockQ;Stock en Quantité;Stock in Quantity;Stock en cantidad;Voorraadhoeveelheid;Estoaue em quantidade
+CommercialisationFrm;L_StockV;Stock en Valeur;Stock in Value;Stock en valor;Voorraadwaarde;Estoque em valor
+CommercialisationFrm;L_TitreG;.,Production,  Val Inventaire,  Reste;.,Production,  Fix. Ass. Val,  Balance;.,Producción, Val Inventario, Resto;.,Productie,  Vaste Activa. Wa,  Balans;.,Producao,  Val Inventario,  Balanco
+CommercialisationFrm;L_Total;Total;Total;Total;Totaal;Total
+CommercialisationFrm;L_TotProduit;Total produit;Total produced;Total producido;Totaal Geproduceerd;Total produtos
+CommercialisationFrm;L_TotVendu;Total vendu;Total sold;Total vendido;Totaal Verkoop;Total vendido
+CommercialisationFrm;L_Valeur;    Valeur;    Value;  Valor;   Waarde;   Valor
+CommercialisationFrm;L_VVendu;Valeur des Ventes;Sales Value;Valor de las Ventas;Verkoopwaarde;Valor das vendas
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefBestiauxFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+DefBestiauxFrm;L_AttSupp; Je supprime %s \n Attention à la numérotation \n Vous êtes sur ?; I delete %s \n watch out for numbering \n Are you sure ?;Elimino %s \n Atención a la numeración \n Estad usted seguro?; Ik verwijder %s \n let op voor nummer \n Bent u zeker ?;Apago %s \n Atencao a numeracao \n Voce tem certeza?
+DefBestiauxFrm;L_MemeOrig;lignes %d %d même Origine ;lines %d %d same Origin ;Línea %d %d mismo Origen;lijnen %d %d zelfde Oorsprong ;linhas %d %d de mesma origem
+DefBestiauxFrm;L_MvtTroupeau;Mouvements du Troupeau;Movements of livestock;Movimiento del rebaño;Veestapelverloop;Movimento do plantel
+DefBestiauxFrm;L_NonDef;Elément non défini;Item not defined;Elemento no definido;Item niet gedefinieerd;Item nao definido
+DefBestiauxFrm;L_OretDest;Origine et Destination identiques ligne %d ;Same Origin and Destination line %d ;Origen y destino idénticos línea %d;Zelfde Oorsprong en Bestemming lijn %d;Origem e Destino identicos linha %d
+DefBestiauxFrm;L_PasOrigine;Origine Inconnue ligne %d ;Origin Unknown line %d ;Origen desconocido línea %d;Oorsprong Onbekend van lijn %d;Origem desconhecida linha %d
+DefBestiauxFrm;L_PasPrix;Pas de Prix ligne %d ;No Price line %d ;No hay Precio línea %d;Geen Prijslijn %d;Sem preco linha%d
+DefBestiauxFrm;L_PasValInv;Pas de Valeur Inventaire ligne %d ;No Value StockList line %d ;No hay valor del Inventario línea %d;Geen Waarde VoorraadLijst lijn %d;Sem valor de Inventario linha %d
+DefBestiauxFrm;L_Titre;.,.,NOM,ValInventaire,Prix/tete,Tva,Origine,Génére,%,Génére,%,Génére,%,Génére,%;.,.,NAME,ValStocklist,Price/head,Vat,Origin,Generate,%,Generate,%,Generate,%,Generate,%;.,.,NOMBRE,ValInventario,Precio/cabeza,IVA,Origen,Generar,%,Generar,%,Generar,%,Generar,%;.,.,NAAM,Waa_InventarisLijst,Prijs/stuk,BTW,Oorsprong,Creëert,%,Creëert,%,Creëert,%,Creëert,%;.,.,NOME,ValInventario,Preco/cabeca,Vat,Origem,Gera,%,Gera,%,Gera,%,Gera,%
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefCalendrierFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+DefCalendrierFrm;L_CarInval;Caractère Invalide dans %s ligne %d ;Character Invalid in %s line %d ;Carácter no valido en %s línea %d;Karakter Ongeldig in %s lijn %d ;Caractere Invalido nas %s linha %d
+DefCalendrierFrm;L_Debut;Debut inclus;Start included;Inicio incluido;Start inclusief;Inicio incluido
+DefCalendrierFrm;L_Dispo; %Dispo; %Available;%Dispo;%Beschikbaar;%Disponivel
+DefCalendrierFrm;L_DispoBizarre;% Dispo bizarre  ligne %d ;% Avail odd  line %d ;% Dispo extraño línea %d;% Beschikbaar oneven  lijn %d;% disponib estranho linha %d
+DefCalendrierFrm;L_Duree0; La période ligne %d a une duree nulle; The period at line %d has no length;El periodo línea %d tiene una duración nula; De periode bij lijn %d heeft geen lengte;O periodo linha %d tem uma duracao nula
+DefCalendrierFrm;L_Duree365; La période ligne %d fait dépasser 365 jours; The period at line %d makes year longer than 365 days;El periodo línea %d sobrepasa 365 días;De periode bij lijn %d maakt jaren langer dan 365 dagen;O periodo linha %d ultrapassa 365 dias
+DefCalendrierFrm;L_Fin;Fin exclus;End excluded;Fin excluido;Einde exclusief;Fim excluido
+DefCalendrierFrm;L_HDispo; Heures utilisées; Hours used;Horas utilizadas;Gebruikte Uren;horas utilizadas
+DefCalendrierFrm;L_HJ;  h/j;  h/day;h/día;h/dag;h/dia
+DefCalendrierFrm;L_JDispo; Jours utilisés; Days used;Días utilizadas;Gebruikte Dagen;Dias utilizadas
+DefCalendrierFrm;L_Jours; Jours; Days;Días;Dagen;Dias
+DefCalendrierFrm;L_PasDeb;Pas de Debut ligne %d ;No Start at line %d ;No hay inicio línea %d;Geen Start bij lijn %d;Sem inicio linha %d
+DefCalendrierFrm;L_PasFin;Pas de Fin ligne %d ;No End at line %d ;No hay fin línea %d;Geen Eind bij lijn %d;Sem Fim linha %d
+DefCalendrierFrm;L_PasHparJour;Pas d'heure par jour ligne %d ;No Hour per day line %d ;No hay hora por día en la línea %d;Geen Uur per dag lijn %d;Sem horas por dia linha %d
+DefCalendrierFrm;L_PasNom; %s ligne=%d Pas de nom;No Name at line %d ;%s línea=%d Sin nombre;Geen Naam op de lijn %d;%s linha=%d Sem nome
+DefCalendrierFrm;L_PerDef;PERIODES DEJA DEFINIES;PERIODS ALREADY DEFINED;PERIODOS YA DEFINIDOS;PERIODEN ZIJN AL GEDEFINIEERD;PERIODOS JA DEFINIDOS
+DefCalendrierFrm;L_Periode;Période ou Activité;Period or activity;Periodo o Actividad;Periode;Periodo
+DefCalendrierFrm;L_Plus100;Plus de 100% disponible;More than 100% Available;Más de 100% disponible;Meer dan 100% Beschikbaar;Mais do que 100% disponivel
+DefCalendrierFrm;L_Rajout;Voulez vous rajouter des périodes ?;Do you want to add periods?;Quiere añadir periodos?;Wilt u perioden toevoegen?;Voce quer ajuntar periodos?
+DefCalendrierFrm;L_SupQ; Je supprime %s \n Vous êtes sur ?; I delete %s \n Are you sure?;Suprimo %s \n Esta usted seguro?;Ik verwijder %s \n Weet u het zeker?;Eu apago %s \n Voce tem certeza?
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefChStructFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+DefChStructFrm;L_EltNonDef;Elément non défini;Item not defined;Elemento no definido;Item niet gedefinieerd;Item nao definido
+DefChStructFrm;L_Titre;.,.,Nom,TVA;.,.,Name,VAT;.,.,Nombre, IVA;.,.,Naam,BTW;.,.,Nome,VAT
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefEtatSortieFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+DefEtatSortieFrm;L_Titre;.,.,CATEGORIE,FAMILLE;.,.,CATEGORY,FAMILY;.,.,CATEGORIA,FAMILIA;.,.,CATEGORIE,FAMILIE;.,.,CATEGORIA,FAMILIA
+DefEtatSortieFrm;L_Titre2;.,.,NOM,CATEGORIE,FAMILLE;.,.,NAME,CATEGORY,FAMILY;.,.,NOMBRE,CATEGORIA,FAMILIA;.,.,NAAM,CATEGORIE,FAMILIE;.,.,NOME,CATEGORIA,FAMILIA
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefItemFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+DefItemFrm;L_PasDeNom; %s row=%d Pas de nom; %s row=%d No name;%s row=%d No tiene nombre; %s rij=%d Geen naam; %s rij=%d Sem nome
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefProcedureFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+DefProcedureFrm;L_EffQ; J'efface cette ligne ?; Do I delete this line ?;Elimino esta línea?; Verwijder ik deze lijn?; Apago esta linha?
+DefProcedureFrm;L_JStockPas;Pas de Données Je ne Stocke rien;No Data, nothing saved;No hay datos para guardar;Geen Gegevens, Ik Sla niets op;Sem dados
+DefProcedureFrm;L_LancerQ;\n   Je lance ?;\n   Do I start?;\n Comenzar?;\n   Ga ik starten?;\n   Comeco?
+DefProcedureFrm;L_PasDExe;Pas d'Executable Indiqué;No Application Indicated;Ninguna Aplicación Indicada;Geen Vermelde Toepassing;Executavel nao indicado
+DefProcedureFrm;L_PasFTrf;Pas de Fichier pour Transférer les Données;No File available to Transfer the Data;Ningun Fichero para Transferir los Datos;Geen bestand beschikbaar om de Gegevens te Verplaatsen;Nao ha arquivo para transferencia de dados
+DefProcedureFrm;L_Procedure;Procédure;Procedure;Procedimiento;Procedure;Procedimento
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefProduitFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+DefProduitFrm;L_ErrNom; %s row=%d Pas de nom; %s row=%d No name;%s row=%d No tiene nombre; %s rij=%d Geen naam; %s row=%d Sem nome
+DefProduitFrm;L_NonDef;Elément non défini;Item not defined;Elemento no definido;Item niet gedefinieerd;Item nao definido
+DefProduitFrm;L_PasUnite;Pas d'unité ligne %d ;No unit at line %d ;No hay unidad en la línea %d;Geen eenheid bij lijn %d;Sem unidade linha %d 
+DefProduitFrm;L_PrixEg1;prix=1 Par définition ligne %d ;price=1 by definition, line %d ;precio=1 Por definición línea %d;prijs=1 met definitie, lijn %d ;preco=1 Por definicao linha %d 
+DefProduitFrm;L_Titre;.,.,Nom,U.Atelier,U.Entreprise,U.Région,Prix/U.Ent,Tva;.,.,Name,U.Activity,U.Farm,U.Region,Price/U.Farm,Vat;.,.,NombreE,U.Actividad,U.Empresa,U.Región,Precio/U.Emp,IVA;.,.,Naam,U.Activiteit,U.Bedrjif,U.Regio,Prijs/U.Bedrijf,BTW;.,.,Nome,U.Atividade,U.EFazenda,U.Regiao,Preco/U.Faz,Vat
+DefProduitFrm;L_UnParDef;1 Par définition !! Impossible de changer la monnaie;1 by definition !! Unable to change Currency;1 Por definición !! Imposible cambiar la moneda;1 met Definitie !! Onmogelijk om valuta te veranderen;1 Por definicao !! Impossivel de mudar a moeda
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefVariableFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+DefVariableFrm;L_NonDef;Elément non défini;Item not defined;Elemento no definido;Item niet gedefinieerd;Item nao definido
+DefVariableFrm;L_PasDUnit;Pas d'unité ligne %d ;No unit at line %d ;No hay unidad en la línea %d;Geen eenheid bij lijn %d;Sem unidade linha %d 
+DefVariableFrm;L_Titre;.,.,Nom,U.Atelier,U.Entreprise,U.Region;.,.,Name,U.Activity,U.Farm,U.Region;.,.,Nombre,U.Actividad,U.Empresa,U.Región;.,.,Naam,U.Activiteit,U.Bedrijf,U.Regio;.,.,Nome,U.Atividade,U.Fazenda,U.Regiao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefZoneFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+DefZoneFrm;L_Titre;.,.,NOM;.,.,NAME;.,.,NOMBRE;.,.,NAAM;.,.,NOME
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//EcrireAccessFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+EcrireAccessFrm;L_Remplace;Ecraser Un Fichier ?;Replace a file?;Eliminar un Fichero?;Een Bestand vervangen?;Substituir ?
+EcrireAccessFrm;L_RemplaceAll; existe déjà !\nEtes-vous bien sûr(e) de vouloir l'écraser ?\n; Already exists !\nDo you really want to replace it?\n;Ya existe !\nEstad usted seguro de eliminarlo ?\n; bestaat reeds! \nWeet u zeker dat u het wilt vervangen?\n; Ja existe !\nVoce realmente quer lhe substituir ?\n
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//EffacerFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+EffacerFrm;L_NettoyerQ;Vous voulez vraiment nettoyer;Do you really want to erase?;Estad usted seguro de eliminar?;Weet u zeker dat u wilt verwijderen?;Voce realmente quer apagar?
+EffacerFrm;L_NettoyerT;NETTOYAGE;REMOVING;ELIMINANDO;VERWIJDERING;APAGANDO
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//ErreurFinSommaireFrm;;;;;;
+ErreurFinSommaireFrm;L_LaFormule;La formule;The formula;La fórmula;De formule;A fórmula
+ErreurFinSommaireFrm;L_DetteN;Dette(n)=;Debt(n)=;Deuda(n)=;Schuld(n)=;Dívida(n)=
+ErreurFinSommaireFrm;L_DetteN1;   Dette(n-1);    Debt(n-1);   Deuda(n-1);  Schuld(n-1);Dívida(n-1)
+ErreurFinSommaireFrm;L_RembourN;  - Remboursement(n);    - Refund(n);   - Reembolso(n);  - Aflossing(n); - Reembolso(n)
+ErreurFinSommaireFrm;L_NouveauN;  + Nouveau(n);    + New(n);   + Nuevo(n);  + Nieuw(n);   + Novo(n)
+ErreurFinSommaireFrm;L_NonVerif;N'EST PAS VERIFIEE; IS NOT VALID;NO ES VERIFICADA;IS NIET VALIDE;NÃO É VERIFICADA
+ErreurFinSommaireFrm;L_Dette;Dette;Debt;Deuda;Schuld;Dívida
+ErreurFinSommaireFrm;L_Rembour;Remboursement;Refund;Reembolso;Aflossing;Reembolso
+ErreurFinSommaireFrm;L_NeRienFaire;Ne Rien Faire;Do nothing;No hacer nada;Doe niets;Não fazer nada
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//ErreurImmoSommaireFrm;;;;;;
+ErreurImmoSommaireFrm;L_LaFormule;La formule;The formula;La fórmula;De formule;A fórmula
+ErreurImmoSommaireFrm;L_ValResid;Valeur Résiduelle(n)=;Residual value(n)=;Valor Residual(n)=;Restwaarde(n)=;Valor Residual(n)=
+ErreurImmoSommaireFrm;L_ValResidN;    Valeur Residuelle(n-1);     residual value(n-1);    Valor Residual(n-1)=;  Restwaarde(n-1);Valor Residual(n-1)=
+ErreurImmoSommaireFrm;L_Amor; - Amortissement(n); - Depreciation(n); - Amortización(n);  - Afschrijving(n); - Amortização(n)
+ErreurImmoSommaireFrm;L_Achat; + Achat(n); + Purchase(n); + Adquisición(n);  + Aankoop(n); + Compra(n)
+ErreurImmoSommaireFrm;L_Revente; - Revente(n); - Resale(n); - Reventa(n);  - Verkoop(n); - Revenda(n)
+ErreurImmoSommaireFrm;L_ProdImmo; + Production d'immo(n); + Fixed assets prod(n); + Produc Capital(n);  + waarde producten(n); + Produc Capital(n)
+ErreurImmoSommaireFrm;L_NonVerif;N'EST PAS VERIFIEE; IS NOT VALID;NO ES VERIFICADA;IS NIET VALIDE;NÃO É VERIFICADA
+ErreurImmoSommaireFrm;L_ValResiduelles;Valeurs Résiduelles;Residual value;Valor Residual;Restwaarde;Valor Residual
+ErreurImmoSommaireFrm;L_Amors;Amortissements;Depreciation;Amortización;Afschrijving;Amortização
+ErreurImmoSommaireFrm;L_NeRienFaire;Ne Rien Faire;Do nothing;No hacer nada;Doe niets;Não fazer nada
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//EnsembleFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+EnsembleFrm;L_Abandon;J'abandonne ?;Do I quit?;Abandonar?;Sluit ik?;abandono ?
+EnsembleFrm;L_Agri;Agriculteur;Farmer;Agricultor;Landbouwer;Agricultor
+EnsembleFrm;L_EffQ;J'efface ?;Do I delete?;Borrar?;Verwijder ik?;Apago ?
+EnsembleFrm;L_NbType; nb types=  ; n° types=  ;nº tipos=; n° types=  ; nr tipos=  
+EnsembleFrm;L_NVar;N° Var;N° Var;Nº Var;N° Var;N° Var
+EnsembleFrm;L_SupQ; Je supprime   ; I delete;Suprimir;Ik verwijder;Apago
+EnsembleFrm;L_SupQ2;  Vous êtes sur ?; Are you sure?;Estad usted seguro?;Weet u het zeker?;Tem certeza?
+EnsembleFrm;L_SupT;SUPPRESSION;DELETION;SUPRESIÓN;VERWIJDERING;APAGANDO
+EnsembleFrm;L_Tot;Total;Total;Total;Totaal;Total
+EnsembleFrm;L_Total;Total;Total;Total;Totaal;Total
+EnsembleFrm;L_Vide;Ensemble Vide;Empty Set;Conjunto vacio;Leeg geheel;Conjunto vazio
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//EspeceFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+EspeceFrm;L_Dur100;Maximum de vie mis à 100 ligne %d ;Maximum life put at 100, line %d ;Vida máxima puesta a 100 línea %d;Maximum levensduur gezet op 100, line %d ;Maximo de vida colocado a 100 linha %d 
+EspeceFrm;L_Incoherent;Incohérence dans les phases ligne %d ;Discrepancy in phases at line %d ;Incoherencia en las fases línea %d;Niet consistent in fasen bij lijn %d ;Incoerenciae nas fases linha %d 
+EspeceFrm;L_MisA1;  0 aberrant  pour la Phase 1 Mis A 1;  0 aberrant  for Phase 1, Put At 1;0 ilógico en la Fase 1 Puesto A 1;  0 afwijkend voor de Fase 1 Gezet A 1;  0 aberrante  para a fase 1 Colocar A 1
+EspeceFrm;L_PasAm;Pas de Debut d'Amortissement ligne %d ;No start date for Depreciation at line %d ;No hay Inicio de Amortización línea %d;Geen startdatum voor afschrijving bij lijn %d;Sem Inicio da amortizacao linha %d 
+EspeceFrm;L_PasEsp;Pas de Nom d'Espèces ligne %d ;No Species Name at line %d ;No hay nombre de Especie línea %d;Geen SoortNaam bij lijn %d ;Sem Nome de Especie linha %d 
+EspeceFrm;L_SupQ; Je supprime Vous êtes sur ?; Do you really want to delete?;Esta usted seguro de suprimir?;Weet u zeker dat u wilt verwijderen?;Voce tem certeza de que quer apagar ?
+EspeceFrm;L_SupT;SUPPRESSION;DELETION;SUPRESIÓN;VERWIJDERING;APAGANDO
+EspeceFrm;L_Titre;.,.,ESPECE,Deb_Amor,Maxi,1,2,3,4,5,6,7,8,9,10,11,12,13,14;.,.,SPECIES,Begin_Depr,Maxi,1,2,3,4,5,6,7,8,9,10,11,12,13,14;.,.,ESPECIE,Inicio_Amor,Maxi,1,2,3,4,5,6,7,8,9,10,11,12,13,14;.,.,SOORT,Begin_Afsc,Maximaal,1,2,3,4,5,6,7,8,9,10,11,12,13,14;.,.,ESPECIE,Deb_Amor,Maxi,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+EspeceFrm;L_Util; UTILISE ; USED;UTILIZADO;GEBRUIKT; UTILIZADO
+EspeceFrm;L_Espece;Espece;Species;Especie;SoortNaam;Nome de Especie
+EspeceFrm;L_DebAmor;Deb amort;Begin depreciation;Inicio Amortización;Start afschrijving;Inicio da amortizacao
+EspeceFrm;L_Maxi;Maxi;Maxi;Maxi;Maxi;Maxi
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Forme00Frm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+Forme00Frm;L_ErrAn;Erreur sur l'année;Error on year;Error en el año;Fout op Jaar;Erro no ano
+Forme00Frm;L_ErrDate;Erreur sur la date;Error on date;Error en la fecha;Fout op datum;Erro na data
+Forme00Frm;L_ErrMois;Erreur sur le mois;Error on month;Error en el mes;Fout op maand;Erro no mes
+Forme00Frm;L_ErrNbJour;Erreur sur nombre de jours du mois;Error on number of days of month;Error en el nº de días del mes;Fout op aantal dagen van maand;Erro no numero de dias do mes
+Forme00Frm;L_NomDonne;Nom déjà donné ;Name already used;Nombre ya dado;Naam is al in gebruik;Nome ja atribuido
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereAgriFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+GereAgriFrm;L_ADesVar;Impossible: A des Variantes\n Essayer Elaguer;Impossible: Has Variants\n Try Pruning;Imposible: Tiene Variantes\n Intentar Reducirlo;Onmogelijk: Heeft Varianten \n probeer uit te dunnen;Impossivel: Tem Variantes\n Tente Podar
+GereAgriFrm;L_Agri;Agriculteur;Farmer;Agricultor;Landbouwer;Agricultor
+GereAgriFrm;L_Elaguer; Vous Elaguez ; You prune;Usted reduce;U dunt uit;Voce poda
+GereAgriFrm;L_NbVar; Nb Var; No Var;Nº Var; N° Var; Nr Var
+GereAgriFrm;L_NoVar; N° Var; No Var;Nº Var; N° Var; N° Var
+GereAgriFrm;L_PasAgri;Pas d'agriculteur défini;No farmer defined;Ningun agricultor definido;Geen landbouwer gedefinieerd;Nenhum agricultor definido
+GereAgriFrm;L_SupQ; Vous Supprimez ; You Delete;Usted suprime;U verwijdert; Voce apaga
+GereAgriFrm;L_SupT;SUPPRESSION;DELETION;SUPRESION;VERWIJDERING;APAGANDO
+GereAgriFrm;L_Utilise;UTILISE;USED;UTILIZADO;GEBRUIKT;UTILIZADO
+GereAgriFrm;L_VarDe;Variantes de ;Variants from;Variantes de;Varianten van;Variantes de
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereAleaPrixFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+GereAleaPrixFrm;L_Charge;CHARGE;COST;COSTE;KOSTEN;ENCARGOS
+GereAleaPrixFrm;L_Erreur;ERREUR;ERROR;ERROR;FOUT;ERRO
+GereAleaPrixFrm;L_Existe;Il existe déjà;Already used;Ya existe;Reeds gebruikt;Ja existe
+GereAleaPrixFrm;L_Exter;EXTERNALITE;EXTERNALITY;EXTERNALIDAD;OMGEVINGSFACTOR;EXTERNALIDADE
+GereAleaPrixFrm;L_Impo;IMPOSSIBLE;IMPOSSIBLE;IMPOSIBLE;ONMOGELIJK;IMPOSSIVEL 
+GereAleaPrixFrm;L_ModifScen;Modification Nom Scénario;Modification Name Scenario;Nombre Escenario modificado;Modificatie Naam Scenario;Modificacao Nome Cenario
+GereAleaPrixFrm;L_ModifTend;Modification Nom Tendance;Modification Name Tendancy;Nombre Tendencia Modificado;Modificatie Naam Tendens;Modificacao Nome Tendencia
+GereAleaPrixFrm;L_NouvScen;  Nouveau Scénario; New Scenario;Escenario Nuevo;  Nieuw Scenario;Novo cenario
+GereAleaPrixFrm;L_NouvTend;  NouvelleTendance; New Tendancy;Tendencia Nueva;  Nieuwe Tendens;Nova tendencia
+GereAleaPrixFrm;L_NouvTendCop;Nouvelle Tendance copie de;New Tendancy copies from;Tendencia Nueva copiada de;De nieuwe Tendens kopiëert van;Nova tendencia copia de
+GereAleaPrixFrm;L_PasNom; Pas de nom; No Name;No hay nombre; Geen Naam;Sem nome
+GereAleaPrixFrm;L_PasSel;Aucun elément n'est sélectionné;No item selected;No ha seleccionado ningun elemento;Geen geselecteerd item;Nada esta selecionado
+GereAleaPrixFrm;L_Pb;PROBLEME;PROBLEM;PROBLEMA;PROBLEEM;PROBLEMA
+GereAleaPrixFrm;L_PrixScenCha;PRIX: SCENARIO: Charge;PRICE: SCENARIO: Cost;PRECIO: ESCENARIO: Coste;PRIJS: SCENARIO: Kosten;PRECO: CENARIO: Encargos
+GereAleaPrixFrm;L_PrixScenProd;PRIX: SCENARIO: Produit;PRICE: SCENARIO: Product;PRECIO:ESCENARIO: Producto;PRIJS: SCENARIO: Product;PRECO: CENARIO: Produto
+GereAleaPrixFrm;L_PrixTendCha;PRIX: TENDANCE: Charge;PRICE: TENDANCY: Cost;PRECIO: TENDENCIA: Coste;PRIJS: TENDENS: Kosten;PRECO: TENDENCIA: Encargos
+GereAleaPrixFrm;L_PrixTendProd;PRIX: TENDANCE: Produit;PRICE: TENDANCY: Product;PRECIO: TENDENCIA: Producto;PRIJS: TENDENS: Product;PRECO: TENDENCIA: Produto
+GereAleaPrixFrm;L_Prod;PRODUIT;PRODUCT;PRODUCTO;Product;PRODUTO
+GereAleaPrixFrm;L_QuantScenExt;QUANTITE: SCENARIO: Externalité;QUANTITY: SCENARIO: Externality;CANTIDAD: ESCENARIO: Externalidad;HOEVEELHEID: SCENARIO: Omgevingsfactor;QUANTIDADE: CENARIO: Externalidade
+GereAleaPrixFrm;L_QuantScenProd;QUANTITE: SCENARIO: Produit;QUANTITY: SCENARIO: Product;CANTIDAD: ESCENARIO: Producto;HOEVEELHEID: SCENARIO: Product;QUANTIDADE: CENARIO: Produto
+GereAleaPrixFrm;L_QuantTendExt;QUANTITE: TENDANCE: Externalité;QUANTITY: TENDANCE: Externality;CANTIDAD: TENDENCIA: Externalidad;HOEVEELHEID: TENDENS: Omgevingsfactor;QUANTIDADE: TENDENCIA: Externalidade
+GereAleaPrixFrm;L_QuantTendProd;QUANTITE: TENDANCE: Produit;QUANTITY: TENDANCY: Product;CANTIDAD: TENDENCIA: Producto;HOEVEELHEID: TENDENS: Product;QUANTIDADE: TENDENCIA: Produto
+GereAleaPrixFrm;L_Rien;Rien à supprimer;Nothing to delete;Nada a suprimir;Niets te verwijderen;Nada a apagar
+GereAleaPrixFrm;L_Sup;Vous voulez vraiment supprimer !;Do you really want to delete?;Estad usted seguro de suprimir?;Weet u zeker dat u wilt verwijderen?;Voce quer realmente apagar!
+GereAleaPrixFrm;L_Util;est utilisé !;already used!;¡esta utlizado!;wordt gebruikt!;em uso!!
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereAtelierFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+GereAtelierFrm;L_AtUtil; Atelier utilisé !; Activity Used; Actividad utilizada!; Gebruikte activiteit!;Atividade utilizada!
+GereAtelierFrm;L_ModifNomAt;Modification Nom Atelier;  Modif Activity Name; Nombre Actividad Modificado;Wijziging Naam Activiteit;Modificacao nome categoria
+GereAtelierFrm;L_ModifNomCat;Modification Nom Categorie; Modif Category Name;Nueva Categoria Nombre;Wijziging Naam Categorie;Modificacao nome categoria
+GereAtelierFrm;L_NouvAtelier;  Nouvel Atelier;  New Activity; Nueva Actividad;  Nieuwe activiteit;Nova atividade
+GereAtelierFrm;L_NouvCatCopDe;Nouvelle Catégorie copie de;New Category Copied from;Nueva Categoria copia de;De nieuwe Categorie kopiëert van;Nova categoria copiar de
+GereAtelierFrm;L_PasCatSel;Aucune Catégorie sélectionnée; No Category Selected;Modificación Nombre Categoria;Geen enkele geselecteerde Categorie;Nenhuma categoria selecionada
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereCalendrierFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+GereCalendrierFrm;L_NouvCal;Nouveau Calendrier;New Calendar;Calendario nuevo;Nieuwe Kalender;Novo Calendario
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereCatItem;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+GereCatItem;L_CopieDe;Copie De  ;Copy of ;Copia De;Kopie van;Copiar de
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereCatItemFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+GereCatItemFrm;L_Ani;Animaux;Animals;Animales;Dieren;Animais
+GereCatItemFrm;L_ChOp;Charges Opérationnelles;Operative Costs;Costos variables;Operationele kosten;Encargos operacionais
+GereCatItemFrm;L_ChStruct;Charges de Structure;Fixed Costs;Cosotos Fijos;Vaste kosten;Encargos estruturais
+GereCatItemFrm;L_CleClass;Clé de Classement;Classification Keys;Clave de clasificación;Indelingssleutel;Chave de classificacao
+GereCatItemFrm;L_DepFam;Dépenses Familiales;Family Expenses;Gastos Familiares;Familieuitgaven;Despesas familiares
+GereCatItemFrm;L_Erreur;ERREUR;ERROR;ERROR;FOUT;ERRO
+GereCatItemFrm;L_Existe;Il existe déjà;Already used;Ya existe;Is al in gebruik;Ja existe
+GereCatItemFrm;L_Exter;Externalités;Externalities;Externalidades;Omgevingsfactoren;Externalidades
+GereCatItemFrm;L_Impo;IMPOSSIBLE;IMPOSSIBLE;IMPOSIBLE;ONMOGELIJK;IMPOSSIVEL
+GereCatItemFrm;L_JSup;Je supprime %s \n Vous êtes sur ?;I delete %s \n Are you sure;Suprimo %s \n Esta usted seguro?;Ik verwijder %s \n Weet u het zeker?;Eu apago %s \n Tem certeza ?
+GereCatItemFrm;L_Modif;MODIFICATION;MODIFICATION;MODIFICACIÓN;WIJZIGING;MODICACAO
+GereCatItemFrm;L_ModifNom;Modification du Nom;name Modificatin;Nombre modificado;Naam gewijzigd;Modificacao do nome
+GereCatItemFrm;L_NouvCat;Nouvelle Catégorie;New Category;Nueva Categoria;Nieuwe Categorie;Nova categoria
+GereCatItemFrm;L_PasNom; Pas de nom;No Name;No hay nombre;Geen Naam;Sem nome
+GereCatItemFrm;L_PasSel;Aucun elément n'est sélectionné;No item selected;No hay ningun elemento seleccionado;Geen item geselecteerd;Nenhum item selecionado
+GereCatItemFrm;L_Prob;PROBLEME;PROBLEM;PROBLEMA;PROBLEEM;Problema
+GereCatItemFrm;L_Prod;Produits;Products;Productos;Producten;Produtos
+GereCatItemFrm;L_RecDiv;Recettes Diverses;Other Revenue;Ingresos Varios;Diverse inkomsten;Receitas diversas
+GereCatItemFrm;L_RecFam;Recettes Familiales;Family Revenues;Ingresos Familiares;Familieinkomsten;Receitas familiares
+GereCatItemFrm;L_RienACop;Rien à copier;Nothing to copy;Nada a copiar;Niets te kopieren;Nada a copiar
+GereCatItemFrm;L_Sup;SUPPRESSION;DELETION;SUPRESIÓN;AFSCHAFFING;APAGANDO
+GereCatItemFrm;L_Var;Variables;Variables;Variables;Variabelen;Variaveis
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereEnsemble;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+GereEnsemble;L_ACopierSous;A Copier sous;Copy as?;Copiar en;Te Kopieren onder?;A copiar sobre
+GereEnsemble;L_Ens;Ensemble;Set;Conjunto;Samenstelling;Conjunto
+GereEnsemble;L_Existe;Existe déjà;Already exists;Ya existe;Bestaat reeds;Ja existe
+GereEnsemble;L_NbVar;Nb Var;No Var?;Cantidad Var?;No Var?;Nr Var
+GereEnsemble;L_NoVar;N° Var;No Var?;Nº Var?;N° Var?;N° Var
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereEtatFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+GereEtatFrm;L_CopDe;Copie de  ;Copy from;Copia de ;Kopie van;Copia de
+GereEtatFrm;L_Erreur;ERREUR;ERROR;ERROR;FOUT;ERRO
+GereEtatFrm;L_Existe;Il existe déjà;Already defined;Ya existe;Is reeds gedefinieerd;Ja existe
+GereEtatFrm;L_Impo;IMPOSSIBLE;IMPOSSIBLE;IMPOSIBLE;ONMOGELIJK;IMPOSSIVEL
+GereEtatFrm;L_ModNom;Modification Nom ;Modification of Name;Nombre Modificado;Naamswijziging;Modificacao Nome
+GereEtatFrm;L_NCatCopDe;Nouvelle Catégorie copie de  ;  ;Nueva Categoria copia de;De nieuwe Categorie kopiëert van  ;Nova categoria copa de
+GereEtatFrm;L_NComp;Nouvelle Comparaison;New Comparison;Nueva Comparación;Nieuwe Vergelijking;Nouvelle Comparaison
+GereEtatFrm;L_NEtat;Nouvel Etat;New Output Form;Nuevo Estado;Nieuwe Staat;Nouvel Etat
+GereEtatFrm;L_PasNom; Pas de nom;No Name;No hay nombre ;Geen Naam;Sem nome
+GereEtatFrm;L_PasSel;Aucune Catégorie sélectionnée;No category selected;Ninguna Categoria seleccionada;Geen enkele geselecteerde Categorie;Nenhu
+GereEtatFrm;L_Prob;PROBLEME;PROBLEM;PROBLEMA;PROBLEEM;PROBLEMA
+GereEtatFrm;L_RienACop;Rien à copier;Nothing to copy;Nada a copiar;Niets te kopieren;ma categoria selecionada
+GereEtatFrm;L_Sup;Vous voulez vraiment supprimer !;Do you really want to delete?;Estad usted seguro de suprimir !;U wilt echt verwijderen!;Vous voulez vraiment supprimer !
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LBSelectionAgriFrm;;;;;;
+LBSelectionAgriFrm;L_Manuel;Manuel;Manual;Manual;Handmatig;Manual
+LBSelectionAgriFrm;L_Tri;Tri;Sort;Ordenar;Sorteer;Classificar
+LBSelectionAgriFrm;L_Addition;Addition;Addition;Suma;Toevoeging;Soma
+LBSelectionAgriFrm;L_Extraire;Extraire;Extract;Extraer;Extraheer;Extrair
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//MainForm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+MainForm;L_Affichage;AFFICHAGE;DISPLAY;MOSTRAR;DISPLAY;MOSTRAR
+MainForm;L_AOuvrir;A  ouvrir ?;Do you want to open the file?;Abrir?;Openen?;Abrir?
+MainForm;L_DateLim;date limite %2d %2d;final date %2d %2d;fecha límite %2d %2d;datum %2d %2d;data limite %2d %2d
+MainForm;L_Ecran;Ecran l=%d h=%d \n Adaptation à cet écran !!!;Screen l=%d h=%d \n Adaptation to that screen !!!;Pantalla I=%d h=%d \n Adaptado a esta pantalla !!!;Scherm l=%d h=%d \n Aanpassing aan dit scherm!!!;Monitor l=%d h=%d \n Adaptacao a este monitor !!!
+MainForm;L_EcraseFic;Ecraser Un Fichier ?;Replace a file?;Eliminar un Fichero?;Een Bestand vervangen?;Substituir ?
+MainForm;L_EcraserQ; existe déjà !\nEtes-vous bien sûr(e) de vouloir l'écraser ?\n; Already exists !\nDo you really want to replace it?\n;Ya existe !\nEstad usted seguro de eliminarlo ?\n; bestaat reeds! \nWeet u zeker dat u het wilt vervangen?\n; Ja existe !\nVoce realmente quer lhe substituir ?\n
+MainForm;L_Fich;FICHIER;FILE;FICHERO;BESTAND;ARQUIVO 
+MainForm;L_Fichier;  fichier : ;  file: ;fichero :; bestand: ;arquivo:
+MainForm;L_FinTest;PERIODE DE TEST ECOULEE;TEST PERIOD ELAPSED;Periodo de prueba agotado;AFGELOPEN PERIODE VAN TEST;PERIODO DE TERSTE TERMINADO
+MainForm;L_Impo;IMPOSSIBLE;IMPOSSIBLE;IMPOSIBLE;ONMOGELIJK;IMPOSSIVEL
+MainForm;L_Inco;langue inconnue;Unknown language;Idioma desconocido;onbekende taal;Idioma desconhecido
+MainForm;L_Note;Notes;Notes;Notas;Aantekeningen;Notas
+MainForm;L_NouvDef;NouvelleDéfinition;NewDefinition;DefiniciónNueva;Nieuwe Definitie;NovaDefinicao
+MainForm;L_Nouveau;Nouveau;New;Nuevo;Nieuw;Novo cenario
+MainForm;L_Ouvrir;Ouvrir;Open;Abrir;Openen;Abrir 
+MainForm;L_PasAgri;Pas d'agriculteur sélectionné;No farmer selected;Ningun agricultor seleccionado;Geen geselecteerde landbouwer;Nenhum agricultor selecionado
+MainForm;L_PasEnsemble;Pas d'ensemble selectionné;No Set Selected;Ningun conjunto seleccionado;Geen Set Geselecteerd;m conjuntp selecionadoNenhu
+MainForm;L_PasFicOuv;Pas de fichier ouvert;No file opened;Ningun fichero abierto;Geen geopend bestand;Nenhum arquivo aberto
+MainForm;L_PasMemoire;Mémoire épuisée;Out of Memory;Memoria agotada;Geen geheugen meer;Memoria cheia
+MainForm;L_SauverSous;Enregistrer Sous;Save As;Guardar como;Opslaan als;Salvar como
+MainForm;L_StocPermis;Stockage Permis ?;Saving Allowed?;Permitido Guardar?;Toegestane opslag?;Estocagem permitida?
+MainForm;L_Excel;Excel est déjà ouvert! Fermer-le avant de continuer;Excel is already open, close it before continuing;Excel ya está abierto, ciérrelo antes de continuar;Excel is al open, sluiten voordat je verdergaat;Excel estiver aberto, feche-o antes de continuar
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//MvtAnneeFrm;;;;;;
+MvtAnneeFrm;L_Debut;Début;Start;Inicio;Begin;Inicio
+MvtAnneeFrm;L_Vente;Vente;Sale;Venta;Verkoop;Venda
+MvtAnneeFrm;L_Achat;Achat;Purchase;Compra;Aankoop;Compra
+MvtAnneeFrm;L_Ne;Né;Born;Nació ;Geboren;Nasceu 
+MvtAnneeFrm;L_Mort;Mort;Dead;Murió;Dood;Morreu
+MvtAnneeFrm;L_Entree;Entrée;In;Entrada ;Inkomend;Entrada 
+MvtAnneeFrm;L_Sortie;Sortie;Output;Salida;Uitgaand;Saída
+MvtAnneeFrm;L_Fin;Fin;End;Final;Einde;Fim
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//NouvAgriFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+NouvAgriFrm;L_ACopSous;Copier sous (nouveau nom);Copy as (new name);Copiar como (nuevo nombre);Kopiëren onder (deze naam);Copia como (novo nome)
+NouvAgriFrm;L_Agri;Agriculteur;Farmer;Agricultor;Landbouwer;Agricultor
+NouvAgriFrm;L_CopieDe;Copie de  ;Copy from;Copiar de ;Kopie van;Copia de
+NouvAgriFrm;L_Erreur;ERREUR;ERROR;ERROR;FOUT;ERRO
+NouvAgriFrm;L_Existe;Il existe déjà;Already exists;Ya existe;Deze bestaat reeds;Ja existe
+NouvAgriFrm;L_Modifier;Modifier  ;Modify;Modificar;Wijzigen;Modificar
+NouvAgriFrm;L_ModNomEn;Modifier le Nom en ;Modify Name as;Modificar el Nombre en;De Naam Wijzigen in;Modificar o nome em
+NouvAgriFrm;L_ModNomVar;Modifier le nom des variantes ;Modify Variants name;Modificar el nombre de variantes;De Naam van de Varianten Wijzigen;Modificar o nome das variaveis
+NouvAgriFrm;L_NbVar;Nb Variante;No Variant;Cantidad Variantes;Aantal Varianten;Nr Variavel
+NouvAgriFrm;L_NouvAgri;Nouvel Agriculteur;Copy from;Agricultor Nuevo;Nieuwe Landbouwer;Novo agricultos
+NouvAgriFrm;L_NoVar;N° Variante;No Variant;Nº Variantes;N° Variant;N° Variavel
+NouvAgriFrm;L_VAR;VARIANTES;VARIANTS;VARIANTES;VARIANTEN;VARIAVEIS
+NouvAgriFrm;L_VarDe;Variante de  ;Variant from;Variante de ;Variant van;Variavel de  
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QRSortieQuantFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+QRSortieQuantFrm;L_1;Quantites Physiques;Actual Quantities;Cantidades Físicas;Actuele hoeveelheden;Quantidades fisicas
+QRSortieQuantFrm;L_2;Externalités;Externalities;Externalidades;Omgevingsfactoren;Externalidades
+QRSortieQuantFrm;L_3;Produits;Products;Productos;Producten;Produtos
+QRSortieQuantFrm;L_4;Charges;Costs;Costos;Kosten;Encargos
+QRSortieQuantFrm;L_5;Animaux Vendus;Animals Sold;Animales Vendidos;Verkochte dieren;Animais vendidos
+QRSortieQuantFrm;L_6;tête;head;cabeza;hoofd;cabeca
+QRSortieQuantFrm;L_7;Animaux Achetés;Animals bought;Animales Comprados;Gekochte dieren;Animais comprados
+QRSortieQuantFrm;L_8;Négatives;Negative;Negativas;Negatief;Negativos
+QRSortieQuantFrm;L_9;Positives;Positive;Positivas;Positief;Positivos
+QRSortieQuantFrm;L_Comp;Comparaison;Comparison;Comparación;Vergelijking;Comparacao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QRSortieValFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+QRSortieValFrm;L_1;Synthèse Economique;Economical Synthesis;Resumen Económico;Economische synthese;Sintese economica
+QRSortieValFrm;L_10;Animaux Recettes Dépenses;Animals Incomes Expenses;Animales Ingresos Gastos;Dieren Inkomsten Uitgaven;Animais - Receitas e Despesas
+QRSortieValFrm;L_100;Acompte Novembre;Account November;Anticipo Noviembre;Voorschot November;Conta em Novembro
+QRSortieValFrm;L_101;Solde;Balance;Balance;Saldo;Saldo
+QRSortieValFrm;L_102;Emprunt Long Terme;Long Term Loan;Prestamo Largo Plazo;Lening Lange Termijn;Emprestimo de longo prazo
+QRSortieValFrm;L_103;Emprunt Court Terme;Short Term Loan;Prestamo Corto Plazo;Lening Korte Termijn;Eprestimo de curto prazo
+QRSortieValFrm;L_104;OCCC;Overdraft;Credito al descubierto;OCCC;Descoberto autorizado
+QRSortieValFrm;L_105;Frais Occc;OverDraft costs;Costos Crédito al descubierto;Kosten Occc;Custo descoberto autorizado
+QRSortieValFrm;L_106;RECAPITULATION;RECAP;RECAPITULACIÓN;RECAPITULATIE;RECAPITULACAO
+QRSortieValFrm;L_107;Subvention;Grant;Subvención;Subsidie;Subsidio 
+QRSortieValFrm;L_108;Amortissement;Depreciation;Amortización;Afschrijving;Depreciacao
+QRSortieValFrm;L_109;à amortir;To pay off;A amortizar;om af te schrijven;a amortizar
+QRSortieValFrm;L_11;Oubli dans Prepare;Missing item in Planning;Olvidado en la Planificación;Vermist item in Planning;Item esquecido no planejamento
+QRSortieValFrm;L_110;Placement;Investment;Inversión;Belegging;Investimento 
+QRSortieValFrm;L_111;Rentrée;Input;Entradas;Invoer;Entrada
+QRSortieValFrm;L_112;Intérêt;Interest;Interes;Rente;Juros
+QRSortieValFrm;L_113;Créance;Credit;Créditos;Vordering;Credito
+QRSortieValFrm;L_114;Capital;Capital;Capital;Kapitaal;Capital
+QRSortieValFrm;L_115;Annuité;Payment;Anualidad;Annuiteit;Anuidade
+QRSortieValFrm;L_116;  Capital;  Reimbursment;Capital;  Kapitaal;  Capital
+QRSortieValFrm;L_117;  Intérêt;  Interest;Interes;  Rente;Juros
+QRSortieValFrm;L_118;Dette;Debt;Deuda;Schuld;Divida  
+QRSortieValFrm;L_119;Petit Matériel;Small equipments;Pequeños Materiales;Klein Materiaal;Pequenos materiais
+QRSortieValFrm;L_12;Chiffre d'affaire;Sales;Cifra de negocios;Verkopen;Vendas
+QRSortieValFrm;L_120;Autres Immobilisations;Other Fixed Assets;Otras Inmobilizaciones;Andere Vaste Activa;Outras imobilizacoes
+QRSortieValFrm;L_121;Valeur Résiduelle;Residual value;Valor Residual;Restwaarde;Valor residual
+QRSortieValFrm;L_122;Production d'immobilisation;Fixed Assets Production;Producción de inmobilización;Productie Vaste Activa;Produtos de imobilizacao
+QRSortieValFrm;L_123;Plus Value;SurPlus;Aumento Valor;Meerwaarde;mais valor
+QRSortieValFrm;L_124;Moins Value;Depreciation;Perdida de valor;Afschrijving;menos valor
+QRSortieValFrm;L_125;Valeur Plantations;Trees Value;Valor Pantaciones;Waarde Plantopstanden;valor Plantacaoes
+QRSortieValFrm;L_126;Prod Immo;Fix.Ass. Prod.;Prod Inmo;Productie Vaste Activa;Prod Imob
+QRSortieValFrm;L_127;Prod Immo famille;Family Fix.Ass. Prod.;Prod Inmo familia;Productie Vaste Activa familie;Prod Imob familia
+QRSortieValFrm;L_128;Récapitulatif Immobilisations hors pérennes;Recap Fixed Assets Without Tree-crops;Resumen Inmobilizacion fuera perennes;recapitulatie vaste activa zonder boomgewassen;Recapitulativo imobilizacoes fora perenes
+QRSortieValFrm;L_13;MARGE;MARGIN;Margen;MARGE;MARGEM
+QRSortieValFrm;L_14;EBE ;EBE ;EBE;EBE ;EBE 
+QRSortieValFrm;L_15;CAF ;CAF ;CAF;CAF;CAF 
+QRSortieValFrm;L_16;SOLDE;BALANCE;SALDO;SALDO;SALDO
+QRSortieValFrm;L_17;SOLDE CUMULE;ADDED BALANCE;SALDO ACUMULADO;CUMULITATIEF SALDO ;SALDO TOTAL
+QRSortieValFrm;L_18;Produits Ceg;Products Accounts;Productos Cuentas;Producten Rekening;Produtos Contas
+QRSortieValFrm;L_19;Résultat Ceg;Results  Accounts;Resultados Cuentas;Resultaat Rekening;Resultados Contas
+QRSortieValFrm;L_2;Compte de Résultat;Profit and Loss Account;Cuenta de Resultados;Verlies en WinstRekening;Resultado perdas e ganhos
+QRSortieValFrm;L_20;Amortissement Immo;Fixed Ass. Depreciation;Amortización Inmo;Afschrijving Vaste Activa;Depreciacao imobilado
+QRSortieValFrm;L_21;Amortissement Plantation;Land Depreciation;Amortización Plantación;Afschrijving Land;Depreciacao da terra
+QRSortieValFrm;L_22;Produits;Products;Productos;Producten;Produtos
+QRSortieValFrm;L_23;Recettes;Incomes;Ingresos;Inkomsten;Receitas
+QRSortieValFrm;L_24;Recettes Diverses;Misc. Incomes;Ingresos Varios;Diverse inkomsten;Receitas diversas
+QRSortieValFrm;L_25;Var. Stock;Stock Var.;Var. Stock;Var. Voorraad;Var. Estoque
+QRSortieValFrm;L_26;Var. stock en terre;Land stock Var.;Var. Terrenos;Var. hoeveelheid land;Var. Terra
+QRSortieValFrm;L_27;.  Variation valeur plantation;.  Land value Variation;. Variación valor plantación;.  Variatie waarde land;.  Variacao valor da plantacao
+QRSortieValFrm;L_28;Var. inv animal Repro;Var. No animal Breeder;Var. Inv animal Repro;Var. Geen vermeerderaar;Var. inv Reprodutores
+QRSortieValFrm;L_29;                Autre;               Other;               Otro;                Ander;                Outro
+QRSortieValFrm;L_3;Bilan;balance sheet;Balance;Balans;Balanco
+QRSortieValFrm;L_30;Produits financiers;Fin. Products;Productos financieros;Financiële producten;Produtos financeiros
+QRSortieValFrm;L_31;Production d'immo;Fix. Ass. Outputs;Producción de inmo;Output Vaste Activa;Produtos de imobilizacao
+QRSortieValFrm;L_32;Cession d'actif;Transfer of assets;Transferencia de activo;Overdracht van activa;Transferencia de ativos
+QRSortieValFrm;L_33;Perte Exceptionnelle;Exceptional Losses;Pérdidas Excepcionales;Uitzonderlijk verlies;Perda exepcional
+QRSortieValFrm;L_34;Amortissement Subvention;Depreciation Grant;Amortización Subvención;Afschrijving Subsidie;Amortizacao subsidio
+QRSortieValFrm;L_35;Charges;Costs;Costos;Kosten;Encargos
+QRSortieValFrm;L_36;Dépenses Exploitation;Farm Expenses;Gastos Explotación;Bedrijf Uitgaven ;Despesas da fazenda
+QRSortieValFrm;L_37;Dépenses Diverses;Misc. Expenses;Gastos Varios;Diverse uitgaven;Despesas diversas
+QRSortieValFrm;L_38;Val comptable cession;Transfer of Account Val.;Transferencia Val contable;Overdracht van rekening;Val comtabil tranferencia
+QRSortieValFrm;L_39;Charges de Structure;Fixed Asset Costs;Costos fijos;Kosten Vaste Activa;Encargos estruturais
+QRSortieValFrm;L_4;Privé;Private;Privado;Privé;Privado
+QRSortieValFrm;L_40;Frais fin LT;LT Fin. Cost;Costos fin LP;Kosten LT;Custos financ LP
+QRSortieValFrm;L_41;Frais fin CT;ST Fin. Cost;Costos fin CP;Kosten KT;Custos financ CP
+QRSortieValFrm;L_42;Frais fin OCCC;OverDraft Fin. Cost;Costos fin Credito al descubierto;Kosten OCCC;Custos finanac Descoberto autoriz
+QRSortieValFrm;L_43;Autres Ch Struct;Other Fixed Costs;Otros Costos Fijos;Andere Vaste Kosten;Outros encargos estruturais
+QRSortieValFrm;L_44;Résultat;Result;Resultado;Resultaat;Resultado
+QRSortieValFrm;L_45;EBE test;EBE test;test EBE;EBE test;EBE teste
+QRSortieValFrm;L_46;CAF test;CAF test;test CAF;Caf test;CAF teste
+QRSortieValFrm;L_47;Récapitulatif Emprunt Long Terme;Summary Long Term Loan;Resumen Prestamos Largo Plazo; Recapitulatie lening LT;Recaptulativo emprestimo longo prazo
+QRSortieValFrm;L_48;ACTIF;ASSETS;ACTIVO;ACTIVA;ATIVO
+QRSortieValFrm;L_49;  +Apports; + Revenues;  + Aportes; =+ Opbrengsten; +Receitas
+QRSortieValFrm;L_5;Recettes Dépenses;Incomes Expenses;Ingresos Gastos;Inkomsten Uitgaven;Receitas e despesas
+QRSortieValFrm;L_50; -Prélevements; - Expenses; -Retiradas; =- Uitgaven; -Despesas
+QRSortieValFrm;L_51;+ Production d'immo; + Assets Production; + Producción de inmo; =+ Activa Productie; + Produção de capital
+QRSortieValFrm;L_52; +Produits financiers; +Financial Products; + Productos financieros; =+Financiele Producten; +Produtos financeiros
+QRSortieValFrm;L_53; -Remboursement LT; -LT reimbursement; - Reembolso LP; =-LT aflossing; -Reembolso LP
+QRSortieValFrm;L_54; -Remboursement CT; -ST reimbursement; - Reembolso CP; =-ST aflossing; -Reembolso CP
+QRSortieValFrm;L_55; -Frais fin LT; -LT Financial cost;  - Costo fin LP; =-LT Financiele kosten;  -Custo finanac LP
+QRSortieValFrm;L_56; -Frais fin CT; -ST Financial cost; - Costo fin CP; =-ST Financiele kosten; -Custos financ CP
+QRSortieValFrm;L_57; -Placements; -Savings; - Inversiones; =-Besparingen; -Poupanca
+QRSortieValFrm;L_58;Solde Privé;Private Balance;Saldo Privado;Prive saldo;Saldo privado
+QRSortieValFrm;L_59;TOTAL Recettes Produits;TOTAL Product Incomes;TOTAL Ingresos Productos;TOTAAL Inkomsten Producten;TOTAL Receitas Produtos
+QRSortieValFrm;L_6;Calcul Tva;Vat calculation;Calculo IVA;Berekening BTW;Calculo Vat
+QRSortieValFrm;L_60;TOTAL Charges opérationnelles;TOTAL Operational Costs;TOTAL Costos variables;TOTAAL operationele Lasten;TOTAL Encargos operacionais
+QRSortieValFrm;L_61;TOTAL Structure;TOTAL Fixed Assets;TOTAL Costos fijos;TOTAAL Vaste Kosten;TOTAL Estrutura
+QRSortieValFrm;L_62;TOTAL Recettes Diverses;TOTAL Misc. Incomes;TOTAL Ingresos Varios;TOTAAL Diverse Inkomsten;TOTAL Receitas Diversas
+QRSortieValFrm;L_63;TOTAL Dépenses Diverses;TOTAL Misc. Expenses;TOTAL Gastos Varios;TOTAAL Diverse Uitgaven;TOTAL Despesas Diversas
+QRSortieValFrm;L_64;Recettes Familiales;Family Incomes;Ingresos Familiares;Familieinkomsten;Receitas Familiares
+QRSortieValFrm;L_65;TOTAL Recettes Familiales;TOTAL Family Incomes;TOTAL Ingresos Familiares;TOTAAL Familieinkomsten;TOTAL Receitas Familiares
+QRSortieValFrm;L_66;Dépenses Familiales;Family Expenses;Gastos Familiares;Familieuitgaven;Despesas Familiares
+QRSortieValFrm;L_67;TOTAL Dépenses Familiales;TOTAL Family Expenses;TOTAL Gastos Familiares;TOTAAL Familieuitgaven;TOTAL Despesas Familiares
+QRSortieValFrm;L_68;Subventions;Grants;Subvenciones;Subsidies;Subsidios
+QRSortieValFrm;L_69;Créances et Dettes;Loans and Debts;Créditos y Deudas;Vorderingen en Schulden;Emprestimos e dividas
+QRSortieValFrm;L_7;Finances;Finance;Finanzas;Financiën;Financas
+QRSortieValFrm;L_70;Créances;Loans;Créditos;Vorderingen;Emprestimos  
+QRSortieValFrm;L_71;Dettes;Debts;Deudas;Schulden;Dividas
+QRSortieValFrm;L_72;Tva;Vat;IVA;BTW;Vat
+QRSortieValFrm;L_73;Solde Tva;Vat Balance;Saldo IVA;Saldo BTW;Saldo Vat
+QRSortieValFrm;L_74;Trésorerie Initiale;Initial Treasury;Tesoreria Inicial;Kas Beginbalans;Tesouraria inicial
+QRSortieValFrm;L_75;total;Total;total;totaal;total
+QRSortieValFrm;L_76;Vente d'Animaux;Animals Sold;Venta de Animales;Verkoop van Dieren;Venda de animais
+QRSortieValFrm;L_77;Achat d'Animaux;Animals bought;Compras de animales;Aankoop van Dieren;Compra de animais
+QRSortieValFrm;L_78;SOLDE ventes-achats;BALANCE sales-buying;SALDO compras-ventas;SALDO verkoop-aankoop;SALDO Compra-Venda
+QRSortieValFrm;L_79;Ventes d'animaux;Animals Sales;Ventas de animales;Verkoop van dieren;Venda de animais
+QRSortieValFrm;L_8;Immobilisations;Fixed Assets;Inmobilizaciones;Vaste Activa;Imobilizacoes
+QRSortieValFrm;L_80;Achats d'animaux;Animals Buying;Compra de Animales;Aankopen van dieren;Compra de animais
+QRSortieValFrm;L_81;Immobilisation;Fixed Assets;Inmobilización;Vaste Activa;Imobilizacao
+QRSortieValFrm;L_82;Achat;Buying;Compra;Aankoop;Compra   
+QRSortieValFrm;L_83;Vente;Sale;Venta;Verkoop;Venda
+QRSortieValFrm;L_84;Achat-Vente;Buying-Sales;Compra-Venta;Aankoop-Verkoop;Compra-Venda
+QRSortieValFrm;L_85;Emprunts;Loans;Prestamos;Leningen;Emprestimos
+QRSortieValFrm;L_86;Emprunt;Loan;Prestamo;Lening;Emprestimo
+QRSortieValFrm;L_87;Remboursement;Reimbursment;Reembolso;Aflossing;Reembolso
+QRSortieValFrm;L_88;Interet;Interest;Interes;Rente;Juros
+QRSortieValFrm;L_89;net;net;neto;netto;liquido
+QRSortieValFrm;L_9;Pérennes Eléments comptables;Tree-crops accounting Items;Perennes Elementos contables;Blijvende teelten Boekhoudelementen;Perenes - Itens contabeis
+QRSortieValFrm;L_90;Placements;Investments;Inversiones;Beleggingen;Investimentos
+QRSortieValFrm;L_91;Placé;Invested;Invertido;Belegd;Investido
+QRSortieValFrm;L_92;Disponible;Available;Disponible;Beschikbaar;Disponivel
+QRSortieValFrm;L_93;TOTAL Dépenses Charges;TOTAL Expenses Costs;TOTAL Gastos Costos;TOTAAL Uitgaven Kosten;TOTAL Despesas Encargos
+QRSortieValFrm;L_94;Encaissé;Received;Recibido;Ontvangen;Caixa
+QRSortieValFrm;L_95;Versé;Paid;Pagado;Betaald;Pago
+QRSortieValFrm;L_96;Acompte Fevrier;Account February;Anticipo Febrero;Voorschot Februari;Conta em Fevereiro
+QRSortieValFrm;L_97;Régularisation ;Adjustment ;Regularización;Aanpassing;Regularizacao
+QRSortieValFrm;L_98;Acompte Mai;Account May;Anticipo Mayo;Voorschot Mei;Conta em Maio
+QRSortieValFrm;L_99;Acompte Aout;Account August;Anticipo Agosto;Voorschot Augustus;Conta em Agosto
+QRSortieValFrm;L_AnnuInt;Annuités + Intérêts LT;Annuities + Interests LT?;Anualidades + Interes LP?;Annuiteiten + Renten LT;Anuidades + Juros LP
+QRSortieValFrm;L_CapDuLT;Capital LT restant Du;LT Fixed Assets still to pay?;Capital LP sobrante de ?;LT vaste activa nog te betalen?;Capital LP restante do
+QRSortieValFrm;L_NouvEmpLT;Nouveaux Emprunts LT;New Loans LT?;Prestamos Nuevos LP?;Nieuwe Leningen LT;Novos emprestimos LP
+//;;;;;;
+//;;;;;;
+//ResultatFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+ResultatFrm;L_Inconnu;    Inconnu;Unknown;Desconocido;Onbekend;Desconhecido
+//;;;;;;
+//SysUniteFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+SysUniteFrm;L_ErrRatio21; ligne %d le ratio 2/1 n'est pas égal à 1;line %d : the ratio 2/1 is different from 1; línea %d el ratio 2/1 no es igual a 1; lijn %d is de ratio 2/1 niet gelijk aan 1; linha %d a razao 2/1 nao e igual a 1
+SysUniteFrm;L_ErrRatio31; ligne %d le ratio 3/2 n'est pas égal à 1;line %d : the ratio 3/2 is different from 1; línea %d el ratio 3/2 no es igual a 1; lijn %d is de ratio 3/2 niet gelijk aan 1; linha %d a razao 3/2 nao e igual a 1
+SysUniteFrm;L_ImpoChg_monnaie;Impossible de changer de monnaie  Provisoirement;Unable to change the currency  Temporarily;Imposible cambiar de moneda  Provisionalmente;Onmogelijk om te veranderen van valuta  voorlopig;Impossivel mudar de moeda  temporariamente
+SysUniteFrm;L_Pas_UniteRegion;Pas d'Unité Région ligne %d ;No Unit Region at line %d ;No hay Unidad Región línea %d;Geen Eenheid Regio lijn %d ;Sem Unidade Regiao linha %d 
+SysUniteFrm;L_PasMonnaie;Pas d'Unité Monétaire;No Currency Unit;No hay Unidad Monetaria;Geen Munteenheid;Sem unidade monetaria
+SysUniteFrm;L_PasRatio21;Pas de Ratio 2/1 ligne %d ;No Ratio 2/1 at line %d ;No hay ratio 2/1 línea %d;Geen Ratio 2/1 lijn %d ;Sem Razao 2/1 linha %d 
+SysUniteFrm;L_PasRatio31;Pas de Ratio 2/1 ligne %d ;No Ratio 2/1 at line %d ;No hay ratio 2/1 línea %d;Geen Ratio 2/1 lijn %d ;Sem Razao 2/1 linha %d 
+SysUniteFrm;L_PasUniteAtelier;Pas d'Unité Atelier ligne %d ;No Unit Farming system at line %d ;No hay Unidad Actividad línea %d;Geen Eenheid Activiteit lijn %d ;Sem Unidade Atividade linha %d 
+SysUniteFrm;L_PasUniteEntreprise;Pas d'Unité Entreprise ligne %d ;No Unit Farm at line %d ;No hay Unidad Empresa línea %d;Geen Eenheid Onderneming lijn %d ;Sem Unidade Fazenda linha %d 
+SysUniteFrm;L_PlusMonnaie;Une seule Unité Monétaire possible !;Only One currency Unit allowed !;Solo es posible una unidad monetaria !;Één mogelijke Munteenheid!;Apenas uma unidade monetaria possivel!
+SysUniteFrm;L_Ratio21Nul;Ratio 2/1 =0 !!ligne %d ;Ratio 2/1 =0 at line %d ;Ratio 2/1 =0 !!!línea %d;Ratio 2/1 = 0!!lijn %d ;Razao 2/1 =0 !!linha %d 
+SysUniteFrm;L_Ratio31Nul;Ratio 2/1 =0 !!ligne %d ;Ratio 2/1 =0 at line %d ;Ratio 2/1 =0 !!!línea %d;Ratio 2/1 = 0!!lijn %d ;Razao 2/1 =0 !!linha %d 
+SysUniteFrm;L_Titre1;1 Atelier;1 Activity;1 Actividad;1 Activiteit;1 Atividade
+SysUniteFrm;L_Titre2;2 Entreprise;2 Farm;2 Empresa;2 Onderneming;2 Fazenda
+SysUniteFrm;L_Titre3;3 Région;3 Region;3 Región;3 Regio;3 Regiao
+SysUniteFrm;L_Titre4;ratio 2/1;ratio 2/1;ratio 2/1;ratio 2/1;razao 2/1
+SysUniteFrm;L_Titre5;ratio 3/2;ratio 3/2;ratio 3/2;ratio 3/2;razao 3/2
+SysUniteFrm;L_Titre6;Monnaie;Currency;Moneda;Munt;Moeda
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TForme01Frm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+TForme01Frm;L_BesTrav;Besoins en travail;Labour Requirement;Necesidades en trabajo;Behoeften aan arbeid;Necessidade de mao-de-obra
+TForme01Frm;L_DispoT;Dispo par travailleur;Available per worker;Disponibilidad por trabajador;Beschikbaar per werknemer;Disponivel por trabalhador
+TForme01Frm;L_HDispo;Heures disponibles;Hours available;Horas disponibles;Beschikbare uren;Horas disponiveis
+TForme01Frm;L_HExces;Heures excedentaires;Hours in surplus;Horas excedentarias;Overuren;Horas excedentes
+TForme01Frm;L_HManq;Heures manquantes;Hours missing;Horas que faltan;Ontbrekende uren;Horas faltando
+TForme01Frm;L_TravDispo;travailleurs disponibles;Workers available;traajadores disponibles;beschikbare werknemers;trabalhadores disponiveis
+TForme01Frm;L_TravNec;travailleurs nécessaires;Workers needed;trabajadores necesarios;vereiste werknemers;mao-de-obra necessaria
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TravCalFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+TravCalFrm;L_CalNonDef;le calendrier n'est pas complètement défini;Calendar not fully defined;El calendario no esta completamente definido;kalender wordt niet volledig bepaald;O calendario nao esta completamente definido?
+TravCalFrm;L_PasCal;Aucun calendrier;No Calendar;Ningun calendario;Geen kalender;Nenhum calendario
+TravCalFrm;L_PasPeriode;Aucun calendrier ne contient des périodes;No calendar contains periods;Ningun calendario contiene periodos;Geen enkele kalender bevat perioden;Nenhum calendario contem os periodos?
+TravCalFrm;L_TotBesoinsTrav;Total des Besoins en travail;Total Labour Needs;Necesidades de trabajo totales;Totaal van de Behoeften in werk;Total de necessidade de mao de obra?
+TravCalFrm;L_A_Executer;Voulez-vous continuer ?;Do you wish to continue?;¿Estás seguro?;Wilt u doorgaan?;Tem certeza?
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TresoCopieRepartFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+TresoCopieRepartFrm;L_NbVar; Nb Var;No Var;Cantidad Var?; Aantal Var; Nr Var
+TresoCopieRepartFrm;L_NoVar; No Var; No Var;Nº Var?; No Var; No Var
+TresoCopieRepartFrm;L_PasRep;N'a PAS de répartitions  !!;Has NO repartitions !!;No hay reparticiones !!;Heeft geen verdelingen!!;Nao ha reparticoes  !!
+TresoCopieRepartFrm;L_RecopRep;COPIER REPARTITONS;COPY REPARTITIONS;COPIAR REPARTICIONES;REPARTITiONS KOPIËREN;COPIAR REPARTICOES
+TresoCopieRepartFrm;L_RecopRepDe; Recopier les répartitions de  ;Copy Repartitions from;Copiar las reparticiones de ; De verdelingen herkopiëren van;Recopiar as repartcoes de
+TresoCopieRepartFrm;L_Repart; Répartition;Repartition;Repartición; Verdeling;Repartcao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TresoFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+TresoFrm;L_Aucun;Aucun élément;No item;Ningun elemento;Geen enkel element;Nenum item
+TresoFrm;L_ChoixAgri;Choisir un agriculteur;Choose a farmer;Elegir un agricultor;Een landbouwer kiezen;Escolher um agriculor
+TresoFrm;L_Definir;Definir;Define;Definir;Bepalen;Definir
+TresoFrm;L_Standard;Standard;Standard;Estandar;Standaard;Padrao
+TresoFrm;L_TresoAutre;Tresorerie Autre;Treasury Other;Otra Tesoreria;Cashflow Ander;Tesouraria outra
+TresoFrm;L_TresoQuant;Tresorerie en Quantité;Treasury in Quantity;Tesoreria en Cantidad;Cashflow in Hoeveelheid;Tesouraria em quantidade
+TresoFrm;L_TresoVal;Tresorerie en Valeur;Treasury in Value;Tesoreria en Valor;Cashflow in Waarde;Tesouraria em valor
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TroupeauFrm;;;;;;
+TroupeauFrm;L_Recommencer;Recommencer;Redo;Repetir;Opnieuw doen;Repetir
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TVDicoFrm;;;;;;
+//Programme; Variable; Français; English; Espanol; Nederlands; Portugues 
+TVDicoFrm;L_Dico;Dictionnaire;Dictionary;Diccionario;Woordenboek;Dicionario
+TVDicoFrm;L_Raf;Rafraichir;Refresh;Actualizar;Verversen;Atualizar

@@ -1,0 +1,1293 @@
+//14/04/09;;;;;;
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//ActionRemplacer;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+ActionRemplacer;LC_ActionRemplacerFrm;Remplacer;Replace;Reemplazar;Vervangen;Trocar
+ActionRemplacer;LC_Label1;%;%;%;%;%
+ActionRemplacer;LC_LabPar;Par;By;Por;Door;Por
+ActionRemplacer;LC_LabSur;Sur;On;En;Op;Sobre
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AgriAtelierMarge;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+AgriAtelierMarge;LC_AgriAtelierMargeFrm;Marge Atelier;Margin;Margen Actividad;Marge;Margem
+AgriAtelierMarge;LC_LabNomAtelier;Les Ateliers;Activity;Actividades;Activiteit;Atividde
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AgriClasst;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+AgriClasst;LC_AgriClasstFrm;Classement des agriculteurs;Farmers Classification;Clasificación de agricultores;Indeling van de Landbouwers;Classificacao dos agricultores
+AgriClasst;LC_CleDeClassif;Cles de Classification;Classification keys;Claves de clasificación;Clasificatie sleutelwoorden;Chave de classificacao
+AgriClasst;LC_GBOrdreTri;Ordre de Tri;Sort order;Orden de clasificación;Sorteervolgorde;Ordem de triagem
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AgriDefSim;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+AgriDefSim;LC_AgriDefSimFrm;Caractéristiques de la Simulation;Simulation Characteristics;Características de la Simulación;Kenmerken van de simulatie;Caracteristicas da simulacao
+AgriDefSim;LC_Avec;Avec ;With;Con;Met ;Com
+AgriDefSim;LC_ChBRepTout;ReportTout;Copy All;Copiar todo;Alles overzetten;Transferir tudo
+AgriDefSim;LC_GBEnch;ENCHAINEMENT;SEQUENCE;SECUENCIA;OPEENVOLGING;SEQUENCIA
+AgriDefSim;LC_GBSerie;Résultats pour;Results for;Resultados para;Resultaten voor;Resultados por
+AgriDefSim;LC_LabAn0;Année début ;Starting year;Año inicio;Startjaar;Ano inicial
+AgriDefSim;LC_LabAnMax;Nb Années;N Years;Número Años;N Jaren;Numero de anos
+AgriDefSim;LC_LabCalage;Ans Calage ;Setting year;Años calage;Startjaar;Setting year
+AgriDefSim;LC_LabMoisOuv;Mois Ouverture ;Opening Month;Mes Inicio;Maand van aanvang;Mes aberto
+AgriDefSim;LC_LabNom;Nom ;Name;Nombre;Naam;Nome
+AgriDefSim;LC_LabQExt;Externalité;Externality;Externalidad;Omgevingseffecten;Externalidades
+AgriDefSim;LC_LabVariante;Variante ;Variant ;Variante;Variant;Variante
+AgriDefSim;LC_RGAlea;Aléa;Hazard;Variaciones;Variatie;Diferenca
+AgriDefSim;LC_Sans;Sans;Without;Sin ;Zonder;Sem
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AgriSaisie;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+AgriSaisie;LC_AgriSaisieFrm;AgriSaisie;Farmer Input;Agri Entrada;Landbouwer Input ;Agri Entrada
+AgriSaisie;LC_Animaux;Animaux;Animals;Animales;Dieren;Animais
+AgriSaisie;LC_BtBnVoir;Voir;See;Ver;Zien;Ver
+AgriSaisie;LC_BtDonnees;Données;Data;Datos;Gegevens;Dados
+AgriSaisie;LC_ChargesOpe1;Operationnelles;Variable Costs;Costos variables;Variabele kosten;Custos variaveis
+AgriSaisie;LC_CourtTerme;Court Terme;Short Term;Corto Plazo;Korte termijn;Curto prazo
+AgriSaisie;LC_Creances1;Creances;Credits;Créditos;Vorderingen;Creditos
+AgriSaisie;LC_Definition;Définition;Definition;Definición;Definitie;Definicao
+AgriSaisie;LC_Dettes1;Dettes;Debts;Deudas;Schulden;Dividas
+AgriSaisie;LC_EXTERNALITES1;Externalites;Externalities;Externalidades;Omgevingseffecten;Externalidades
+AgriSaisie;LC_FINANCES;Finances;Finances;Finanzas;Financiën;Financas
+AgriSaisie;LC_IMMOBILISATION;Immobilisations;Fixed Assets;Inmovilizaciones;Vaste Activa;Imobilizacoes
+AgriSaisie;LC_Inventaire;Inventaire;Stocklist;Inventario;Inventaris;Inventario
+AgriSaisie;LC_InventaireAnimaux;Troupeaux;Herd;Rebaño;Veestapel;Rebanhos
+AgriSaisie;LC_InvSommaire;Global;Total;Global;Globaal;Global
+AgriSaisie;LC_LongTerme;Long Terme;Long Term;Largo Plazo;Lange Termijn;Longo prazo
+AgriSaisie;LC_Negatives;Négatives;Negative;Negativas;Negatief;Negativo
+AgriSaisie;LC_Passe;Passé;Past;Pasado;Verleden;Passado
+AgriSaisie;LC_Perennes;Pérennes;Tree Crops;Perennes;Blijvende teelten;Perenes
+AgriSaisie;LC_Placement;Placement;Investment;Inversión;Belegging;Investimento
+AgriSaisie;LC_PolitiqueStockage1;Politique Stockage;Storage Policy;Política Almacenamiento;Opslagmanagement;Politica de estocagem
+AgriSaisie;LC_Positives;Positives;Positive;Positivas;Positief;Positivo
+AgriSaisie;LC_PRIVE;Privé;Private;Privada;Prive;Privado
+AgriSaisie;LC_PRODUITS; Produits;Outputs;Productos;Producten;Produtos
+AgriSaisie;LC_StockInitial;Stock Initial;Initial stock;Stock inicial;Beginvoorraad;Estoque inicial
+AgriSaisie;LC_Subvention;Subvention;Grant;Subvención;Subsidie;Subsidio
+AgriSaisie;LC_TVA1;Treso TVA;VAT Cash Flow;Tesoreria IVA;BTW tarief;Fluxo de caixa VAT
+AgriSaisie;LC_Vivriers;Pluriannuelles;Perennials;Plurianuales;Meerjarige gewassen;Plurianuais
+AgriSaisie;LC_QuitterAgri;Quitter Agriculteur;Leave the farmer;Dejar el agricultor;Verlaten landbouwer;Sair de agricultor
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AideEmpLT;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+AideEmpLT;LC_AideEmpLTFrm;LT;LT;LT;LT;LT
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AleaPrix;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+AleaPrix;LC_AleaPrixFrm;Tendance;Tendancy;Tendencia;Tendens;Tendencia
+AleaPrix;LC_LabTitre;Lab Titre;Lab Title;Lab Título;Lab Titel;Lab Titulo
+AleaPrix;LC_Pcent;Pour cent;Percent;Por ciento;percenten;Por cento
+AleaPrix;LC_Valeur;Valeur;Value;Valor;Waarde;Valor
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//APropos;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+APropos;LC_AProposFrm;A Propos;About;A Proposito;Over;Sobre
+APropos;LC_LabComp;C++ 6;C++ 6;C++6;C++ 6;C++ 6
+APropos;LC_LabDate;24-avr-05; 24 Apr 2005;24/04/2005;24-apr-05;24-abr-05
+APropos;LC_LabInra;©INRA Grignon 2005;©INRA Grignon 2005;©INRA Grignon 2005;©INRA Grignon 2005;©INRA Grignon 2005
+APropos;LC_LabNom1;OLYMPE;OLYMPE;OLYMPE;OLYMPE;OLYMPE
+APropos;LC_LabVersion;Version ;Version ;Versión;Versie;Versao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AProposFrm;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+AProposFrm;LC_APropos;A Propos;About;Sobre;Aangaande;Sobre
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Atelier;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Atelier;LC_[0]TLabel [0];En Valeur;In Value;En Valor;Waarde;Em Valor
+Atelier;LC_BtBnRecopCal;Recopier de;Copy from ;Copiar de;Kopiëren van;Copiar o calendario
+Atelier;LC_Faux;Faux ;FALSE;Falso;Niet waar;Falso
+Atelier;LC_LabAvance; En Valeur !!;in Value!!;En Valor !!;in Waarde!!;Em valor!!
+Atelier;LC_LabBesoins;Besoins en heures;Labour Requirement (hours);Necesidades en horas;Arbeidsbehoefte in uren;Horas necessarias
+Atelier;LC_LabCalEnCours;calEnCours;calCurrent;calActivo;calHuidige;calCorrente
+Atelier;LC_LabCalendrier;Les Calendriers;The Calendars;Los Calendarios;De Kalenders;Os calendarios
+Atelier;LC_LabDebAmor;Début d'Amortissement;Beginning of Depreciation;Inicio de la Amortización;Begin afschrijvingen;Inicio da amortizacao
+Atelier;LC_LabDurAmor;Durée d'amortissement;Depreciation Length;Duración de la Amortización;Afschrijvingsduur;Duracao da amortizacao
+Atelier;LC_LabTotal;Total Besoins:;Total Requirement:;Necesidades Totales;Totale behoeften:;Necessidade total
+Atelier;LC_LabTotDep;Total des Dépenses;Total costs;Costos Totales;Totale kosten;Custo total
+Atelier;LC_Panell;V;V;V;V;V
+Atelier;LC_RGDerobe;Cult Principale;Main Crop;Cultura Principal;Hoofdgewas;Cultura Pricipal
+Atelier;LC_TSAvance;Avance;Advance;Avance;Voorschot;Avanco
+Atelier;LC_TSChargeVolume;Charges f.(quantité);Inputs f·(quantity);Costos f·(cantidad);Kosten f·(hoeveelheid);Intrantes f·(quantidade)
+Atelier;LC_TSProdImmo;Prod Immo;Fixed Asset Prod;Prod Inmo;Vaste activa productie;Produto Imobilizado
+Atelier;LC_TSValInv;Val, Inventaire;StockTaking Value;Valor Inventario;Waarde  Inventaris;Valor Inventario
+Atelier;LC_Vrai;Vrai ;TRUE;Verdadero;Waar;Verdadeiro
+Atelier;LC_BtClasser;Classer;Sort;Clasificar;Indelen;Classificar
+Atelier;LC_PiedParHa;Pied/ha;Tree/Ha;Planta/Ha;Plant/Ha;Planta/Ha
+Atelier;LC_ProdParPied;Prod/Pied;Output/Tree;Prod/Planta;Prod/Plant;Prod/Planta
+Atelier;LC_ChargeParPied;Ch/Pied;Input/Tree;Costos/Planta;Kosten/Plant;Costos/Planta
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AtelierMDetail;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+AtelierMDetail;LC_AtelierMDetailFrm;Marge Détaillée;Detailed Margin;Margen Detallado;Gedetailleerde marge;Margem detalhada
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//AtelierMDetailPerenne;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+AtelierMDetailPerenne;LC_AtelierMDetailPerenneFrm;Marge Detaillée;Detailed Margin;Margen Detallado;Gedetailleerde marge;Margem detalhada
+AtelierMDetailPerenne;LC_LabTotal;Moyenne;Average;Media;Gemiddeld;Media
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//ChoixMotif;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+ChoixMotif;LC_ChoixMotifFrm;Motif;Pattern;Motivo/Trama;Patroon;Motivo
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//CL_Trad;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+CL_Trad;LC_[0]TLabel;Produits et Charges;outputs inputs;Productos y Costos;Producten en Kosten;outputs inputs
+CL_Trad;LC_AleaRdtFrm;Aléa Quantité;Hazard Quantity;Cantidad Variación;Variatie Hoeveelheid;Diferenca de quantidade
+CL_Trad;LC_Assolement;Assolement;Crop rotation;Rotación de cultivos;Gewasrotatie;Afolhamento
+CL_Trad;LC_AtelierFrm;Sous-catégorie;Sub-category;Subcategoria;Activiteit;Atividade
+CL_Trad;LC_BtAutreAgri;Autre;Other;Otro;Andere;Outro
+CL_Trad;LC_BtBnAlpha;A;A;A;A;A
+CL_Trad;LC_BtBnCalcul;Valeurs;Values;Valores;Waarden;Valores
+CL_Trad;LC_BtBnCopier;Copier;Copy;Copiar;Kopiëren;Copiar o calendario
+CL_Trad;LC_BtBnCopier_A;Copier Vers;Copy towards;Copiar a ;Kopiëren naar;Copiar para
+CL_Trad;LC_BtBnCourbe;Graphique;Graphic;Grafico;Grafiek;Grafico
+CL_Trad;LC_BtBnCreer;Créer;Create;Crear;Creëren;Criar
+CL_Trad;LC_BtBnDico;Dictionnaire;Dictionary;Diccionario;Woordenboek;Dicionario
+CL_Trad;LC_BtBnEffacer;Nettoyer;Clear;Borrar;Opruimen;Limpar
+CL_Trad;LC_BtBnFermer;Fermer;Close;Cerrar;Sluiten;Fechar
+CL_Trad;LC_BtBnMarge;Marge;Margin;Margen;Marge;Margem
+CL_Trad;LC_BtBnNotes;Notes;Notes;Notas;Aantekeningen;Notas
+CL_Trad;LC_BtBnProduit;Produits;Outputs;Productos;Producten;Produtos
+CL_Trad;LC_BtBnQuitter;Quitter;Exit;Salir;Verlaten;Sair
+CL_Trad;LC_BtBnRafraichir;Rafraichir;Refresh;Actualizar;Verversen;Atualizar
+CL_Trad;LC_BtBnResultat;Résultats;Result;Resultados;Resultaten;Resultados
+CL_Trad;LC_BtBnSupBesTrav;Supprimer;Delete;Suprimir;Verwijderen;Apagar
+CL_Trad;LC_BtBnTVA;TVA;VAT;IVA;BTW;IVA
+CL_Trad;LC_BtBnUnite;Unités;Units;Unidades;Eenheden;Unidades
+CL_Trad;LC_BtBnVenteQ;Vente;Sale;Venta;Verkoop;Venda
+CL_Trad;LC_BtClasser;Classer;Sort;Clasificar;Indelen;Classificar
+CL_Trad;LC_BtDico;Dico;Dictionary;Diccionario;Woordenboek;Dicionario
+CL_Trad;LC_BtDonnees;Donnees;data;Datos;Gegevens;Dados
+CL_Trad;LC_BtEffectif;Effectifs;Number;Numero;Aantal;Efetivo de pessoal
+CL_Trad;LC_BtEnsEnCours;EnCours;Current Set;Activo;Huidig bedrijf;Corrente
+CL_Trad;LC_BtIndAucun;Aucun;None;Ninguno;Geen;Nenhum
+CL_Trad;LC_BtIndTous;Tous;All;Todos;Alle;Todos
+CL_Trad;LC_BtModifier;Renommer;Rename;Cambiar Nombre;Aanpassen naam;Modificar nome
+CL_Trad;LC_BtMotCle;Mots Cle;Keyword;Palabras clave;Sleutelwoorden;Palavra chave
+CL_Trad;LC_BtNouveau;Nouveau;New;Nuevo;Nieuw;Novo
+CL_Trad;LC_BtSyntDetail;Synthèse;Synthesis;Síntesis;Synthese;Sintese
+CL_Trad;LC_BtVariante;Variantes;Variants;Variantes;Varianten;Variante
+CL_Trad;LC_ChargesDivers;Dépenses;Expenses;Gastos;Uitgaven;Despesas
+CL_Trad;LC_ChBEnsemble;Ensemble;Set;Conjunto;Set;Conjunto
+CL_Trad;LC_ChBRepTout;Report Tout;Copy All;Copiar todo;Rapportage alle;Transferir tudo
+CL_Trad;LC_Commercialisation1;Commercialisation;Marketing;Comercialización;Marketing;Comercializacao
+CL_Trad;LC_CreancesDettes1;En Cours;Current;Activo;Huidige;Corrente
+CL_Trad;LC_DefBestiauxFrm;Mouvement des Animaux;animal Dynamic;Movimiento de Animales;Dierovergangen;Movimentacao dos animais
+CL_Trad;LC_DefEtatSortieFrm;Etat de Sortie;Output form;Formato de presentación;Uitvoerformaat;Formulario de saida
+CL_Trad;LC_Definition;Répartitions;Distributions;Reparticiones;Verdelingen;Distribuicao
+CL_Trad;LC_DefZoneFrm;Typologie;Typology;Tipologia;Typologie;Tipologia
+CL_Trad;LC_DIVERS1;Divers;Misc.;Varios;Diversen;Diversos
+CL_Trad;LC_ErreurFrm;Erreur;Error;Error;Fout;Erro
+CL_Trad;LC_EspeceFrm;Phases;Stages;Fases;Fasen;Fases
+CL_Trad;LC_GBAgri;Agriculteurs;Farmers;Agricultores;Landbouwers;Agricultores
+CL_Trad;LC_GBAlea;Aléa;Hazard;Variaciones;Variatie;Diferenca
+CL_Trad;LC_GBAn;Année;Year;Año;Jaar;Ano
+CL_Trad;LC_GBAtelier;Ateliers;Production;Actividades;Activiteiten;Producao
+CL_Trad;LC_GBAtelier_A;Indicateurs;Indicators;Indicadores;Indicatoren;Indicadores
+CL_Trad;LC_GBCode;Nom de la Rép;Name of Distrib;Nombre de la repart;Naam van Verdelingen;Nome de Distr
+CL_Trad;LC_GBCondition;Condition;Condition;Condición;Voorwaarde;Condicao
+CL_Trad;LC_GBDefinition;Définitions;Definitions;Definiciones;Definities;Definicao
+CL_Trad;LC_GBEnsemble;Ensembles;Sets;Conjuntos;Sets;Conjuntos
+CL_Trad;LC_GBPrix;PRIX;PRICE;PRECIO;PRIJS;PRECO
+CL_Trad;LC_GBQuantite;QUANTITE;QUANTITY;CANTIDAD;HOEVEELHEID;QUANTIDADE
+CL_Trad;LC_GBSortie;Sortie sur;Save On;Salir en;Opslaan op;Salvar em
+CL_Trad;LC_GereAgriFrm;Les Agriculteurs;The Farmers;Los Agricultores;De Landbouwers;Os agricultores
+CL_Trad;LC_GereComparaisonFrm;Comparaisons;Comparison;Comparaciones;Vergelijkingen;Comparacao
+CL_Trad;LC_GereEnsembleFrm;Les Ensembles;The sets;Los Conjuntos;De sets;Los Conjuntos
+CL_Trad;LC_Immo;Immo;Fixed Asset;Inmo;Vaste activa;Imobiliario
+CL_Trad;LC_IntituleP;IntituleP;TitleP;TituladoP;IntituleP;IntituleP
+CL_Trad;LC_LabAchat;Achat;Purchase;Compra;Aankoop;Compra
+CL_Trad;LC_Label11;è;è;è;è;è
+CL_Trad;LC_LabelModifie;M;M;M;M;M
+CL_Trad;LC_LabelModifie_A;Modifié !;Modified!;Modificado !;Gewijzigd!;Modificar !
+CL_Trad;LC_LabIndicateur;Indicateur;Indicator;Indicador;Indicator;Indicador
+CL_Trad;LC_LabNom;LabNom;LabName;Nombre;LabNaam;LabNome
+CL_Trad;LC_LabPCharge;Charges;Inputs;Costos;Lasten;Encargos
+CL_Trad;LC_LabPProduit;Produit;output;Productos;Product;Produto
+CL_Trad;LC_LabProcedure;Procédure;Procedure;Procedimientos;Procedure;Procedimento
+CL_Trad;LC_LabSais;LabSais;LabInput;LabSais;LabSais;LabSais
+CL_Trad;LC_LabTotal;Total;Total;Total;Totaal;Total
+CL_Trad;LC_LabTotPcent;Total en %;Total in %;Total en %;Totaal in %;Total em %
+CL_Trad;LC_LabUtilise;Utilisé;Used;Utilizado;Gebruikt;Utilizado
+CL_Trad;LC_LabVal;Valeur;Value;Valor;Waarde;Valores
+CL_Trad;LC_LabZone;Classification;Classification;Clasificación;Classificatie;Classificacao
+CL_Trad;LC_LBChoixBestiauxFrm;Troupeau;Herd;Rebaño;Veestapel;Rebanho
+CL_Trad;LC_LBSysUnitFrm;Systèmes d'Unité;Unit System;Sistema de Unidades;Eenheidsstelsels;Sistema de unidades
+CL_Trad;LC_MvtAnneeFrm;Mouvement;Movement;Movimiento;Beweging;Movimento
+CL_Trad;LC_Nom;Nom;Name;Nombre;Naam;Nome
+CL_Trad;LC_NomAgri;NomAgri;NameFarmer;NombreAgri;NaamAgri;NomeAgri
+CL_Trad;LC_NomAgri_A;NomAgri ;NameFarmer;NombreAgri;NaamAgri ;NomeAgri 
+CL_Trad;LC_NomPro;NomPro;NamePro;NombrePro;NaamPro;NomePro
+CL_Trad;LC_NomUnite;NomUnite;NameUnit;NombreUnidad;NaamEenheid;NomeUnit
+CL_Trad;LC_NonVisible;Non Visible;Not Visible;No Visible;Onzichtbare;Invisivel
+CL_Trad;LC_Occc;Occc;Overdraft;Crédito al descubierto;Rekening courantkrediet;Crédito a descoberto
+CL_Trad;LC_PanClassif;PanClassif;PanClassif;PanClasificación;PanClassif;PanClassif
+CL_Trad;LC_PetitMatriel;Petit Matériel;Small Equipment;Material Pequeño;Klein Materiaal;Pequenos materiais
+CL_Trad;LC_PRODUCTIONS;Productions;Productions;Producciones;Productie;Producoes
+CL_Trad;LC_Produits1;Recettes;Revenues;Ingresos;Inkomsten;Receitas
+CL_Trad;LC_RBEcran;Ecran;Screen;Pantalla;Scherm;Monitor
+CL_Trad;LC_RESULTATS;RESULTATS;RESULTS;RESULTADOS;RESULTATEN;RESULTADOS
+CL_Trad;LC_RG;Calculer;Calculate;Calcular;Rekenen;Calcular
+CL_Trad;LC_RGCat;Catégorie;Category;Categoria;Categorie;Categoria
+CL_Trad;LC_RGModifiable;Modifiable;Modifiable;Modificable;Aanpasbaar;Modificavel
+CL_Trad;LC_RGNatureG;Nature;Nature;Naturaleza;Natuur;Natureza
+CL_Trad;LC_RGPrecision;Précision;Precision;Precisión;Nauwkeurigheid;Precisao
+CL_Trad;LC_S1;Stock;Stock;Stock;Voorraad;Estoque inicial
+CL_Trad;LC_Structure1;Structure;Fixed Costs;Costos Fijos;Vaste kosten;Custos fixos
+CL_Trad;LC_TabSheetG;Gauche;Left;Izquierda;Links;Esquerda
+CL_Trad;LC_TauxTVA;TauxTVA;VAT Rate;Tasa IVA;BTW tarief;Taxa do imposto sobre valor additivo
+CL_Trad;LC_TitreEtat;Titre Etat;Title State;Titulo Estado;Titel vorm;Titulo Estado
+CL_Trad;LC_Tresorerie;Trésorerie;Cash Flow;Tesoreria;Cash Flow;Fluxo de Caixa
+CL_Trad;LC_TSExternalite;Externalités;Externalities;Externalidades;Externe factoren;Externalidades
+CL_Trad;LC_TSTravail;Travail;Labour;Trabajo;Arbeidsbehoefte;Trabalho
+CL_Trad;LC_Unite;Unité;Unit;Unidad;Eenheid;Unidade
+CL_Trad;LC_UniteMonnaie;UniteMonnaie;CurrencyUnit;UnidadMonetaria;Valuta eenheid;Unidade de moeda
+CL_Trad;LC_Val0;Val0;Val0;Val0;Val0;Val0
+CL_Trad;LC_Val1;Val1;Val1;Val1;Val1;Val1
+CL_Trad;LC_Val10;Val10;Val10;Val10;Val10;Val10
+CL_Trad;LC_Val11;Val11;Val11;Val11;Val11;Val11
+CL_Trad;LC_Val2;Val2;Val2;Val2;Val2;Val2
+CL_Trad;LC_Val3;Val3;Val3;Val3;Val3;Val3
+CL_Trad;LC_Val4;Val4;Val4;Val4;Val4;Val4
+CL_Trad;LC_Val5;Val5;Val5;Val5;Val5;Val5
+CL_Trad;LC_Val6;Val6;Val6;Val6;Val6;Val6
+CL_Trad;LC_Val7;Val7;Val7;Val7;Val7;Val7
+CL_Trad;LC_Val8;Val8;Val8;Val8;Val8;Val8
+CL_Trad;LC_Val9;Val9;Val9;Val9;Val9;Val9
+CL_Trad;LC_ValeurEn;Valeur En : ;Value In : ;Valor En:;De waarde in: ;Valor em : 
+CL_Trad;LC_VARIABLES;Variables;Variables;Variables;Variabele;Variaveis
+CL_Trad;LC_Visible;Visible;Visible;Visible;Zichtbare;Visivel
+CL_Trad;LC_EP;Ent/Privé;Farm/Private;Empr/Priv;Bedr/Privé;Empr/Priv
+CL_Trad;LC_Entreprise;Entreprise;Entreprise;Empresa;Onderneming;Empresa
+CL_Trad;LC_Prive;Privé;Private;PRIVADO;Privé;Privado
+CL_Trad;LC_Interet;Intérêt;Intérêt;interés;Belang;Interesse
+CL_Trad;LC_Oui;Non;No;No;Nee;não
+CL_Trad;LC_Non;Oui;Yes;Si;Ya;Si
+CL_Trad;LC_Debut;Début;Beginning;Inicio;Begin;Inicio
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Commercialisation;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Commercialisation;LC_BtBnCopieTout;Copie Vers Tout;Copy toward All;Copiar todo hacia;Copieer naar alle;Copiar em direcao a totos
+Commercialisation;LC_BtBnReste;Reste;Balance;Resto;Balans;Balanco
+Commercialisation;LC_EnCours;Produit en Cours;Current Product;Producto actual;Huidig product;Produto em curso
+Commercialisation;LC_LabAnnee;Année de Production;Production year;Año de Producción;Productiejaar;Ano de producao
+Commercialisation;LC_LabProduit;LabProduit;LabProduct;Producido;LabProduct;LabProduto
+Commercialisation;LC_LabQuant;Quantité;Quantity;Cantidad;Hoeveelheid;Quantidade
+Commercialisation;LC_Tout;Tous;All;Todos;Alle;Todos
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//ConfigurationFrm;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+ConfigurationFrm;LC_Annuler;Annuler;Cancel;Cancelar;Annuleren;Cancelar
+ConfigurationFrm;LC_ConfigFrm;Configuration d'Olympe;Configuration of Olympe;Configuración de Olympe;Configuratie van Olympe;Configuracao do Olympe
+ConfigurationFrm;LC_Data_path;Chemin des données;Data folder;Carpeta de datos;Gegevensfolder;Subdiretiro de dados
+ConfigurationFrm;LC_exec_path;Chemin de l'exécutable;Program folder;Carpeta del ejecutable;Programmafolder;Subdiretiro do programa
+ConfigurationFrm;LC_OK;OK;OK;OK;OK;OK
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Conversion;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Conversion;LC_BtBnMonnaie;Choix Monnaie;Currency Choice;Elección Moneda;Valutakeuze;Moeda escolhida
+Conversion;LC_ConversionFrm;Table de Conversion;Conversion table;Tabla de Conversión;Conversietabel;Tabela de conversao
+Conversion;LC_LabChoix;Résultats En :;Results in :;Resultados En:;Resultaten in:;Resultados em :
+Conversion;LC_LabDonnee;Monnaie d'origine;Original Currency;Moneda original;Originele Valuta;Moeda original
+Conversion;LC_LabSortie;A Convertir En;To be Converted In;A Convertir En;Te converteren in;A ser convertida em
+Conversion;LC_LabTitre;Unité Monétaire de Sortie;Currency Unit for Output;Unidad monetaria de Salida;Munteenheid van Uitvoer;Moeda das saidas
+Conversion;LC_RG;Conversion à partir de;Conversion from;Conversión a partir de;Conversie vanaf;Convertir a partir de
+Conversion;LC_Abandon;Abandon;Cancel;Cancelar;Cancel;Cancelar
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//CopierDans;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+CopierDans;LC_LabAncNom;A Copier Sous;Copy name;A Copiar En;Kopiëren naam;Copiar com o nome
+CopierDans;LC_LabCategorie;Dans Catégorie;To Category;En la Categoria;Naar categorie;na categoria
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefAction;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+DefAction;LC_DefActionFrm;DefAction;Def Action;Acción;Def Actie ;Def Action
+DefAction;LC_GBAction;Actions;Actions;Acciones;Acties;Acoes
+DefAction;LC_LabRegle;Regle N° 1;Rule n° 1;Regla Nº 1;Regel n° 1;Regra n° 1
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefCalendrier;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+DefCalendrier;LC_DefCalendrierFrm;Calendrier;Calendar;Calendario;Kalender;Calendario
+DefCalendrier;LC_PerDefMois;Mois;month;Mes;Maand;Mes
+DefCalendrier;LC_PerDeFParUt;Par l'utilisateur;by the user;Por el usuario;Door de gebruiker;Pelo usuario
+DefCalendrier;LC_PerDefQuinz;Quinzaine;Fortnight;Quincena;Vijftiental;Quinzena
+DefCalendrier;LC_RGDef;Périodes Définies;Defined periods;Periodos Definidos;Gedefinieerde perioden;Periodos definidos
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefChStruct;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+DefChStruct;LC_DefChStructFrm;Def ChStruct;Def Fixed Costs;Def Costos Fijos;Def Vaste Kosten;Def Custos fixos
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefEtatSortie;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+DefEtatSortie;LC_Inserer;Insérer;Insert;Insertar;Opnemen;Inserir
+DefEtatSortie;LC_SupLigne;Supprimer la ligne;Delete the line;Suprimir la línea;lijn afschaffen;suprimir a linha
+DefEtatSortie;LC_LigneVide;Ligne Vide;Empty line;línea vacio;Lege lijn;Linha vazia
+DefEtatSortie;LC_Trait;Trait;Draw a line;Dibuje una línea;Trek een lijn;Extraia uma linha
+DefEtatSortie;LC_Titre;Titre :;Title;Titulo;Titel;Titulo
+//;;;;;;
+//;;;;;;
+//DefItem;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+DefItem;LC_DefItemFrm;Def Item;Def Item;Def Item;Def Item;Def Item
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefProcedure;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+DefProcedure;LC_BtBnExecuter;Lancer la Procédure;Execute procedure;Iniciar el Procedimiento;Starten van procedure;Executar o procedimento
+DefProcedure;LC_BtExe;....;....;....;....;....
+DefProcedure;LC_DefProcedureFrm;Définition de la Procédure;Procedure Definition;Definición del Procedimiento;Proceduredefinitie;Definicao do procedimento
+DefProcedure;LC_LabExecutable;Exécutable               : ;Executable               : ;Ejecutable;Uitvoerbaar          :;Executavel
+DefProcedure;LC_LabFichierTransfert;Fichier de transfert  :;Transfer File;Fichero de transferencia :;Overdracht van bestand;Arquivo de transferencia
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//DefProduit;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+DefProduit;LC_DefProduitFrm;Def Produit;Def Product;Def Producto;Def Product;Def Producto
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Effacer;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Effacer;LC_Agri;Agriculteurs;Farmers;Agricultores;Landbouwers;Agricultores
+Effacer;LC_Animaux;Animaux;Animals;Animales;Dieren;Animais
+Effacer;LC_ChOpe;Charges Ope;Inputs;Costos variables;Variabele kosten;Inputs
+Effacer;LC_ChStruct;Charges Structure;Fixed costs;Costos Fijos;Vaste kosten;Custos fixos
+Effacer;LC_TypoAgri;Type Agriculteur;Type of farmer;Tipo de agricultor;type van landbouwer;tipo de agricultor
+Effacer;LC_Classif;Classification;Classification;Clasificación;Indeling;Classificacao
+Effacer;LC_Comp;Comparaison ;Comparison;Comparación;Vergelijking ;Comparacao
+Effacer;LC_Cultures;Cultures;Crops;Cultivos;Gewassen;Culturas
+Effacer;LC_DepDiv;Dépenses Diverses;Misc. Expenses;Gastos Varios;Diverse uitgaven;Despesas diversas
+Effacer;LC_DepFam;Dépenses Famille;Family expenses;Gastos Familia;Uitgaven Gezin;Despesas familiares
+Effacer;LC_EffacerFrm;Effacer les données inutilisées;Delete unused items;Borrar los datos no utilizados;Ongebruikte gegevens wissen;Apagar items nao utilizados
+Effacer;LC_Ensemble;Ensemble;Set;Conjunto;Set;Conjunto
+Effacer;LC_Etat;Etat de sortie;Output Form;Formato de presentación;Uitvoerformaat;Estado de saida
+Effacer;LC_Exter;Externalités;Externalities;Externalidades;Omgevingseffecten;Externalitdades
+Effacer;LC_Indic;Indicateur;Indicator;Indicador;Indicator;Indicador
+Effacer;LC_LabInd;Cocher les familles d'éléments à nettoyer;Tick Families to clean;Marcar las familias de elementos;Afvinken families om op te ruimen;Marcar familias de elementos a apagar
+Effacer;LC_Perennes;Pérennes;Tree Crops;Perennes;Blijvende teelten;Perenes
+Effacer;LC_PerTrav;Périodes de Travail;Labour periods;Periodos de Trabajo;Werkperioden;Periodos de trabalho
+Effacer;LC_Phases;Phases de Production;Production Stages;Fases de Producción;Fasen van Productie;Fases de Producao
+Effacer;LC_Prix;Prix;Price;Precio;Prijs;Preco
+Effacer;LC_Quantite;Quantité;Quantity;Cantidad;Hoeveelheid;Quantidade
+Effacer;LC_RecDiv;Recettes Diverses;Misc. Revenues;Ingresos Varios;Diverse inkomsten;Receitas diversas
+Effacer;LC_RecFam;Recettes Famille;Family revenues;Ingresos Familia;Inkomsten Familie;Receitas familiares
+Effacer;LC_Troupeaux;Troupeaux;Herds;Rebaño;Veestapel;Rebanhos
+Effacer;LC_Var;Variables;Variables;Variables;Variabelen;Variaveis
+Effacer;LC_Vivriers;Pluriannuelles;Multiannual;Pluri anuales;Meerjarige gewassen;Plurianuais
+Effacer;LC_Typologie;Typologie;Typology;Tipologia;Typologie;Tipologia
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Ensemble;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Ensemble;LC_BtAutre;Autre Agri;Other farmer;Otro Agri;Andere landbouwer;Outro agricultor
+Ensemble;LC_BtBnSomme;Somme;Sum;Suma;Sum;Suma
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//EntreChaine;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+EntreChaine;LC_EntreChaineFrm;EntreChaine;Input Chain;EntradaCadena;Invoer Chain ;Entrada Cadeia
+EntreChaine;LC_LabAAfficher;LabAAfficher;LabToDisplay;Mostrar;LabVoorDatabase;LabAMostrar
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Erreur;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Erreur;LC_BtImprimer;Imprimer;Print;Imprimir;Afdrukken;Imprimir
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//ErreurFinSommaire;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+ErreurFinSommaire;LC_ErreurFinSommaireFrm;Erreur Fin Sommaire;Error End Content;Errror Fin Resumen;Fout Einde Beknopt;Erro Fim Conteudo
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//ErreurImmoSommaire;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+ErreurImmoSommaire;LC_ErreurImmoSommaireFrm;Immo Sommaire;Fixed Asset simplified;Resumen Inmobilización;Beknopte vaste kosten;Resumo imobilizado
+ErreurImmoSommaire;LC_ValResid;Valeurs Résiduelles;Residual value;Valor Residual;Restwaarden;Valor Residual
+ErreurImmoSommaire;LC_Amor;Amortissements;Depreciation;Amortización;Afschrijving;Amortização
+ErreurImmoSommaire;LC_NeRienfaire;Ne Rien Faire;Do nothing;No hacer nada;Doe niets;Não fazer nada
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Espece;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Espece;LC_LabForme;Phases de Production;Production stages;Fases de Producción;Fasen van productie;Fases de Producao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//FenRepart;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+FenRepart;LC_FenRepartFrm;Repartition;Distribution;Distribución;Verdeling;Distribuicao
+FenRepart;LC_LabPcent;Pour cent;Percent;Por ciento;percenten;Por cento
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//FenRepartDef;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+FenRepartDef;LC_BtBn0;0;0;0;0;0
+FenRepartDef;LC_BtBn100;100;100;100;100;100
+FenRepartDef;LC_BtBnACopier;A Copier;To copy;A copiar;Te kopieren;A Copiar
+FenRepartDef;LC_BtBnCopieRepart;Copier Autre Repartition;Copy other Distribution;Copiar otra Distribución;Kopieer andere toewijzing;Copiar outra distribuicao
+FenRepartDef;LC_BtBnEgal;100/12;100/12;100/12;100/12;100/12
+FenRepartDef;LC_BtBnMaz;0 partout;0 everywhere;0 en todos;0 Overal;0 em todo lugar
+FenRepartDef;LC_BtBnReste;Le Reste;Balance;El Resto;Balans;Balanco
+FenRepartDef;LC_FenRepartDefFrm;Répartition Définition;Distribution Definition;Definición Distribución;Definitie Verdeling;Definicao da distribuicao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Forme00;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Forme00;LC_Forme00Frm;Forme00;Form00;Forma00;Form00;Form00
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Forme01;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Forme01;LC_Forme01Frm;Sortie;Exit;Salida;Verlaten;Saida
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereAgri;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereAgri;LC_BtBnClasserAlpha;Classer Alpha;alpha Sort;Clasificar Alfa;Alpha's indelen;Classificador Alfa
+GereAgri;LC_BtCriteres;Critères;Criteria;Criterios;Criteria;Criterios
+GereAgri;LC_BtElaguer;V. Elaguer;V. Pruning;V.Reducir;V. Uitdunnen;V. Podar
+GereAgri;LC_BtModifie;Modifier;Modify;Modificar;Wijzigen;Modificar
+GereAgri;LC_CltAlaDemande;A la demande;Up to you;A petición;Aan de gebruiker;A sua escolha
+GereAgri;LC_CltAlpha;Alphabétique;Alphabetic;Alfabetico;Alfabetisch;Alfabetico
+GereAgri;LC_RGClasserCritere;Classer selon Critere;Sort upon criteria;Clasificar según Criterio;Volgens Criterium indelen;Classificar segundo o criterio
+GereAgri;LC_RGNote;Note;Note;Nota;Aantekening;Nota
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereAleaPrix;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereAleaPrix;LC_GBReclasser;Reclasser;Reclassify;Reclasificar;Herindelen;Reclassificar
+GereAleaPrix;LC_GereAleaPrixFrm;Aléas Prix;Price hazards;Variación Precio;Prijs variatie;Diferenca de preco
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereAtelier;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereAtelier;LC_GereAtelierFrm;Choix;Choice;Elección;Keuze;Escolha
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereCalendrier;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereCalendrier;LC_GereCalendrierFrm;Calendriers de Travail;Labour Calendar;Calendario de Trabajo;Tijdschema van het werk;Calendario de trabalho
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereCatBestiaux;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereCatBestiaux;LC_GereCatBestiauxFrm;Gere Cat Bestiaux;Manage Cat Animals;Gestionar Categ Animales;Management Cat Dieren;Gestao Cat Animais
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereCatChStruct;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereCatChStruct;LC_GereCatChStructFrm;Gere Cat ChStruct;Manage Cat Fixed Assets;Gestionar Categ Costos Fijos;Management Cat VasteActiva;Gestao Cat  Custos fixos
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereCatItem;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereCatItem;LC_GereCatItemFrm;GereCatItem;Manage Cat Item;Gestionar Categ Item;Manage Cat Item;Gestao Cat Item
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereCatProduit;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereCatProduit;LC_GereCatProduitFrm;Gere Cat Produit;Manage Cat Product;Gestionar Categ Producto;Manage Cat Product;Gestao Cat Produto
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereCatVariable;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereCatVariable;LC_GereCatVariableFrm;Variable;Variable;Variable;Variabele;Variavel
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereEnsemble;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereEnsemble;LC_BtRenomme;Renommer;Rename;Renombrar;Hernoem;Renomear
+GereEnsemble;LC_BtUneExp;1 Expl. Total;1 Farm. Total;1 Expl. Total;1 Landb. Totaal;1 Empresa Total
+GereEnsemble;LC_BtUneMoy;1 Expl Moy;1 Farm. Average;1 Expl Media;1 Landb. Gemiddeld;1 Empresa Media
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereEspece;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereEspece;LC_GereEspeceFrm;Gère Espèce;Manage Specie;Gestionar Especie;Manage Soort;Gestao Especie
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereEtat;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereEtat;LC_GBAtelier;Etat;output form;Formato;Formaat;Forma
+GereEtat;LC_GereEtatFrm;Etats de Sortie;Output forms;Formato de presentación;Formaat Uitvoer;Formulario de Saida
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereIndic;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereIndic;LC_GereIndicFrm;Gere Indicateur;Manage Indicator;indicador admin;Beheer Indicator;indicador admin
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//GereProcedure;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+GereProcedure;LC_BtBnLesProcedures;Les Procedures;The Procedures;Los Procedimientos;De Procedures;Os procedimentos
+GereProcedure;LC_GBAtelier;Procédures;Procedures;Procedimientos;Procedures;Procedimentos
+GereProcedure;LC_GereProcedureFrm;Gère Procédure;Manage Procedure;Gestionar Procedimientos;Beheer Procedure;Gestao Procedimento
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LBChoix;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+LBChoix;LC_LBChoixFrm;LBChoix;LB Choice;LB Elección;LB Keuze;LB Escolha
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LBChoixAction;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+LBChoixAction;LC_LBChoixActionFrm;LBChoixAction;LB Choice Action;LB Elección Acción;LB Actie keuze;LB Escolha Acao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LBChoixMCAction;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+LBChoixMCAction;LC_LBChoixMCActionFrm;LB Choix MC Action;LB Choice MC Action;LB Elección MC Acción;LB keuze MC Actie;LB Escolha MC Acao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LBConversion;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+LBConversion;LC_LBConversionFrm;Conversion;Conversion;Conversión;Conversie;Conversao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LBMarge;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+LBMarge;LC_LBMargeFrm;Marge Ateliers;Activities margins;Margen Actividades;Marge activiteiten;Margens de atividades
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LBSelectionAgri;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+LBSelectionAgri;LC_LBSelectionAgriFrm;Selection ;Selection ;Selección;Selectie;Selecao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LBSysUnit;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+LBSysUnit;LC_Label1;Atelier        Entreprise         Région;Activity        Farm         Region;Actividad        Empresa         Region;Activiteit          Bedrijf          Regio;Actividade        Empresa         Regiao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LBTChoix;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+LBTChoix;LC_LBTChoixFrm;Les Tendances;Tendancies;Tendencias;Trends;Tendancias
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LBTypeZone;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+LBTypeZone;LC_LBTypeZoneFrm;LB Type Zone;LB Type Zone;LB Tipo Zona;LB Type Zone;LB Tipo Zona
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LesDefSim;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+LesDefSim;LC_BtBnReprendre;Reprendre;Resume;Retomar;Ga verder;Continuar
+LesDefSim;LC_LesDefSimFrm;Les Simulations définies;Defined Simulations;Simulaciones definidas;Gedefinieerde simulaties;As Simulacoes definidas
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//LesStocks;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+LesStocks;LC_LesStocksFrm;Les Stocks;Stocks;Stock;Voorraden;Estoques
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Main;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Main;LC_Animaux;Animaux;Animals;Animales;Dieren;Animais
+Main;LC_APropos;&Infos;&Info;&Infos;&Info;&Infos
+Main;LC_Atelier;Ateliers;Activities;Actividades;Activiteiten;Tipo de producao
+Main;LC_BtAgriEnCours;En cours;Current;Activo;Huidige;Corrente
+Main;LC_BtBnAscii;Fichier Ascii;Ascii file;Fichero Ascii;Bestand Ascii;Arquivo Ascii
+Main;LC_BtBnXml;Fichier Xml;Xml file;Fichero Xml;Bestand Xml;Arquivo Xml
+Main;LC_Charges;Charges;Inputs;Costos;Kosten;Intrantes
+Main;LC_ChStruct;Charges Structure;Fixed charges;Costos Fijos;Vaste kosten; Custos fixos
+Main;LC_Cultures;Cultures;Crops;Cultivos;Gewassen;Culturas
+Main;LC_DepDiv;Dépenses Diverses;Misc Expenses;Gastos Varios;Diverse uitgaven;Despesas diversas
+Main;LC_DepFam;Dépenses Famille;Expenses;Gastos Familia;Uitgaven Familie;Despesas familiares
+Main;LC_Divers;Divers;Misc;VARIOS;Diversen;Diversos
+Main;LC_Enregistrer;&Enregistrer;&Save;&Guardar;&Opslaan;&Savar
+Main;LC_Enregistrersous;En&registrer sous...;Save As...;Guaradar como…;Op&slaan als;Savar como...
+Main;LC_Exter;Externalités;Externalities;Externalidades;Omgevingseffecten;Externalidades
+Main;LC_Fichier1;&Fichier;&File;&Fichero;&Bestand;&Arquivo
+Main;LC_GBItemAgri;Pour Entreprise;Farms;Para la Empresa;Ondernemingen;Por Empresa
+Main;LC_GBItemAtelier;Pour Ateliers;Production;Para la Actividad;Voor Activiteiten;Por tipo de producao
+Main;LC_GBItemFamille;Pour Famille;Family;Para la Familia;Voor Familie;Por Familia
+Main;LC_LabFleche5;ê;ê;ê;ê;ê
+Main;LC_Nouveau;&Nouveau;&New;&Nuevo;&Nieuw;&Novo
+Main;LC_Ouvrir;&Ouvrir...;&Open...;&Abrir…;&Openen…;&Abrir...
+Main;LC_Perennes;Pérennes;Tree Crops;Perennes;Blijvende teelten;Perenes
+Main;LC_PerTrav;Périodes Travail;Labour Periods;Periodos de Trabajo;Werkperioden;Periodos de trabalho
+Main;LC_Pluri;Pluriannuelles;Multiannual;Plurianuales;Meerjarige gewassen;Plurianuais
+Main;LC_Prfrences1;Configuration;Configuration;Configuración;Configuratie;Configurar
+Main;LC_Prix;Prix;Prices;Precio;Prijzen;Precos
+Main;LC_Produits;Produits;Outputs;Productos;Producten;Produtos
+Main;LC_Quant;Quantités;Quantities;Cantidades;Hoeveelheden;Quantidades
+Main;LC_RecDiv;Recettes Diverses;Other revenue;Ingresos Varios;Diverse inkomsten;Receitas diversas
+Main;LC_RecFam;Recettes Famille;Revenues;Ingresos Familia;Inkomsten Familie;Receitas familiares
+Main;LC_Test;Test;Test;Test;Test;Teste
+Main;LC_Troupeaux;Troupeaux;Herds;Rebaño;Veestapels;Manadas
+Main;LC_Var;Variables;Variables;Variables;Variabele;Variaveis
+Main;LC_LireDonGlob;Lire données Globales;Read global data;Leer datos globales;Lees globale gegevens;Leia dados globais
+Main;LC_ImportDon;Importer des Données;Import Data;Importar Datos;Gegevens invoeren;Importar dados
+Main;LC_LireAccess;Lire Ms Access;Read Ms Access;Leer Ms Access;Lees Ms Access;Leia Ms Access
+Main;LC_EcrireAccess;Ecrire Ms Access;Write Ms Access;Escribir Access;Invoer Access;Importar Access
+Main;LC_DefRaccourci;Raccourcis;Shortcuts;Atajos;Sneltoets;Atalhos
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Motif;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Motif;LC_Blanc;Blanc;White;Blanco;Wit;Branco
+Motif;LC_BtBleu;Bleu;Blue;Azul;Blauw;Azul
+Motif;LC_MotifFrm;Motif;Pattern;Modelo;Patroon;Motivo
+Motif;LC_Rouge;Rouge;Red;Rojo;Rood;Vermelho
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Motif2;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Motif2;LC_GroupBox1;GroupBox1;GroupBox1;GrupoCaja1;GroepBox1;GroupBox1
+Motif2;LC_Motif2Frm;Motif2;Pattern2;Motivo2;Patroon2;Motivo2
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//MvtAnnee;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+MvtAnnee;LC_LabDestin;Va vers;Destination;Va hacia;Bestemming;Destino
+MvtAnnee;LC_LabEffEntree;Effectif;Number;Numero;Aantal;Efetivo
+MvtAnnee;LC_LabEntree;Entrée dans la Catégorie;In;Entrada en la Categoria;In;Entrar na categoria
+MvtAnnee;LC_LabOrig;Vient de;Origin;Viene de;Oorsprong;Origem
+MvtAnnee;LC_LabSortie;Sortie de la Catégorie;Leave the category;Salida de la Categoria;Uitvoer van Categorie;Saida da categoria
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//NoteAgri;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+NoteAgri;LC_Panel1;Volet1;Panel1;Panel1;Panel1;Painel1
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//NoteEnsemble;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+NoteEnsemble;LC_NoteEnsembleFrm;Notes Ensemble;Set Notes;Conjunto Notas;Setaantekeningen;Conjunto Notas
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//NouvAgri;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+NouvAgri;LC_NouvAgriFrm;Nouvel  Agriculteur;New farmer;Nuevo Agricultor;Nieuwe Landbouwer;Novo agricultor
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QRAtelier;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QRAtelier;LC_Appro;Appro;Supply;Abastecimiento;Levering;Abastecimento
+QRAtelier;LC_C0;C0;C0;C0;C0;C0
+QRAtelier;LC_C1;C1;C1;C1;C1;C1
+QRAtelier;LC_C10;C10;C10;C10;C10;C10
+QRAtelier;LC_C11;C11;C11;C11;C11;C11
+QRAtelier;LC_C12;C12;C12;C12;C12;C12
+QRAtelier;LC_C13;C13;C13;C13;C13;C13
+QRAtelier;LC_C2;C2;C2;C2;C2;C2
+QRAtelier;LC_C3;C3;C3;C3;C3;C3
+QRAtelier;LC_C4;C4;C4;C4;C4;C4
+QRAtelier;LC_C5;C5;C5;C5;C5;C5
+QRAtelier;LC_C6;C6;C6;C6;C6;C6
+QRAtelier;LC_C7;C7;C7;C7;C7;C7
+QRAtelier;LC_C8;C8;C8;C8;C8;C8
+QRAtelier;LC_C9;C9;C9;C9;C9;C9
+QRAtelier;LC_NomAppro;Nom Appro;Name Supply;Nombre Abastecimiento;Naam Levering;Nome Abastecimento
+QRAtelier;LC_NomCat;NomCat;NameCat;Nombre Cat;NaamCat;NomeCat
+QRAtelier;LC_NomUniteAppro;Nom Unité Appro;Name unit Supply;Nombre Unidad Abastecimiento;Naam Eenheid Levering;Nome Unidade Abastecimento
+QRAtelier;LC_V0;V0;V0;V0;V0;V0
+QRAtelier;LC_V1;V1;V1;V1;V1;V1
+QRAtelier;LC_V10;V10;V10;V10;V10;V10
+QRAtelier;LC_V11;V11;V11;V11;V11;V11
+QRAtelier;LC_V12;V12;V12;V12;V12;V12
+QRAtelier;LC_V13;V13;V13;V13;V13;V13
+QRAtelier;LC_V2;V2;V2;V2;V2;V2
+QRAtelier;LC_V3;V3;V3;V3;V3;V3
+QRAtelier;LC_V4;V4;V4;V4;V4;V4
+QRAtelier;LC_V5;V5;V5;V5;V5;V5
+QRAtelier;LC_V6;V6;V6;V6;V6;V6
+QRAtelier;LC_V7;V7;V7;V7;V7;V7
+QRAtelier;LC_V8;V8;V8;V8;V8;V8
+QRAtelier;LC_V9;V9;V9;V9;V9;V9
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QRCatNom;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QRCatNom;LC_QRCatNomFrm;QR Cat Nom;QR Cat Name;QR Ca tNombre;QR Cat Naam;QR Cat Nome
+QRCatNom;LC_Sup;Sup;Sup;Sup;Sup;Sup
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QRCatNomTVA;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QRCatNomTVA;LC_QRCatNomTVAFrm;QR Cat Nom TVA;QR Cat Name TVA;QR Cat Nombre IVA;QR Cat Naam BTW;QR Cat Nome IVA
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QRCatNomUnite;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QRCatNomUnite;LC_Expl;Exploitation;Farm;Finca;Bedrijf;Fazenda
+QRCatNomUnite;LC_QRCatNomUniteFrm;QR Cat Nom Unite;QR Cat Name Unit;QR Cat Nombre Unidad;QR Cat Naam Eenheid;QR Cat Nome Unidade
+QRCatNomUnite;LC_Region;Région;Region;Región;Regio;Regiao
+QRCatNomUnite;LC_UGlobal;UGlobal;UGlobal;UGlobal;Uglobaal;UGlobal
+QRCatNomUnite;LC_UTrans;UTrans;UTrans;UTrans;Utrans;UTrans
+QRCatNomUnite;LC_UUt;UUt;UUt;UUt;UUt;UUt
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QRCatTout;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QRCatTout;LC_PrixPro;PrixPro;PricePro;PrecioPro;PrijsPro;PrecoPro
+QRCatTout;LC_QRCatToutFrm;QR Cat Tout;QR Cat All;QR Cat Todo;QR Cat Alle;QR Cat Todos
+QRCatTout;LC_UnPro;UnPro;UnPro;UnPro;UnPro;UnPro
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QRGrille00;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QRGrille00;LC_QRGrille00Frm;QR Grille00;QR Grid00;QR Cuadricula00;QR Grid00 ;QR Grade00
+QRGrille00;LC_Val12;Val12;Val12;Val12;Val12;Val12
+QRGrille00;LC_Val13;Val13;Val13;Val13;Val13;Val13
+QRGrille00;LC_Val14;Val14;Val14;Val14;Val14;Val14
+QRGrille00;LC_Val15;Val15;Val15;Val15;Val15;Val15
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QRMemo;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QRMemo;LC_QRMemoFrm;QR Memo;QR Memo;QR Memo;QR Memo;QR Memo
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QRSortieQuant;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QRSortieQuant;LC_QRSortieQuantFrm;QR Sortie Quant;QR Output Quant;QR Salida Cant;QR Uitvoer Hoeveelh;QR Saida Quant
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QRSortieVal;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QRSortieVal;LC_LabAn0;LabAn0;LabYr0;LabAño0;LabVr0;LabAn0
+QRSortieVal;LC_LabAn1;LabAn1;LabYr1;LabAño1;LabVr1;LabAn1
+QRSortieVal;LC_LabAn10;LabAn10;LabYr10;LabAño10;LabVr10;LabAn10
+QRSortieVal;LC_LabAn2;LabAn2;LabYr2;LabAño2;LabVr2;LabAn2
+QRSortieVal;LC_LabAn3;LabAn3;LabYr3;LabAño3;LabVr3;LabAn3
+QRSortieVal;LC_LabAn4;LabAn4;LabYr4;LabAño4;LabVr4;LabAn4
+QRSortieVal;LC_LabAn5;LabAn5;LabYr5;LabAño5;LabVr5;LabAn5
+QRSortieVal;LC_LabAn6;LabAn6;LabYr6;LabAño6;LabVr6;LabAn6
+QRSortieVal;LC_LabAn7;LabAn7;LabYr7;LabAño7;LabVr7;LabAn7
+QRSortieVal;LC_LabAn8;LabAn8;LabYr8;LabAño8;LabVr8;LabAn8
+QRSortieVal;LC_LabAn9;LabAn9;LabYr9;LabAño9;LabVr9;LabAn9
+QRSortieVal;LC_QRSortieValFrm;Q Rsortie Val;QR Output Val;QR Salida Val;QR UitvoerWaa;QR Saida Val
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QrTresoQuant;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QrTresoQuant;LC_LabUnite;Unite;unit;Unidad;Eenheid;unidade
+QrTresoQuant;LC_QRTresoQuantFrm;QR Treso Quant;QR Cash Quant;QR Cash Cant;Q Rgeld Hvh;QR Caixa Quant
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QrTresoVal;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QrTresoVal;LC_LabM0;LabM0;LabM0;LabM0;LabM0;LabM0
+QrTresoVal;LC_LabM1;LabM1;LabM1;LabM1;LabM1;LabM1
+QrTresoVal;LC_LabM10;LabM10;LabM10;LabM10;LabM10;LabM10
+QrTresoVal;LC_LabM11;LabM11;LabM11;LabM11;LabM11;LabM11
+QrTresoVal;LC_LabM2;LabM2;LabM2;LabM2;LabM2;LabM2
+QrTresoVal;LC_LabM3;LabM3;LabM3;LabM3;LabM3;LabM3
+QrTresoVal;LC_LabM4;LabM4;LabM4;LabM4;LabM4;LabM4
+QrTresoVal;LC_LabM5;LabM5;LabM5;LabM5;LabM5;LabM5
+QrTresoVal;LC_LabM6;LabM6;LabM6;LabM6;LabM6;LabM6
+QrTresoVal;LC_LabM7;LabM7;LabM7;LabM7;LabM7;LabM7
+QrTresoVal;LC_LabM8;LabM8;LabM8;LabM8;LabM8;LabM8
+QrTresoVal;LC_LabM9;LabM9;LabM9;LabM9;LabM9;LabM9
+QrTresoVal;LC_QRTresoValFrm;QR Treso Val;QR Cash Val;QR Tesor Val;QR Geld Waa;QR Caixa Val
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//QuelExcelCSV;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+QuelExcelCSV;LC_AEcrire;A Ecrire;Save;Escribir;Schrijven;Salvar
+QuelExcelCSV;LC_ALaSuite;A La Suite;After;A continuación;Ten gevolge van;Proxima
+QuelExcelCSV;LC_AutreF;Autre Fichier; Other File;Otro Fichero;Ander Bestand; Outro Arquivo
+QuelExcelCSV;LC_BtBnParcourir;Parcourir;Browse;Escanear;Bladeren;Percorrer
+QuelExcelCSV;LC_Maz;Mettre a Zero;Set to nil;Poner a cero;Op nul zetten;Colocar a zero
+QuelExcelCSV;LC_QuelExcelCSVFrm;Envoi sur Tableur CSV;Send To SpreadSheet;Enviar a una Tabla CSV;Zend naar SpreadSheet;Enviar para Tabela CSV
+QuelExcelCSV;LC_RG;A Ecrire;Save;Escribir;Opslaan;Salvar
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//ResGraph;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+ResGraph;LC_BtImp;&Imprimer;Print;&Imprimir;Afdrukken;Imprimir
+ResGraph;LC_BtTableau;Tableau;Values;Tabla;Tabel;Valores
+ResGraph;LC_GBBornesG;Bornes;Limits;Limites;Grenzen;Limites
+ResGraph;LC_GBEchelleG;Echelle;Scale;Escala;Schaal;Escala
+ResGraph;LC_LabMAXG;MAXIMUM;MAXIMUM;MÁXIMO;MAXIMUM;MAXIMO
+ResGraph;LC_LabMING;MINIMUM;MINIMUM;MINIMO;MINIMUM;MINIMO
+ResGraph;LC_TabSheetD;Droite;Right;Derecha;Rechts;Direita
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Resultat;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Resultat;LC_Bilan;BILAN;BALANCE;BALANCE;BALANS;BALANCO
+Resultat;LC_BtAffiche;Afficher;Show;Mostrar;Tonen;Mostrar
+Resultat;LC_BtBnStandard;Standard;Standard;Estandar;Standaard;Padrao
+Resultat;LC_BtBnTableur;Tableur;SpreadSheet;Tablas;Spreadsheet;Tabela
+Resultat;LC_BtSup1G;Supprime 1;Delete  1;Suprimir 1;Verwijderen 1;Apagar  1
+Resultat;LC_BtSupToutG;Supprime Tout;Delete All;Suprimir Todo;Alles verwijderen;Apagar Tudo
+Resultat;LC_Ceg;CEG;Farm Accounts;Cuentas de explotación;Rekening;Contas de exploração
+Resultat;LC_ComptaPer;Compta Pérenne;Tree Crops account;Contabilidad Perenne;Rekening blijvende teelten;Conta de perenes
+Resultat;LC_Courbe;Courbe;Curve;Curva;Kromme;Curva
+Resultat;LC_Etat;Etats de sortie;Output Forms;Formato de presentación;Uitvoerformaten;Formulario de saida
+Resultat;LC_Exter;Externalités;Externalities;Externalidades;Omgevingseffecten;Externalidades
+Resultat;LC_GBGraph;Graphiques;Graphics;Graficos;Grafieken;Graficos
+Resultat;LC_GBMonnaie;Monnaie;Currency;Moneda;Valuta;Moeda
+Resultat;LC_Histo;Histo;Bars;Histo;Histogram;Histograma
+Resultat;LC_Immo;Immobilisation;Fixed Assets;Inmovilización;Vaste activa;Imobilização
+Resultat;LC_LabDroit;Droit;Right;Derecha;Rechts;Direita
+Resultat;LC_Marges;Marges;Margins;Márgenes;Marges;Margens
+Resultat;LC_Prive;PRIVE;FAMILY;PRIVADO;PRIVE;FAMILIA
+Resultat;LC_Quant;QUANTITES;QUANTITIES;CANTIDADES;HOEVEELHEDEN;QUANTIDADES
+Resultat;LC_RecapImmo;Récap Immo;Fixed Assets;Resumen Inmo;Recap vaste activa;Recaptulativo imobilizacao
+Resultat;LC_RecapLT;Récapitulatif LT;Long term ;Resumen LP;Recapitulatie LT;Longo prazo
+Resultat;LC_RecDep;Recettes Depenses;Receipts Expenses;Ingresos Gastos;Inkomsten Uitgaven;Receitas Despesas
+Resultat;LC_RecDepGP;Rec. Dép. Grands postes;Rec. Exp. Summary;Ing. Gas. Resumen;Ink. Uitg. Samenvatting;Rec. Desp. Resumo
+Resultat;LC_RGAxe;Axe Vertical;Vertical axis;Eje Vertical;Verticale as;Eixo vertical
+Resultat;LC_RGUnOuEnsemble;Porte Sur;About;TraSobre;Over;Sobre
+Resultat;LC_Stocks;Les Stocks;Stocks;Stocks;Voorraden;Estoques
+Resultat;LC_Surface;Surface;Area;Superficie;Oppervlakte;Area
+Resultat;LC_Synt;Synthèse;Synthesis;Síntesis;Synthese;Sintese
+Resultat;LC_SyntFi;Finance;Finance;Finanza;Financiën;Financa
+Resultat;LC_TVA;TVA;VAT;IVA;BTW;Imbosto sobre Valores Aditivos
+Resultat;LC_LongueDuree;  + 10 ans; + 10 years ; + 10 años; + 10 jaar; + 10 anos
+Resultat;LC_Un;Un élément;One item;Un item;een item;Un item
+Resultat;LC_Serie;Une Série;one serie;una serie;een reeks;uma série
+Resultat;LC_Raccourci;Raccourci;Shortcut;Atajo;Sneltoets;Atalho
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//SituDepart;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+SituDepart;LC_LabAcompteAout;Acompte Aout;August payment;Anticipo Agosto;Voorschot Augustus;Pagamento Agosto
+SituDepart;LC_LabAcompteFevrier;Acompte Février;Februar payment;Anticipo Febrero;Voorschot Februari;Pagamento Fevereiro
+SituDepart;LC_LabAcompteMai;Acompte Mai;May payment;Anticipo Mayo;Voorschot Mei;Pagamento Maio
+SituDepart;LC_LabAcompteNov;Acompte Novembre;November Payment;Anticipo Noviembre;Voorschot November;Pagamento Novembro
+SituDepart;LC_LabTresoIni;Trésorerie Initiale;Cash at beginning;Tesoreria Inicial;Kas bij begin;Caixa inicial
+SituDepart;LC_LabTVAEncaissee;TVA Encaissee;VAT taken;IVA recibido;Ontvangen BTW;VAT recebido
+SituDepart;LC_LabTVAVersee;TVA Versée;VAT given;IVA pagado;Betaalde BTW;IVA pago
+SituDepart;LC_SituDepartFrm;Situation de Départ;Situation at Start;Situación Inicial;Beginsituatie;Situacao inicial
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//SortieEcran;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+SortieEcran;LC_SortieEcranFrm;Sortie Ecran;Output Screen;SalidaP antalla;Uitvoer scherm;Saida Monitor
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//SysUnite;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+SysUnite;LC_GBMonnaie;Monnaie Utilisée;Currency used;Moneda Utilizada;Gebruikte Valuta;Moeda utilizada
+SysUnite;LC_LabMonnaie;LabMonnaie;LabCurrency;LabMoneda;LabValuta;LabMoeda
+SysUnite;LC_SysUniteFrm;Système d'unités;Unit System;Sistema de unidades;Systeem eenheden;Sistema de unidades
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Tarif;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Tarif;LC_RGLimite;Limite;Limit;Límite;Limiet;Limite
+Tarif;LC_RGMultiple;Multiple ou Unique;Multiple or Unique;Multiple o Único;Meervoudig of Uniek;Multiplo ou Unico
+Tarif;LC_TarifFrm;Tarif;Rate;Tarifa;Tarief;Tarifa
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TravCal;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TravCal;LC_BtBnGraphe;Graphe;Graph;Grafico;Grafiek;Graico
+TravCal;LC_BtBnLegende;Légende;Legend;Leyenda;Legenda;Legenda
+TravCal;LC_BtBnOrdre;Ordre Affichage;Display Order;Orden de Aparición;Volgorde Weergeven;Ordem de exposicao
+TravCal;LC_GB;Couleurs et Motifs;Colors and Patterns;Colores y Motivos;Kleuren en Patronen;Cores e Motivos
+TravCal;LC_GBOrdre;Ordre d'affichage;Display Order;Orden de Aparición;Volgorde Weergeven;Ordem de exposicao
+TravCal;LC_GBPresentation;Modif Presentation;Modify Presentation;Modificar Presentación;Aanpassen Presentatie;Modificar Apresentacao
+TravCal;LC_LabCalendrier;Calendriers;Labour Calendar;Calendarios;Arbeidsfilms;Calendarios
+TravCal;LC_LabCoulMotif; Couleur  Motif; Color    Pattern; Colores  Motivos ; Kleuren  Patroon; Cores    Motivos 
+TravCal;LC_LabNbOuv;Nb travailleurs;No workers;Nº trabajadores;Aantal arbeiders;Nr de trabalhadores
+TravCal;LC_TotBesoins;Total Besoins;Total Needs;Necesidades Totales;Totaal van de Behoeften;Total de necessidades
+TravCal;LC_TravCalFrm;Trav Cal;Labour Cal ;Cal Trab;Werk Kal;Trab Cal
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TravGraph;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TravGraph;LC_TravGraphFrm;Trav Graph;Labour Graph ;Trab Graf;WerkGrafiek;TrabGraf
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Treso;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Treso;LC_Finance;Finance;Finance;Finanza;Financiën;Financa
+Treso;LC_Investissement;Investissement;Investment;Inversión;Investeringen;Investimento
+Treso;LC_Oprationnelles1;Opérationnelles;Inputs;C Variables;Invoer;Operacionais
+Treso;LC_Prive;Privé;Private;Privado;Privé;Privado
+Treso;LC_TresoDetail;Détaillée;Detailed;Detallado;Gedetailleerd;Detalhado
+Treso;LC_TresoSemiDetail;SemiDétaillée;HalfDetailed;SemiDetallado;Kort beschreven;Semi-detalhado
+Treso;LC_TypeValQuant;Type: Val/Quant;Type: Val/Quant;Tipo: Val/Cant;Type: Waarde/hoeveelheid;Tipo: Val/Quant
+Treso;LC_Troupeaux;Troupeaux;Herds;Rebaño;Veestapel;Rebanhos
+Treso;LC_Creances;Creances;Credits;Créditos;Vorderingen;Creditos
+Treso;LC_Dettes;Dettes;Debts;Deudas;Schulden;Dividas
+//;;;;;;
+//;;;;;;
+//TresoDefOccc;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TresoDefOccc;LC_SansMaxi;Sans Maxi;Without max;Sin Max;Zonder max;Sem max
+TresoDefOccc;LC_TresoDefOcccFrm;Treso Def Occc;Cash Def Overdraft;Tesor Def Credit Descubierto;Geld Def Rekening courantkrediet;Caixa Def Credit
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TresoGraph;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TresoGraph;LC_GBAff;Affichage;Display;Mostrar;Weergeven;Mostrar
+TresoGraph;LC_LabMois;Mois de Début;Starting month;Mes de Inicio;Startmaand;Mes inicial
+TresoGraph;LC_RGNbAnnee;Nombre d'années;Number of years;Número de Años;Aantal jaren;Numero de anos
+TresoGraph;LC_TresoGraphFrm;Treso Graph;Cash Graph;Tesor Graf;Geld Grafiek;Caixa Graf
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TresoQouV;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TresoQouV;LC_TresoQouVFrm;Type de Trésorerie;Type of Treasury;Tipo de Tesoreria;Soort Kas;Tipo de tesouraria
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TresoRepart;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TresoRepart;LC_TresoRepartFrm;Treso  Produits ;Product CashFlow;Tesoreria Productos;Productenstroom;Fluxo de produtos
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TresoRes;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TresoRes;LC_BtBnGraphique;Graphique;Graph;Grafico;Grafiek;Grafico
+TresoRes;LC_BtBnMoin12;-12;-12;-12;-12;-12
+TresoRes;LC_BtBnPlus12;12;12;12;12;12
+TresoRes;LC_TresoResFrm;TresoRes;CashFlow Res;Tesoreria Res;GeldRes;CaixaRes
+TresoRes;LC_ProVal;Produits VALEUR;Output VALUE;Productos VALOR;Opbrengsten BEDRAG;Produtos VALOR
+TresoRes;LC_ProQuant;Produits QUANTITE;Output QUANTITY;Productos CANTIDAD;Opbrengsten HOEVEELHEID;Produtos QUANTIDADE
+TresoRes;LC_ChaVal;Charges VALEUR;Input VALUE;Costos VALOR;Kosten BEDRAG;Custos VALOR
+TresoRes;LC_ChaQuant;Charges QUANTITE;Input QUANTITY;Costos CANTIDAD;Kosten HOEVEELHEID;Custos QUANTIDADE
+TresoRes;LC_ChStructVal;Charges de Structure;Fixed Assets;Costos Fijos;Vaste kosten;Custos fixos
+TresoRes;LC_AniVal;Ventes et achats d'animaux VALEUR;Buy & Sale Animals VALUE;Ventas y compras de animales;Omzet vee BEDRAG;Vendas e compras de animais VALOR
+TresoRes;LC_AniQuant;Ventes et achats d'animaux QUANTITE;Buy & Sale Animals QUANTITY;Ventas y compras animales CANTIDAD;Omzet vee HOEVEELHEID;Vendas e compras de animais QUANTIDADE
+TresoRes;LC_RecDiv;Recettes Diverses;Misc Revenues;Ingresos Distintos ;Diverse inkomsten;Receitas diversas
+TresoRes;LC_DepDiv;Dépenses Diverses;Misc Expenses;Gastos Distintos;Diveree uitgaven;Custos diversas
+TresoRes;LC_Ext;Externalités;Externalities;Externalidades;Omgevingseffecten;Externalidades
+TresoRes;LC_ExtNeg;Externalités Négatives;Negative Externalities;Externalidades negativas;Negatieve omgevingseffecten;Externalidades negativas
+TresoRes;LC_ExtPos;Externalités Positives;Positive Externalities;Externalidades positivas;Positieve omgevingseffecten;Externalidades positivas
+TresoRes;LC_DepFam;Dépenses familiales;Family expenses;Gastos familiares ;Uitgaven Gezin;Custos familiares
+TresoRes;LC_RecFam;Recettes familiales;Family revenues;Ingresos Familiares;Inkomsten Gezin;Receitas familiares
+TresoRes;LC_Immo;Immobilisations;Fixed Assets;Inmovilizaciones ;Vaste activa;Investimentos
+TresoRes;LC_PetitMat;Petit Matériel;Small tools;Pequeño Material ;Klein Materiaal;Pequeno Material
+TresoRes;LC_Finance;Finance;Finance;Finanzas ;Financiering;Finança
+TresoRes;LC_CreanDette;Créances Dettes;Credits & Debts;Créditos Deudas ;Vorderingen en schulden;Créditos Dívidas
+TresoRes;LC_VenteAni;Vente d'animaux;Animal Sales;Ventas de animales;Verkoop dieren;Vendas de animais 
+TresoRes;LC_AchatAni;Achat d'animaux;Animal purchase;Compras de animales;Aankoop dieren;Compras de animais 
+TresoRes;LC_Troupeau;Troupeau :;Herds:;Rebaños:;Veestapel:;Rebanhos:
+TresoRes;LC_Creances;Créances;Credits;Créditos;Vorderingen;Créditos 
+TresoRes;LC_Dettes;Dettes;Debts;Deudas;Schulden;Dívidas
+TresoRes;LC_Charges;Charges;Inputs;Costos;Kosten;Despesas 
+TresoRes;LC_TotRecu;Total Reçu;Total Received;Total Recibo ;Totaal ontvangen;Total recibo 
+TresoRes;LC_TotSorti;Total Sortie;Total Paid;Total Salida ;Totaal betaald;Total Saídas
+TresoRes;LC_CreanceEtDette;Créances et Dettes;Credits & Debts;Créditos y Deudas;Vorderingen en schulden;Créditos e Dívidas
+TresoRes;LC_TotEmprunt;Total Emprunt;Total Loans;Total Empréstito ;Totaal leningen;Reembolso dos empréstimos
+TresoRes;LC_TotRembEmpr;Total Remb Emprunt;Total Loan refunds;Total Reembolso Empréstito ;Totaal aflossingen leningen;Total Reemb empréstimos
+TresoRes;LC_CreanceEtDette;Total Créances et Dettes;Total Credits & Debts;Total Créditos y Deudas;Totaal vorderingen en schulden;Total créditos e dívidas
+TresoRes;LC_TotalAchat;Total Achat;Total Purchases;Total Compra  ;Totaal aankopen;Total Compra 
+TresoRes;LC_TotalVente;Total Vente;Total Sales;Total Venta;Totaal verkopen;Total Venda 
+TresoRes;LC_InvNet;Investissement net;Net Investments;Inversión neta ;Netto investeringen;Investimento nítido 
+TresoRes;LC_EmpLT;Emprunts LT;LT Loans;Empréstitos LT ;Leningen LT;Empréstimos LT 
+TresoRes;LC_TotNouvEmp;Total Nouveaux Emprunts;Total New Loans;Total Nuevos Empréstitos ;Totaal nieuwe leningen LT;Total Novos Empréstimos 
+TresoRes;LC_TotRemb;Total Remboursements;Total Refunds;Total Reembolsos ;Totaal aflossingen leningen LT;Total Reembolsos 
+TresoRes;LC_EmpCT;Emprunts CT;ST Loans;Empréstitos CT ;Leningen KT;Empréstimos CT 
+TresoRes;LC_TotNouvCT;Total CT Nouveaux Emprunts;Total ST New Loans;Total CT Nuevos Empréstitos ;Totaal nieuwe leningen KT;Total CT Novos Empréstimos 
+TresoRes;LC_TotRembCT;Total CT Remboursements ;Total ST Refunds; Total CT Reembolsos ;Totaal aflossingen leningen KT;Total CT Reembolsos 
+TresoRes;LC_Subvention;Subventions;Subsidies;Subvenciones ;Subsidies;Subvenções 
+TresoRes;LC_SubTot;Total Subventions;Total Subsidies;Total Subvenciones ;Totaal subsidies;Total Subvenções 
+TresoRes;LC_Plact;Placements;Investment;Inversiones;Investeringen;Investimentos
+TresoRes;LC_PlactTot;Total Placements;Total Investments;Total Inversiones;Totaal investeringen;Total Investimentos
+TresoRes;LC_PlactRes;Résultat des Placements;Investment Results;Resultados de Inversiones;Investeringsresultaat;Resultados de Investimentos
+TresoRes;LC_Tva;Tva;VAT;IVA;BTW;IVA
+TresoRes;LC_TvaEnc;Tva Encaissée;VAT Received; IVA Ingresado ;Ontvangen BTW;IVA Encaixado 
+TresoRes;LC_TvaVer;Tva Versée;VAT Paid; IVA Pagado ;Betaalde BTW;IVA Vertido 
+TresoRes;LC_TvaAc;Acompte Tva;VAT Deposit;IVA Pago a cuenta;BTW deposito;IVA Prestação 
+TresoRes;LC_TvaReg;Régularisation Tva;VAT Regularization;IVA Regularización ;BTW regularisatie;IVA Regularização 
+TresoRes;LC_TvaRemb;Remboursement Tva;VAT Refunded;IVA Reembolso ;Afgeloste BTW;IVA Reembolso 
+TresoRes;LC_TvaSolde;Solde Tva;VAT Balance;IVA Saldo ;Balans BTW;IVA Saldo 
+TresoRes;LC_TotRec;Total Recettes ttc;Total Receipts;Total Ingresos TTC ;Totaal ontvangen;Total Receitas ttc 
+TresoRes;LC_TotDep;Total Dépenses ttc;Total Expenses;Total Gastos TTC ;Totaal uitgaven;Total Despesas ttc 
+TresoRes;LC_Solde;Solde;Balance;Saldo ;Saldo;Saldo 
+TresoRes;LC_SoldeCumul;Solde Cumulé;Accrued Balance;Saldo Acumulado ;Cumulatief saldo;Saldo Acumulado 
+TresoRes;LC_Oc1;Occc 1;Overdraft 1;Crédito al descubierto 1;Rekening courantkrediet 1;crédito a descoberto 1
+TresoRes;LC_Oc1Int;Interet Occc1;Overdraft 1: Interest;Crédito al descubierto Interés 1;Rente rekening courantkrediet 1;crédito a descoberto Interesse  1
+TresoRes;LC_Oc2;Occc 2;Overdraft 2;Crédito al descubierto 2;Rekening courantkrediet 2;crédito a descoberto 2
+TresoRes;LC_Oc2Int;Interet Occc2;Overdraft 2: Interest;Crédito al descubierto Interés 2;Rente rekening courantkrediet 2;crédito a descoberto Interesse 2
+TresoRes;LC_Occc; Occc;Overdraft;Crédito al descubierto;Rekening courantkrediet;crédito a descoberto
+TresoRes;LC_OcccInt;Interet Occc;Overdraft Interest;Crédito al descubierto Interés;Rente rekening courantkrediet;crédito a descoberto Interesse 
+TresoRes;LC_SolApOccc;Solde Après Occc;Balance after Overdraft;Crédito al descubierto Saldo;Saldo na rc krediet;Saldo após crédito a descoberto 
+TresoRes;LC_PlactInt;Interet des placements;Investments Interest;Interés de las inversiones;Rente investeringen;Interesse dos investimentos
+TresoRes;LC_SoldeApPlact;Solde après placements;Balance after Investments;Saldo después inversiones;Saldo na investeringen;Saldo após investimentos
+
+//;;;;;;
+//;;;;;;
+//TriAgri;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TriAgri;LC_BtBnCritere;Critères;Criteria;Criterios;Criteria;Criterios
+TriAgri;LC_Lab1;Lab1;Lab1;Lab1;Lab1;Lab1
+TriAgri;LC_Lab2;Lab2;Lab2;Lab2;Lab2;Lab2
+TriAgri;LC_Lab3;Lab3;Lab3;Lab3;Lab3;Lab3
+TriAgri;LC_Lab4;Lab4;Lab4;Lab4;Lab4;Lab4
+TriAgri;LC_Lab5;Lab5;Lab5;Lab5;Lab5;Lab5
+TriAgri;LC_Pan1;Pan1;Pan1;Pan1;Pan1;Pan1
+TriAgri;LC_Pan2;Pan2;Pan2;Pan2;Pan2;Pan2
+TriAgri;LC_Pan3;Pan3;Pan3;Pan3;Pan3;Pan3
+TriAgri;LC_Pan4;Pan4;Pan4;Pan4;Pan4;Pan4
+TriAgri;LC_Pan5;Pan5;Pan5;Pan5;Pan5;Pan5
+TriAgri;LC_TriAgriFrm;Clés de Tri;Sorts Key;Claves de clasificación;Sorteren Sleutel;Chave de classificacao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//Troupeau;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+Troupeau;LC_AvecMvt;Avec Mouvement;Dynamic;Con Movimiento;Dynamisch;Dinamico
+Troupeau;LC_BtBnRien;Rien;None;Nada;Niets;Nenhum
+Troupeau;LC_BtBnSansBorne;Sans Borne;Unbounded;Sin Límite;Onbegrensd;Sin Límite
+Troupeau;LC_BtBnSimuler;Simuler;Simulate;Simular;Simuleren;Simular
+Troupeau;LC_Constant;Constant;Constant;Constante;Constant;Constante
+Troupeau;LC_GBTrARetenir;Troupeaux à Retenir;Herd to Select;Rebaño a seleccionar;Te selecteren veestapel;Rebanho a seleccionar
+Troupeau;LC_GroupBox1;Les Troupeaux;The Herds;Los Rebaños;De Veestapels;Os rebanhos
+Troupeau;LC_LabAchat;A Acheter;To purchase;A Comprar;Aan te kopen;A comprar
+Troupeau;LC_LabEffMax;Effectif maximal par catégorie;Maximum No per category;Numero máximo por categoria;Maximum aantal per categorie;Efetivo maximo por categoria
+Troupeau;LC_LabNature;Type de Troupeau:;Herd;Tipo de Rebaño;Soort Veestapel;Rebanho
+Troupeau;LC_LabNomTroupeau;Nom du Troupeau;Herd Name;Nombre del Rebaño;Naam Veestapel;Nome do Rebanho
+Troupeau;LC_LabPrix;Prix Vente Moyen;Average Price;Precio de Venta Medio;Gemiddelde Prijs;Preco medio
+Troupeau;LC_LabPrixAchat;Prix d'Achat;purchase price ;Precio de Compra;Aankoopprijs;Preco de compra
+Troupeau;LC_LabResTroupeau;Résultats du/des troupeaux;Results for herd/herds;Resultado del rebaño/s;Resultaten veestapel;Resultados para o rebanho
+Troupeau;LC_LabValInv;Valeurs d'inventaire;Stocktaking value;Valores de inventario;Balanswaarde;Valor de inventario
+Troupeau;LC_PrixAchat;Prix Achat;Buying Price;Precio de Compra;Aankoopprijs;Preco de compra
+Troupeau;LC_ProCha;Atelier_Animaux;Workshop_Herd;Actividad_Rebano;Activiteit_Veestapel;Actividde_Rebanho
+Troupeau;LC_ProChaT;Produits et Charges;Inputs and Outputs;Productos y Costos;Producten en Kosten;Encragos e Produtos
+Troupeau;LC_TSMaxi;Maxi;Maxi;Maxi;Maxi;Maxi
+Troupeau;LC_TSPrix;Prix Vente;Selling price;Precio de Venta;Verkoopprijs;Preco de venda
+Troupeau;LC_TSPrixAchat;Prix Achat;Buying Price;Precio de Compra;Aankoopprijs;Preco de compra
+Troupeau;LC_TSValInv;Val. Inventaire;Stocktaking value;Val Inventario;Balanswaarde;Valor de inventario
+Troupeau;LC_Effectif;Effectif;Number;Numero;Aantal;Efetivo
+Troupeau;LC_Achat;Achat;Purchase;Compra;Gemiddelde;Compra
+Troupeau;LC_Vente;Vente;Sales;Venta;Aankoop;Venda
+Troupeau;LC_Valeur;Valeur;Value;Precio;Waarde;Preco
+Troupeau;LC_Inventaire;Inventaire;Stocktaking;Inventario;Inventarisatie;Inventario
+Troupeau;LC_ProdCha;Produits Charges;Products Costs;Productos  Costos;Producten  Kosten;Encragos  Produtos
+Troupeau;LC_Quantite;Quantité;Quantity;Cantidad;Hoeveelheid;Quantidade
+Troupeau;LC_LabFinAnnee;Effectifs en fin d'année;Numbers at end of year;Números en final del año ;Aantal einde jaar;Números no fim de ano
+Troupeau;LC_EffVente;Effectifs Vendus;Numbres sold;Números vendidos;Aantal verkocht;Números Vendidos 
+Troupeau;LC_EffAchat;Effectifs Achetés;Numbers purchased;Números comprados;Aantal gekocht;Números Comprados 
+Troupeau;LC_ValAchat;Valeur des Ventes;Sales value;Valor de las Ventas ;Bedrag verkopen;Valor das Vendas 
+Troupeau;LC_ValVente;Valeur des Achats;Purchase value;Valor de las Compras ;Bedrag aankopen;Valor das Compras 
+Troupeau;LC_ValInv;Valeur d'Inventaire;Fixed Assets value;Valor del inventario ;Waarde vaste activa;Valor do Inventário 
+Troupeau;LC_MazVenteAchat;Maz VenteAchat;Erase In/Out;Cancelar In/Out;Verwijder In/Uit;Cancelar In/Out
+Troupeau;LC_MazMvt;Maz Mvt décidés;Erase manual changes;Cancelar modif;Verwijder handm wijz;Cancelar modif
+//;;;;;;
+//;;;;;;
+//TVA;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TVA;LC_GBDefaut;Par Défaut;By default;Por defecto;Voorgedefinieerd;Padrao
+TVA;LC_Jefface;j'efface tous les éléments INUTILISES ?;Do you want to delete all unused items?;Elimino todos los elmentos no utilizados?;ik wil alle ongebruikte zaken wissen?;Voce quer apagar os itens nao utilizados?
+TVA;LC_Nettoyer;Nettoyer;Clear;Borrar;Schoonmaken;Limpar
+TVA;LC_Nom;Nom;Name;Nombre;Naam;Nome
+TVA;LC_PasNom;Pas de Nom;No Name;No hay Nombre;Geen naam;Sem Nome
+TVA;LC_PasTaux;Pas de Taux;No Rate;No hay Tasa;Geen tarief;Sem Taxa
+TVA;LC_PasTVADefaut;Pas de TVA par défaut;No VAT by default;No hay IVA por defecto;Geen BTW voorgedefinieerd;Sem VAT como padrao
+TVA;LC_PasTVAImmo;Pas de TVA defaut Immo;No VAT by default for Fix. Assets;No hay IVA por defecto para Inmobilización;Geen BTW voorgedefinieerd voor Vaste activa;Sem VAT como padrao para o imobiliario
+TVA;LC_Taux;Taux;Rate;Tasa;Tarief;Taxa
+TVA;LC_Utilise;Utilisé;Used;Utilizado;Gebruikt;Usado
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TVChoix;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TVChoix;LC_TVChoixFrm;TV Choix;TV Choice;TV Eleccion;TV Keuze;TV Escolha
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TVChoixComp;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TVChoixComp;LC_TVChoixCompFrm;Série Comparaisons;Comparison List;Lista Comparaciones;Vergelijkingslijst;Serie de comparacao
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TVChoixEtat;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TVChoixEtat;LC_TVChoixEtatFrm;Les Etats;Output form;Los Estados;Uitvoerformaten;Formulario de saida
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TVChoixItem;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TVChoixItem;LC_TVChoixItemFrm;TV Choix Item;TV Choice Item;TV Elección Item;TV Keuze Item;TV Escolha Item
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TVChoixMarge;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TVChoixMarge;LC_TVChoixMargeFrm;TV Choix Marge;TV Choice Margin;TV Elección Margen;TV Keuze Marge;TV Escolha Margem
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TVDonProcedure;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TVDonProcedure;LC_GBDon;Données A Calculer;Data to calculate;Datos a calcular;Te berekenen gegevens;Dados a calcular
+TVDonProcedure;LC_GBRes;Résultats NON Modifiables;UnModifiable Data;Resultados NO Modificables;NIET te Wijzigen resultaten;Dados nao modificaveis
+TVDonProcedure;LC_PanHaut;PanHaut;PanTop;PanAlto;Pantop;PanTop
+TVDonProcedure;LC_RG;Données à Utiliser;Data to use;Datos a Utilizar;Te gebruiken gegevens;Dados a utilizar
+TVDonProcedure;LC_TVDonProcedureFrm;Données et Résultats;Data and Results;Datos y Resultados;Gegevens en Resultaten;Dados e Resultados
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TVPrixChoix;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TVPrixChoix;LC_TVPrixChoixFrm;TV;TV;TV;TV;TV
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TVRdtChoix;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TVRdtChoix;LC_TVRdtChoixFrm;TV Choix Marge;TV Choice Margin;TV Elección Margen;TV Keuze Marge;TV Escolha Margem
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TVVarianteAgri;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TVVarianteAgri;LC_TVVarianteAgriFrm;Variantes Ensemble Agri;Set Variant;Conjunto Variantes Agri;Alle Varianten;Conjuto variante
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TVVarianteEns;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TVVarianteEns;LC_TVVarianteEnsFrm;TV Variante Ens;TV Variant Group;TV Variante Conjunto;TV Variant Groep;TV Variante Conjunto
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TypeAmor;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TypeAmor;LC_Amor;Amortissement;Depreciation;Amortización;Afschrijvingen;Amortizaçaõ
+TypeAmor;LC_Degressif;Dégressif;Graduated;Decreciente;Degressief;Decrescente
+TypeAmor;LC_Lineaire;Linéaire;Linear;Lineal;Lineair;Linear
+TypeAmor;LC_Sans;Sans;None;Sans;Zonder;Sem
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TypeEmpCT;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TypeEmpCT;LC_Normal;Normal;Normal;Normal;Normaal;Normal
+TypeEmpCT;LC_PreCompte;PréCompté;Deducted;Descontado;Voorheffing;Descontado
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TypeEmpLT;;;;;;
+
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TypeEmpLT;LC_Remboursement;Remboursement;Refund;Reembolso;Aflossing;Reembolso
+TypeEmpLT;LC_Constant;Constant;Constant;Constante;Constant;Constante
+TypeEmpLT;LC_Variable;Variable;Variable;Variable;Variabel;Variàvel
+TypeEmpLT;LC_Differe;Différé;Deferred;Diferido;Uitgesteld;Diferenciado
+TypeEmpLT;LC_Annuel;Annuel;Annual;Anual;Jaarlijks;Anual
+TypeEmpLT;LC_Semestriel;Semestriel;Biannual;Semestral;Halfjaarlijks;Semestral
+TypeEmpLT;LC_Trimestriel;Trimestriel;Triannual;Trimestral;Viermaandelijks;Trimestral
+TypeEmpLT;LC_Mensuel;Mensuel;Monthly;Mensual;Maandelijks;Mensual
+//;;;;;;
+//;;;;;;
+//;;;;;;
+//TypePlact;;;;;;
+//Programme; Variable;Français; English; Espanol; Nederlands; Portugues 
+TypePlact;LC_Annuel;Annuel;Annual;Anual;Jaarlijks;Anual
+TypePlact;LC_AlaFin;A la fin;At the End;Al fino;aan het eind;Al fino

@@ -1,0 +1,1902 @@
+30-3-2007 17:12;;;;
+
+Landbouwer;gerrit;;;
+
+
+
+Delta;Prijs;Product;Tendens;Bedrijf 1 Ronde 1
+Delta;Prijs;Uitgaven;Tendens;Bedrijf 1 Ronde 1
+Delta;Hoeveelheid;Product;Tendens;bedrijf 1 ronde 1
+Delta;Hoeveelheid;Uitgaven;Tendens;bedrijf 1 ronde 1
+
+
+
+
+
+ ;;;;
+Alea Rendement;     Bedrijf 1 Ronde 1;;;;;;;;;;;
+
+Product;Categorie;Basis;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Asperges;Gewas hoofdproducten;3.21;3.21;3.21;3.21;3.21;3.21;3.21;3.21;3.21;3.21;3.21
+Bio cons. aardappelen;Gewas hoofdproducten;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24
+Bio pootaardappelen;Gewas hoofdproducten;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26
+Bio bruine bonen;Gewas hoofdproducten;1.31;1.31;1.31;1.31;1.31;1.31;1.31;1.31;1.31;1.31;1.31
+Bio stamslabonen;Gewas hoofdproducten;0.95;0.95;0.95;0.95;0.95;0.95;0.95;0.95;0.95;0.95;0.95
+Bio tuinbonen;Gewas hoofdproducten;0.49;0.49;0.49;0.49;0.49;0.49;0.49;0.49;0.49;0.49;0.49
+Bio doperwten;Gewas hoofdproducten;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6
+Bio wintergerst;Gewas hoofdproducten;0.31;0.31;0.31;0.31;0.31;0.31;0.31;0.31;0.31;0.31;0.31
+Bio zomergerst;Gewas hoofdproducten;0.23;0.23;0.23;0.23;0.23;0.23;0.23;0.23;0.23;0.23;0.23
+Bio haver;Gewas hoofdproducten;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26
+Bio wintertarwe;Gewas hoofdproducten;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3;0.3
+Bio zomertarwe;Gewas hoofdproducten;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26;0.26
+Bio knolselderij;Gewas hoofdproducten;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24
+Bio winterpeen;Gewas hoofdproducten;0.27;0.27;0.27;0.27;0.27;0.27;0.27;0.27;0.27;0.27;0.27
+Bio zaaiuien;Gewas hoofdproducten;0.28;0.28;0.28;0.28;0.28;0.28;0.28;0.28;0.28;0.28;0.28
+Bio luzerne;Gewas hoofdproducten;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08
+Bio suikerbieten;Gewas hoofdproducten;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07
+Bio Kroten;Gewas hoofdproducten;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15
+Bio witlofwortel;Gewas hoofdproducten;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05
+Blauwmaanzaad;Gewas hoofdproducten;1;1;1;1;1;1;1;1;1;1;1
+Tulpen;Gewas hoofdproducten;30;30;30;30;30;30;30;30;30;30;30
+Braakland;Gewas hoofdproducten; ;0;0;0;0;0;0;0;0;0;0
+Braakland regio 2;Gewas hoofdproducten; ;0;0;0;0;0;0;0;0;0;0
+Bruine bonen;Gewas hoofdproducten;0.7;0.7;0.7;0.7;0.7;0.7;0.7;0.7;0.7;0.7;0.7
+Cichorei;Gewas hoofdproducten;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05
+Consumptieaardappelrassen hoge norm;Gewas hoofdproducten;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08
+Consumptieaardappelrassen overig;Gewas hoofdproducten;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08
+Consumptieaardappelrassen lage norm;Gewas hoofdproducten;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08
+Conservenerwten;Gewas hoofdproducten;0.25;0.25;0.25;0.25;0.25;0.25;0.25;0.25;0.25;0.25;0.25
+Zetmeelaardappelen;Gewas hoofdproducten;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05
+Geen;Gewas hoofdproducten; ;0;0;0;0;0;0;0;0;0;0
+Grasland met beweiden;Gewas hoofdproducten;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08
+Grasland met volledig maaien;Gewas hoofdproducten;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08
+Graszaad Engels raaigras 1e jaars;Gewas hoofdproducten;0.79;0.79;0.79;0.79;0.79;0.79;0.79;0.79;0.79;0.79;0.79
+Graszaad roodzwenkgras 1e jaars;Gewas hoofdproducten;0.9;0.9;0.9;0.9;0.9;0.9;0.9;0.9;0.9;0.9;0.9
+Graszaad rietzwenkgras;Gewas hoofdproducten;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6
+Graszaad veldbeemd;Gewas hoofdproducten;1.26;1.26;1.26;1.26;1.26;1.26;1.26;1.26;1.26;1.26;1.26
+Graszaad westerwolds;Gewas hoofdproducten;0.65;0.65;0.65;0.65;0.65;0.65;0.65;0.65;0.65;0.65;0.65
+Groene erwten;Gewas hoofdproducten;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15
+haver;Gewas hoofdproducten;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12
+Kapucijners;Gewas hoofdproducten;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15
+Karwijzaad;Gewas hoofdproducten;1.05;1.05;1.05;1.05;1.05;1.05;1.05;1.05;1.05;1.05;1.05
+Knolselderij;Gewas hoofdproducten;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07
+Koolzaad;Gewas hoofdproducten;0.21;0.21;0.21;0.21;0.21;0.21;0.21;0.21;0.21;0.21;0.21
+Korrelmaïs;Gewas hoofdproducten;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13
+Kunstweide;Gewas hoofdproducten;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07
+Luzerne;Gewas hoofdproducten;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07
+Natuur faunarand;Gewas hoofdproducten;2;2;2;2;2;2;2;2;2;2;2
+Natuur akkerflora;Gewas hoofdproducten;570;570;570;570;570;570;570;570;570;570;570
+Akkerbouw overig;Gewas hoofdproducten;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5;1.5
+Ov. tuinbouw;Gewas hoofdproducten;7;7;7;7;7;7;7;7;7;7;7
+Ui en zaaiui en overig;Gewas hoofdproducten;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15;0.15
+Winterui en 2e jaars plantui;Gewas hoofdproducten;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08
+Pootaardappelrassen hoge norm;Gewas hoofdproducten;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19
+Pootaardappelrassen overig;Gewas hoofdproducten;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19
+Pootaardappelrassen lage norm;Gewas hoofdproducten;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19;0.19
+Prei;Gewas hoofdproducten;0.35;0.35;0.35;0.35;0.35;0.35;0.35;0.35;0.35;0.35;0.35
+winterrogge;Gewas hoofdproducten;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12
+Schorseneer;Gewas hoofdproducten;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2;0.2
+Snijmaïs bedrijven met derogatie;Gewas hoofdproducten;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1
+Snijmaïs bedrijven zonder derogatie;Gewas hoofdproducten;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1
+Spinazie;Gewas hoofdproducten;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06
+Spruitkool;Gewas hoofdproducten;0.35;0.35;0.35;0.35;0.35;0.35;0.35;0.35;0.35;0.35;0.35
+Stam en stokboon vers;Gewas hoofdproducten;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13
+Suikerbieten;Gewas hoofdproducten;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06
+Triticale;Gewas hoofdproducten;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12
+Tuinbonen;Gewas hoofdproducten;0.29;0.29;0.29;0.29;0.29;0.29;0.29;0.29;0.29;0.29;0.29
+Valeriaan;Gewas hoofdproducten;0.18;0.18;0.18;0.18;0.18;0.18;0.18;0.18;0.18;0.18;0.18
+Veld en tuinbonen vers en rijp zaad;Gewas hoofdproducten;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13
+Vlas;Gewas hoofdproducten;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24;0.24
+Voederbieten;Gewas hoofdproducten;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02
+Waspeen;Gewas hoofdproducten;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07;0.07
+Wintergerst;Gewas hoofdproducten;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12;0.12
+Winterpeen;Gewas hoofdproducten;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08
+Wintertarwe;Gewas hoofdproducten;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13
+Witlof;Gewas hoofdproducten;0.03;0.03;0.03;0.03;0.03;0.03;0.03;0.03;0.03;0.03;0.03
+Witte bonen;Gewas hoofdproducten;0.7;0.7;0.7;0.7;0.7;0.7;0.7;0.7;0.7;0.7;0.7
+Witte kool;Gewas hoofdproducten;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04
+Zaaikl. verhuurd €1000;Gewas hoofdproducten;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl. verhuurd €2000;Gewas hoofdproducten;2;2;2;2;2;2;2;2;2;2;2
+Zaaikl. verhuurd €3000;Gewas hoofdproducten;3;3;3;3;3;3;3;3;3;3;3
+zomergerst;Gewas hoofdproducten;0.12;0.11;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1;0.1
+zomertarwe;Gewas hoofdproducten;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13;0.13
+Bio wintergerst;Gewas bijproducten;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06
+Bio zomergerst;Gewas bijproducten;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06
+Bio haver;Gewas bijproducten;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06
+Bio wintertarwe;Gewas bijproducten;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06
+Bio zomertarwe;Gewas bijproducten;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06
+Graszaad, Engelsraaigras, 1e jaars;Gewas bijproducten;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02
+Graszaad, roodzwenkgras, 1e jaars;Gewas bijproducten;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02;0.02
+Graszaad, rietzwenkgras;Gewas bijproducten; ;0;0;0;0;0;0;0;0;0;0
+Graszaad, veldbeemd;Gewas bijproducten;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04
+Graszaad, westerwolds;Gewas bijproducten;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04;0.04
+Groene erwten;Gewas bijproducten;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06
+Haver;Gewas bijproducten;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05
+Natuur akkerflora;Gewas bijproducten;575;575;575;575;575;575;575;575;575;575;575
+Winterrogge;Gewas bijproducten;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05
+Triticale;Gewas bijproducten;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05
+Vlas;Gewas bijproducten;0.79;0.79;0.79;0.79;0.79;0.79;0.79;0.79;0.79;0.79;0.79
+Wintergerst;Gewas bijproducten;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06
+Wintertarwe;Gewas bijproducten;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05
+zomergerst;Gewas bijproducten;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06;0.06
+zomertarwe;Gewas bijproducten;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05;0.05
+Asperges;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio cons. aardappelen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio pootaardappelen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio bruine bonen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio stamslabonen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio tuinbonen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio doperwten;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio wintergerst;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio zomergerst;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio haver;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio wintertarwe;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio zomertarwe;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio knolselderij;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio winterpeen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio zaaiuien;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio luzerne;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio suikerbieten;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio kroten;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bio witlofwortel;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Blauwmaanzaad;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Tulpen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Braakland;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Braakland regio 2;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Bruine bonen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Cichorei;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Consumptieaardappelrassen hoge norm;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Consumptieaardappelrassen overig;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Consumptieaardappelrassen lage norm;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Conservenerwten;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Zetmeelaardappelen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Geen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Grasland met beweiden;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Grasland met volledig maaien;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Graszaad. Engels raaigras. 1e jaars;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Graszaad. roodzwenkgras. 1e jaars;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Graszaad. rietzwenkgras;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Graszaad. veldbeemd;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Graszaad. westerwolds;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Groene erwten;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Haver;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Kapucijners;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Karwijzaad;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Knolselderij;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Koolzaad;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Korrelmaïs;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Kunstweide;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Luzerne;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Natuur. faunarand;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Natuur. akkerflora;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Akkerbouw overig;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Ov. tuinbouw;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Ui. zaaiui. overig;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Winterui. 2e jaars plantui;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Pootaardappelrassen hoge norm;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Pootaardappelrassen overig;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Pootaardappelrassen lage norm;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Prei;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Winterrogge;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Schorseneer;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Snijmaïs. bedrijven met derogatie;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Snijmaïs. bedrijven zonder derogatie;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Spinazie;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Spruitkool;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Stam-. stokboon. vers;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Suikerbieten;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Triticale;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Tuinbonen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Valeriaan;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Veld- en tuinbonen. vers + rijp zaad;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Vlas;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Voederbieten;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Waspeen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Wintergerst;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Winterpeen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Wintertarwe;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Witlof;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Witte bonen;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Witte kool;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Zaaikl.verhuurd. €1000;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Zaaikl.verhuurd. €2000;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Zaaikl.verhuurd. €3000;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Zomergerst;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Zomertarwe;Gewasgebonden premies;75;75;75;75;75;75;75;75;75;75;75
+Asperges;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio cons. aardappelen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio pootaardappelen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio bruine bonen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio stamslabonen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio tuinbonen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio doperwten;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio wintergerst;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio zomergerst;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio haver;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio wintertarwe;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio zomertarwe;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio knolselderij;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio winterpeen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio zaaiuien;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio luzerne;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio suikerbieten;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio kroten;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bio witlofwortel;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Blauwmaanzaad;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Tulpen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Braakland;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Braakland regio 2;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Bruine bonen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Cichorei;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Consumptieaardappelrassen hoge norm;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Consumptieaardappelrassen overig;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Consumptieaardappelrassen lage norm;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Conservenerwten;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Zetmeelaardappelen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Geen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Grasland met beweiden;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Grasland met volledig maaien;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Graszaad. Engels raaigras. 1e jaars;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Graszaad. roodzwenkgras. 1e jaars;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Graszaad. rietzwenkgras;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Graszaad. veldbeemd;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Graszaad. westerwolds;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Groene erwten;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Haver;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Kapucijners;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Karwijzaad;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Knolselderij;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Koolzaad;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Korrelmaïs;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Kunstweide;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Luzerne;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Natuur. faunarand;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Natuur. akkerflora;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Akkerbouw overig;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Ov. tuinbouw;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Ui. zaaiui. overig;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Winterui. 2e jaars plantui;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Pootaardappelrassen hoge norm;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Pootaardappelrassen overig;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Pootaardappelrassen lage norm;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Prei;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Winterrogge;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Schorseneer;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Snijmaïs. bedrijven met derogatie;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Snijmaïs. bedrijven zonder derogatie;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Spinazie;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Spruitkool;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Stam-. stokboon. vers;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Suikerbieten;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Triticale;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Tuinbonen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Valeriaan;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Veld- en tuinbonen. vers + rijp zaad;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Vlas;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Voederbieten;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Waspeen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Wintergerst;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Winterpeen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Wintertarwe;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Witlof;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Witte bonen;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Witte kool;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Zaaikl.verhuurd. €1000;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Zaaikl.verhuurd. €2000;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Zaaikl.verhuurd. €3000;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Zomergerst;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Zomertarwe;Gewas overige opbrengsten;100;100;100;100;100;100;100;100;100;100;100
+Melk;Rundvee;31;31;31;31;31;31;31;31;31;31;31
+Omzet en aanwas;Rundvee;200;200;200;200;200;200;200;200;200;200;200
+Dierpremies;Rundvee;15;15;15;15;15;15;15;15;15;15;15
+Overige opbrengst;Rundvee;5;5;5;5;5;5;5;5;5;5;5
+
+ ;;;;;;;;;;;;
+Alea Rendement;     Bedrijf 1 Ronde 1;;;;;;;;;;;
+
+KOSTEN;Categorie;Basis;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+N kunstmest;Meststoffen NP;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5
+P Kunstmest;Meststoffen NP;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6;0.6
+Asperges;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio cons. aardappelen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio pootaardappelen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio bruine bonen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio stamslabonen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio tuinbonen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio doperwten;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio wintergerst;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio zomergerst;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio haver;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio wintertarwe;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio zomertarwe;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio knolselderij;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio winterpeen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio zaaiuien;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio luzerne;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio suikerbieten;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio kroten;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bio witlofwortel;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Blauwmaanzaad;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Tulpen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Braakland;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Braakland regio 2;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Bruine bonen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Cichorei;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Consumptieaardappelrassen hoge norm;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Consumptieaardappelrassen overig;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Consumptieaardappelrassen lage norm;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Conservenerwten;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Zetmeelaardappelen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Geen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Grasland met beweiden;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Grasland met volledig maaien;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. Engels raaigras. 1e jaars;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. roodzwenkgras. 1e jaars;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. rietzwenkgras;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. veldbeemd;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. westerwolds;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Groene erwten;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Haver;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Kapucijners;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Karwijzaad;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Knolselderij;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Koolzaad;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Korrelmaïs;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Kunstweide;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Luzerne;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Natuur. faunarand;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Natuur. akkerflora;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Akkerbouw overig;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Ov. tuinbouw;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Ui. zaaiui. overig;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Winterui. 2e jaars plantui;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Pootaardappelrassen hoge norm;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Pootaardappelrassen overig;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Pootaardappelrassen lage norm;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Prei;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Winterrogge;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Schorseneer;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Snijmaïs. bedrijven met derogatie;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Snijmaïs. bedrijven zonder derogatie;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Spinazie;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Spruitkool;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Stam-. stokboon. vers;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Suikerbieten;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Triticale;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Tuinbonen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Valeriaan;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Veld- en tuinbonen. vers + rijp zaad;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Vlas;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Voederbieten;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Waspeen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Wintergerst;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Winterpeen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Wintertarwe;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Witlof;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Witte bonen;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Witte kool;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Zaaikl.verhuurd. €1000;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Zaaikl.verhuurd. €2000;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Zaaikl.verhuurd. €3000;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Zomergerst;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Zomertarwe;Zaaizaad plantgoed pootgoed;65;65;65;65;65;65;65;65;65;65;65
+Asperges;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio cons. aardappelen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio pootaardappelen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio bruine bonen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio stamslabonen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio tuinbonen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio doperwten;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio wintergerst;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio zomergerst;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio haver;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio wintertarwe;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio zomertarwe;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio knolselderij;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio winterpeen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio zaaiuien;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio luzerne;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio suikerbieten;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio kroten;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bio witlofwortel;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Blauwmaanzaad;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Tulpen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Braakland;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Braakland regio 2;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Bruine bonen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Cichorei;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Consumptieaardappelrassen hoge norm;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Consumptieaardappelrassen overig;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Consumptieaardappelrassen lage norm;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Conservenerwten;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Zetmeelaardappelen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Geen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Grasland met beweiden;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Grasland met volledig maaien;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Graszaad. Engels raaigras. 1e jaars;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Graszaad. roodzwenkgras. 1e jaars;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Graszaad. rietzwenkgras;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Graszaad. veldbeemd;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Graszaad. westerwolds;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Groene erwten;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Haver;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Kapucijners;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Karwijzaad;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Knolselderij;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Koolzaad;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Korrelmaïs;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Kunstweide;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Luzerne;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Natuur. faunarand;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Natuur. akkerflora;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Akkerbouw overig;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Ov. tuinbouw;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Ui. zaaiui. overig;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Winterui. 2e jaars plantui;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Pootaardappelrassen hoge norm;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Pootaardappelrassen overig;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Pootaardappelrassen lage norm;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Prei;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Winterrogge;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Schorseneer;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Snijmaïs. bedrijven met derogatie;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Snijmaïs. bedrijven zonder derogatie;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Spinazie;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Spruitkool;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Stam-. stokboon. vers;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Suikerbieten;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Triticale;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Tuinbonen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Valeriaan;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Veld- en tuinbonen. vers + rijp zaad;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Vlas;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Voederbieten;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Waspeen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Wintergerst;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Winterpeen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Wintertarwe;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Witlof;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Witte bonen;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Witte kool;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Zaaikl.verhuurd. €1000;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Zaaikl.verhuurd. €2000;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Zaaikl.verhuurd. €3000;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Zomergerst;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Zomertarwe;Gewasbescherming;85;85;85;85;85;85;85;85;85;85;85
+Asperges;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio cons. aardappelen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio pootaardappelen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio bruine bonen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio stamslabonen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio tuinbonen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio doperwten;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio wintergerst;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio zomergerst;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio haver;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio wintertarwe;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio zomertarwe;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio knolselderij;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio winterpeen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio zaaiuien;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio luzerne;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio suikerbieten;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio kroten;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bio witlofwortel;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Blauwmaanzaad;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Tulpen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Braakland;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Braakland regio 2;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Bruine bonen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Cichorei;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Consumptieaardappelrassen hoge norm;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Consumptieaardappelrassen overig;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Consumptieaardappelrassen lage norm;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Conservenerwten;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Zetmeelaardappelen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Geen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Grasland met beweiden;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Grasland met volledig maaien;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. Engels raaigras. 1e jaars;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. roodzwenkgras. 1e jaars;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. rietzwenkgras;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. veldbeemd;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. westerwolds;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Groene erwten;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Haver;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Kapucijners;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Karwijzaad;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Knolselderij;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Koolzaad;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Korrelmaïs;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Kunstweide;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Luzerne;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Natuur. faunarand;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Natuur. akkerflora;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Akkerbouw overig;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Ov. tuinbouw;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Ui. zaaiui. overig;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Winterui. 2e jaars plantui;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Pootaardappelrassen hoge norm;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Pootaardappelrassen overig;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Pootaardappelrassen lage norm;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Prei;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Winterrogge;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Schorseneer;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Snijmaïs. bedrijven met derogatie;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Snijmaïs. bedrijven zonder derogatie;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Spinazie;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Spruitkool;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Stam-. stokboon. vers;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Suikerbieten;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Triticale;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Tuinbonen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Valeriaan;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Veld- en tuinbonen. vers + rijp zaad;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Vlas;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Voederbieten;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Waspeen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Wintergerst;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Winterpeen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Wintertarwe;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Witlof;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Witte bonen;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Witte kool;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Zaaikl.verhuurd. €1000;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Zaaikl.verhuurd. €2000;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Zaaikl.verhuurd. €3000;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Zomergerst;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Zomertarwe;Gewas overige toegerekende kosten;65;65;65;65;65;65;65;65;65;65;65
+Asperges;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio cons. aardappelen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio pootaardappelen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio bruine bonen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio stamslabonen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio tuinbonen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio doperwten;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio wintergerst;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio zomergerst;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio haver;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio wintertarwe;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio zomertarwe;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio knolselderij;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio winterpeen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio zaaiuien;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio luzerne;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio suikerbieten;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio kroten;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bio witlofwortel;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Blauwmaanzaad;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Tulpen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Braakland;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Braakland regio 2;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Bruine bonen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Cichorei;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Consumptieaardappelrassen hoge norm;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Consumptieaardappelrassen overig;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Consumptieaardappelrassen lage norm;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Conservenerwten;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Zetmeelaardappelen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Geen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Grasland met beweiden;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Grasland met volledig maaien;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Graszaad. Engels raaigras. 1e jaars;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Graszaad. roodzwenkgras. 1e jaars;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Graszaad. rietzwenkgras;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Graszaad. veldbeemd;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Graszaad. westerwolds;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Groene erwten;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Haver;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Kapucijners;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Karwijzaad;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Knolselderij;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Koolzaad;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Korrelmaïs;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Kunstweide;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Luzerne;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Natuur. faunarand;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Natuur. akkerflora;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Akkerbouw overig;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Ov. tuinbouw;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Ui. zaaiui. overig;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Winterui. 2e jaars plantui;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Pootaardappelrassen hoge norm;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Pootaardappelrassen overig;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Pootaardappelrassen lage norm;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Prei;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Winterrogge;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Schorseneer;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Snijmaïs. bedrijven met derogatie;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Snijmaïs. bedrijven zonder derogatie;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Spinazie;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Spruitkool;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Stam-. stokboon. vers;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Suikerbieten;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Triticale;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Tuinbonen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Valeriaan;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Veld- en tuinbonen. vers + rijp zaad;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Vlas;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Voederbieten;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Waspeen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Wintergerst;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Winterpeen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Wintertarwe;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Witlof;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Witte bonen;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Witte kool;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Zaaikl.verhuurd. €1000;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Zaaikl.verhuurd. €2000;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Zaaikl.verhuurd. €3000;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Zomergerst;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Zomertarwe;Gewas reserve;55;55;55;55;55;55;55;55;55;55;55
+Asperges;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio cons. aardappelen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio pootaardappelen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio bruine bonen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio stamslabonen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio tuinbonen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio doperwten;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio wintergerst;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio zomergerst;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio haver;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio wintertarwe;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio zomertarwe;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio knolselderij;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio winterpeen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio zaaiuien;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio luzerne;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio suikerbieten;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio kroten;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bio witlofwortel;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Blauwmaanzaad;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Tulpen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Braakland;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Braakland regio 2;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Bruine bonen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Cichorei;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Consumptieaardappelrassen hoge norm;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Consumptieaardappelrassen overig;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Consumptieaardappelrassen lage norm;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Conservenerwten;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Zetmeelaardappelen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Geen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Grasland met beweiden;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Grasland met volledig maaien;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. Engels raaigras. 1e jaars;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. roodzwenkgras. 1e jaars;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. rietzwenkgras;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. veldbeemd;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Graszaad. westerwolds;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Groene erwten;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Haver;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Kapucijners;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Karwijzaad;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Knolselderij;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Koolzaad;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Korrelmaïs;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Kunstweide;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Luzerne;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Natuur. faunarand;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Natuur. akkerflora;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Akkerbouw overig;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Ov. tuinbouw;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Ui. zaaiui. overig;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Winterui. 2e jaars plantui;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Pootaardappelrassen hoge norm;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Pootaardappelrassen overig;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Pootaardappelrassen lage norm;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Prei;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Winterrogge;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Schorseneer;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Snijmaïs. bedrijven met derogatie;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Snijmaïs. bedrijven zonder derogatie;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Spinazie;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Spruitkool;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Stam-. stokboon. vers;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Suikerbieten;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Triticale;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Tuinbonen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Valeriaan;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Veld- en tuinbonen. vers + rijp zaad;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Vlas;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Voederbieten;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Waspeen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Wintergerst;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Winterpeen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Wintertarwe;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Witlof;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Witte bonen;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Witte kool;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Zaaikl.verhuurd. €1000;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Zaaikl.verhuurd. €2000;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Zaaikl.verhuurd. €3000;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Zomergerst;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Zomertarwe;Werk door derden;65;65;65;65;65;65;65;65;65;65;65
+Asperges;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio cons. aardappelen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio pootaardappelen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio bruine bonen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio stamslabonen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio tuinbonen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio doperwten;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio wintergerst;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio zomergerst;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio haver;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio wintertarwe;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio zomertarwe;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio knolselderij;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio winterpeen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio zaaiuien;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio luzerne;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio suikerbieten;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio kroten;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bio witlofwortel;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Blauwmaanzaad;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Tulpen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Braakland;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Braakland regio 2;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Bruine bonen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Cichorei;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Consumptieaardappelrassen hoge norm;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Consumptieaardappelrassen overig;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Consumptieaardappelrassen lage norm;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Conservenerwten;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Zetmeelaardappelen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Geen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Grasland met beweiden;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Grasland met volledig maaien;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Graszaad. Engels raaigras. 1e jaars;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Graszaad. roodzwenkgras. 1e jaars;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Graszaad. rietzwenkgras;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Graszaad. veldbeemd;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Graszaad. westerwolds;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Groene erwten;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Haver;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Kapucijners;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Karwijzaad;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Knolselderij;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Koolzaad;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Korrelmaïs;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Kunstweide;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Luzerne;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Natuur. faunarand;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Natuur. akkerflora;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Akkerbouw overig;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Ov. tuinbouw;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Ui. zaaiui. overig;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Winterui. 2e jaars plantui;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Pootaardappelrassen hoge norm;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Pootaardappelrassen overig;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Pootaardappelrassen lage norm;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Prei;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Winterrogge;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Schorseneer;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Snijmaïs. bedrijven met derogatie;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Snijmaïs. bedrijven zonder derogatie;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Spinazie;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Spruitkool;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Stam-. stokboon. vers;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Suikerbieten;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Triticale;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Tuinbonen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Valeriaan;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Veld- en tuinbonen. vers + rijp zaad;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Vlas;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Voederbieten;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Waspeen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Wintergerst;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Winterpeen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Wintertarwe;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Witlof;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Witte bonen;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Witte kool;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Zaaikl.verhuurd. €1000;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Zaaikl.verhuurd. €2000;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Zaaikl.verhuurd. €3000;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Zomergerst;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+Zomertarwe;Overige meststoffen;45;45;45;45;45;45;45;45;45;45;45
+krachtvoer;Rundveekosten;15;15;15;15;15;15;15;15;15;15;15
+natte bijproducten;Rundveekosten;10;10;10;10;10;10;10;10;10;10;10
+melkproducten;Rundveekosten;25;25;25;25;25;25;25;25;25;25;25
+ruwvoer;Rundveekosten;95;95;95;95;95;95;95;95;95;95;95
+diergezondheid;Rundveekosten;70;70;70;70;70;70;70;70;70;70;70
+veeverbetering;Rundveekosten;60;60;60;60;60;60;60;60;60;60;60
+opfok door derden;Rundveekosten;350;350;350;350;350;350;350;350;350;350;350
+overige dierkosten;Rundveekosten;115;115;115;115;115;115;115;115;115;115;115
+
+ ;;;;;;;;;;;;
+Alea Rendement;     bedrijf 1 ronde 1;;;;;;;;;;;
+
+;Activiteit;;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Asperges;Asperges;5358;5358;5358;5358;5358;5358;5358;5358;5358;5358;5358
+Bio cons. aardappelen;Bio cons. aardappelen;25000;25000;25000;25000;25000;25000;25000;25000;25000;25000;25000
+Bio pootaardappelen;Bio pootaardappelen;25000;25000;25000;25000;25000;25000;25000;25000;25000;25000;25000
+Bio bruine bonen;Bio bruine bonen;2750;2750;2750;2750;2750;2750;2750;2750;2750;2750;2750
+Bio stamslabonen;Bio stamslabonen;8500;8500;8500;8500;8500;8500;8500;8500;8500;8500;8500
+Bio wintergerst;Bio wintergerst; ; ; ; ; ; ; ; ; ; ; 
+Bio zomergerst;Bio zomergerst; ; ; ; ; ; ; ; ; ; ; 
+Bio haver;Bio haver; ; ; ; ; ; ; ; ; ; ; 
+Bio wintertarwe;Bio wintertarwe; ; ; ; ; ; ; ; ; ; ; 
+Bio zomertarwe;Bio zomertarwe; ; ; ; ; ; ; ; ; ; ; 
+Graszaad, Engelsraaigras, 1e jaars;Graszaad Engels raaigras 1e jaars; ; ; ; ; ; ; ; ; ; ; 
+Graszaad, roodzwenkgras, 1e jaars;Graszaad roodzwenkgras 1e jaars; ; ; ; ; ; ; ; ; ; ; 
+Graszaad, rietzwenkgras;graszaad rietzwenkgras; ; ; ; ; ; ; ; ; ; ; 
+Graszaad, veldbeemd;Graszaad veldbeemd; ; ; ; ; ; ; ; ; ; ; 
+Graszaad, westerwolds;Graszaad westerwolds; ; ; ; ; ; ; ; ; ; ; 
+Groene erwten;Groene erwten; ; ; ; ; ; ; ; ; ; ; 
+Haver;Haver; ; ; ; ; ; ; ; ; ; ; 
+Natuur akkerflora;Natuur akkerflora; ; ; ; ; ; ; ; ; ; ; 
+Winterrogge;Winterrogge; ; ; ; ; ; ; ; ; ; ; 
+Triticale;Triticale; ; ; ; ; ; ; ; ; ; ; 
+Vlas;Vlas; ; ; ; ; ; ; ; ; ; ; 
+Wintergerst;Wintergerst; ; ; ; ; ; ; ; ; ; ; 
+Wintertarwe;Wintertarwe; ; ; ; ; ; ; ; ; ; ; 
+zomergerst;Zomergerst; ; ; ; ; ; ; ; ; ; ; 
+Bio tuinbonen;Bio tuinbonen;17500;17500;17500;17500;17500;17500;17500;17500;17500;17500;17500
+Bio doperwten;Bio doperwten;6900;6900;6900;6900;6900;6900;6900;6900;6900;6900;6900
+Bio wintergerst;Bio wintergerst;4200;4200;4200;4200;4200;4200;4200;4200;4200;4200;4200
+Bio zomergerst;Bio zomergerst;4500;4500;4500;4500;4500;4500;4500;4500;4500;4500;4500
+Bio haver;Bio haver;5600;5600;5600;5600;5600;5600;5600;5600;5600;5600;5600
+Bio wintertarwe;Bio wintertarwe;6000;6000;6000;6000;6000;6000;6000;6000;6000;6000;6000
+Bio zomertarwe;Bio zomertarwe;5100;5100;5100;5100;5100;5100;5100;5100;5100;5100;5100
+Bio knolselderij;Bio knolselderij;45000;45000;45000;45000;45000;45000;45000;45000;45000;45000;45000
+Bio winterpeen;Bio winterpeen;54000;54000;54000;54000;54000;54000;54000;54000;54000;54000;54000
+Bio zaaiuien;Bio zaaiuien;30000;30000;30000;30000;30000;30000;30000;30000;30000;30000;30000
+Bio luzerne;Bio luzerne;12000;12000;12000;12000;12000;12000;12000;12000;12000;12000;12000
+Bio suikerbieten;Bio suikerbieten;58000;58000;58000;58000;58000;58000;58000;58000;58000;58000;58000
+Bio Kroten;Bio kroten;48000;48000;48000;48000;48000;48000;48000;48000;48000;48000;48000
+Bio witlofwortel;Bio witlofwortel;130000;130000;130000;130000;130000;130000;130000;130000;130000;130000;130000
+Blauwmaanzaad;Blauwmaanzaad;1500;1500;1500;1500;1500;1500;1500;1500;1500;1500;1500
+Tulpen;Tulpen;1;1;1;1;1;1;1;1;1;1;1
+Braakland;Braakland; ; ; ; ; ; ; ; ; ; ; 
+Braakland regio 2;Braakland regio 2; ; ; ; ; ; ; ; ; ; ; 
+Bruine bonen;Bruine bonen;2700;2700;2700;2700;2700;2700;2700;2700;2700;2700;2700
+Cichorei;Cichorei;46000;46000;46000;46000;46000;46000;46000;46000;46000;46000;46000
+Consumptieaardappelrassen hoge norm;Consumptieaardappelrassen hoge norm;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000
+Consumptieaardappelrassen overig;Consumptieaardappelrassen overig;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000
+Consumptieaardappelrassen lage norm;Consumptieaardappelrassen lage norm;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000
+Conservenerwten;Conservenerwten;5700;5700;5700;5700;5700;5700;5700;5700;5700;5700;5700
+Zetmeelaardappelen;Zetmeelaardappelen;45000;45000;45000;45000;45000;45000;45000;45000;45000;45000;45000
+Geen;Geen; ; ; ; ; ; ; ; ; ; ; 
+Grasland met beweiden;Grasland met beweiden;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08
+Grasland met volledig maaien;Grasland met volledig maaien;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08;0.08
+Graszaad Engels raaigras 1e jaars;Graszaad Engels raaigras 1e jaars;1500;1500;1500;1500;1500;1500;1500;1500;1500;1500;1500
+Graszaad roodzwenkgras 1e jaars;Graszaad roodzwenkgras 1e jaars;1250;1250;1250;1250;1250;1250;1250;1250;1250;1250;1250
+Graszaad rietzwenkgras;graszaad rietzwenkgras;1500;1500;1500;1500;1500;1500;1500;1500;1500;1500;1500
+Graszaad veldbeemd;Graszaad veldbeemd;1000;1000;1000;1000;1000;1000;1000;1000;1000;1000;1000
+Graszaad westerwolds;Graszaad westerwolds;1750;1750;1750;1750;1750;1750;1750;1750;1750;1750;1750
+Groene erwten;Groene erwten;4500;4500;4500;4500;4500;4500;4500;4500;4500;4500;4500
+haver;Haver;5000;5000;5000;5000;5000;5000;5000;5000;5000;5000;5000
+Kapucijners;Kapucijners;4400;4400;4400;4400;4400;4400;4400;4400;4400;4400;4400
+Karwijzaad;Karwijzaad;1600;1600;1600;1600;1600;1600;1600;1600;1600;1600;1600
+Knolselderij;Knolselderij;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000
+Koolzaad;Koolzaad;3300;3300;3300;3300;3300;3300;3300;3300;3300;3300;3300
+Korrelmaïs;Korrelmaïs;8000;8000;8000;8000;8000;8000;8000;8000;8000;8000;8000
+Kunstweide;Kunstweide;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000;10000
+Luzerne;Luzerne;12000;12000;12000;12000;12000;12000;12000;12000;12000;12000;12000
+Natuur faunarand;Natuur faunarand;1;1;1;1;1;1;1;1;1;1;1
+Natuur akkerflora;Natuur akkerflora;1;1;1;1;1;1;1;1;1;1;1
+Akkerbouw overig;Akkerbouw overig;1;1;1;1;1;1;1;1;1;1;1
+Ov. tuinbouw;Ov. tuinbouw;1;1;1;1;1;1;1;1;1;1;1
+Ui en zaaiui en overig;Ui en zaaiui en overig;27000;27000;27000;27000;27000;27000;27000;27000;27000;27000;27000
+Winterui en 2e jaars plantui;Winterui en 2e jaars plantui;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000
+Pootaardappelrassen hoge norm;Pootaardappelrassen hoge norm;21900;21900;21900;21900;21900;21900;21900;21900;21900;21900;21900
+Pootaardappelrassen overig;Pootaardappelrassen overig;21900;21900;21900;21900;21900;21900;21900;21900;21900;21900;21900
+Pootaardappelrassen lage norm;Pootaardappelrassen lage norm;21900;21900;21900;21900;21900;21900;21900;21900;21900;21900;21900
+Prei;Prei;35000;35000;35000;35000;35000;35000;35000;35000;35000;35000;35000
+winterrogge;Winterrogge;5700;5700;5700;5700;5700;5700;5700;5700;5700;5700;5700
+Schorseneer;Schorseneren;22000;22000;22000;22000;22000;22000;22000;22000;22000;22000;22000
+Snijmaïs bedrijven met derogatie;Snijmaïs bedrijven met derogatie;12500;12500;12500;12500;12500;12500;12500;12500;12500;12500;12500
+Snijmaïs bedrijven zonder derogatie;Snijmaïs bedrijven zonder derogatie;12500;12500;12500;12500;12500;12500;12500;12500;12500;12500;12500
+Spinazie;Spinazie;30000;30000;30000;30000;30000;30000;30000;30000;30000;30000;30000
+Spruitkool;Spruitkool;22500;22500;22500;22500;22500;22500;22500;22500;22500;22500;22500
+Stam en stokboon vers;Stam en stokboon vers;13000;13000;13000;13000;13000;13000;13000;13000;13000;13000;13000
+Suikerbieten;Suikerbieten;51000;51000;51000;51000;51000;51000;51000;51000;51000;51000;51000
+Triticale;Triticale;5000;5000;5000;5000;5000;5000;5000;5000;5000;5000;5000
+Tuinbonen;Tuinbonen;6000;6000;6000;6000;6000;6000;6000;6000;6000;6000;6000
+Valeriaan;Valeriaan;15000;15000;15000;15000;15000;15000;15000;15000;15000;15000;15000
+Veld en tuinbonen vers en rijp zaad;Veld en tuinbonen vers en rijp zaad;5000;5000;5000;5000;5000;5000;5000;5000;5000;5000;5000
+Vlas;Vlas;5300;5300;5300;5300;5300;5300;5300;5300;5300;5300;5300
+Voederbieten;Voederbieten;97000;97000;97000;97000;97000;97000;97000;97000;97000;97000;97000
+Waspeen;Waspeen;65000;65000;65000;65000;65000;65000;65000;65000;65000;65000;65000
+Wintergerst;Wintergerst;5500;5500;5500;5500;5500;5500;5500;5500;5500;5500;5500
+Winterpeen;Winterpeen;85000;85000;85000;85000;85000;85000;85000;85000;85000;85000;85000
+Wintertarwe;Wintertarwe;4400;4400;4400;4400;4400;4400;4400;4400;4400;4400;4400
+Witlof;Witlof;135000;135000;135000;135000;135000;135000;135000;135000;135000;135000;135000
+Witte bonen;Witte bonen;2700;2700;2700;2700;2700;2700;2700;2700;2700;2700;2700
+Witte kool;Witte kool;100000;100000;100000;100000;100000;100000;100000;100000;100000;100000;100000
+Zaaikl. verhuurd €1000;Zaaikl. verhuurd €1000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl. verhuurd €2000;Zaaikl. verhuurd €2000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl. verhuurd €3000;Zaaikl. verhuurd €3000;1;1;1;1;1;1;1;1;1;1;1
+zomergerst;Zomergerst;6000;6000;6000;5500.2;5500.2;5500.2;5500.2;5500.2;5500.2;5500.2;5500.2
+zomertarwe;Zomertarwe;6400;6400;6400;6400;5333.12;5333.12;5333.12;5333.12;5333.12;5333.12;5333.12
+zomertarwe;Zomertarwe; ; ; ; ; ; ; ; ; ; ; 
+Asperges;Asperges;1;1;1;1;1;1;1;1;1;1;1
+Bio cons. aardappelen;Bio cons. aardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio pootaardappelen;Bio pootaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio bruine bonen;Bio bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Bio stamslabonen;Bio stamslabonen;1;1;1;1;1;1;1;1;1;1;1
+Bio tuinbonen;Bio tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Bio doperwten;Bio doperwten;1;1;1;1;1;1;1;1;1;1;1
+Bio wintergerst;Bio wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio zomergerst;Bio zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio haver;Bio haver;1;1;1;1;1;1;1;1;1;1;1
+Bio wintertarwe;Bio wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio zomertarwe;Bio zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio knolselderij;Bio knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Bio winterpeen;Bio winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Bio zaaiuien;Bio zaaiuien;1;1;1;1;1;1;1;1;1;1;1
+Bio luzerne;Bio luzerne;1;1;1;1;1;1;1;1;1;1;1
+Bio suikerbieten;Bio suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Bio kroten;Bio kroten;1;1;1;1;1;1;1;1;1;1;1
+Bio witlofwortel;Bio witlofwortel;1;1;1;1;1;1;1;1;1;1;1
+Blauwmaanzaad;Blauwmaanzaad;1;1;1;1;1;1;1;1;1;1;1
+Tulpen;Tulpen;1;1;1;1;1;1;1;1;1;1;1
+Braakland;Braakland;1;1;1;1;1;1;1;1;1;1;1
+Braakland regio 2;Braakland regio 2;1;1;1;1;1;1;1;1;1;1;1
+Bruine bonen;Bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Cichorei;Cichorei;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen hoge norm;Consumptieaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen overig;Consumptieaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen lage norm;Consumptieaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Conservenerwten;Conservenerwten;1;1;1;1;1;1;1;1;1;1;1
+Zetmeelaardappelen;Zetmeelaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Geen;Geen;1;1;1;1;1;1;1;1;1;1;1
+Grasland met beweiden;Grasland met beweiden;1;1;1;1;1;1;1;1;1;1;1
+Grasland met volledig maaien;Grasland met volledig maaien;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. Engels raaigras. 1e jaars;Graszaad Engels raaigras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. roodzwenkgras. 1e jaars;Graszaad roodzwenkgras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. rietzwenkgras;graszaad rietzwenkgras;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. veldbeemd;Graszaad veldbeemd;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. westerwolds;Graszaad westerwolds;1;1;1;1;1;1;1;1;1;1;1
+Groene erwten;Groene erwten;1;1;1;1;1;1;1;1;1;1;1
+Haver;Haver;1;1;1;1;1;1;1;1;1;1;1
+Kapucijners;Kapucijners;1;1;1;1;1;1;1;1;1;1;1
+Karwijzaad;Karwijzaad;1;1;1;1;1;1;1;1;1;1;1
+Knolselderij;Knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Koolzaad;Koolzaad;1;1;1;1;1;1;1;1;1;1;1
+Korrelmaïs;Korrelmaïs;1;1;1;1;1;1;1;1;1;1;1
+Kunstweide;Kunstweide;1;1;1;1;1;1;1;1;1;1;1
+Luzerne;Luzerne;1;1;1;1;1;1;1;1;1;1;1
+Natuur. faunarand;Natuur faunarand;1;1;1;1;1;1;1;1;1;1;1
+Natuur. akkerflora;Natuur akkerflora;1;1;1;1;1;1;1;1;1;1;1
+Akkerbouw overig;Akkerbouw overig;1;1;1;1;1;1;1;1;1;1;1
+Ov. tuinbouw;Ov. tuinbouw;1;1;1;1;1;1;1;1;1;1;1
+Ui. zaaiui. overig;Ui en zaaiui en overig;1;1;1;1;1;1;1;1;1;1;1
+Winterui. 2e jaars plantui;Winterui en 2e jaars plantui;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen hoge norm;Pootaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen overig;Pootaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen lage norm;Pootaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Prei;Prei;1;1;1;1;1;1;1;1;1;1;1
+Winterrogge;Winterrogge;1;1;1;1;1;1;1;1;1;1;1
+Schorseneer;Schorseneren;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven met derogatie;Snijmaïs bedrijven met derogatie;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven zonder derogatie;Snijmaïs bedrijven zonder derogatie;1;1;1;1;1;1;1;1;1;1;1
+Spinazie;Spinazie;1;1;1;1;1;1;1;1;1;1;1
+Spruitkool;Spruitkool;1;1;1;1;1;1;1;1;1;1;1
+Stam-. stokboon. vers;Stam en stokboon vers;1;1;1;1;1;1;1;1;1;1;1
+Suikerbieten;Suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Triticale;Triticale;1;1;1;1;1;1;1;1;1;1;1
+Tuinbonen;Tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Valeriaan;Valeriaan;1;1;1;1;1;1;1;1;1;1;1
+Veld- en tuinbonen. vers + rijp zaad;Veld en tuinbonen vers en rijp zaad;1;1;1;1;1;1;1;1;1;1;1
+Vlas;Vlas;1;1;1;1;1;1;1;1;1;1;1
+Voederbieten;Voederbieten;1;1;1;1;1;1;1;1;1;1;1
+Waspeen;Waspeen;1;1;1;1;1;1;1;1;1;1;1
+Wintergerst;Wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Winterpeen;Winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Wintertarwe;Wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Witlof;Witlof;1;1;1;1;1;1;1;1;1;1;1
+Witte bonen;Witte bonen;1;1;1;1;1;1;1;1;1;1;1
+Witte kool;Witte kool;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €1000;Zaaikl. verhuurd €1000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €2000;Zaaikl. verhuurd €2000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €3000;Zaaikl. verhuurd €3000;1;1;1;1;1;1;1;1;1;1;1
+Zomergerst;Zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Zomertarwe;Zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Asperges;Asperges;1;1;1;1;1;1;1;1;1;1;1
+Bio cons. aardappelen;Bio cons. aardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio pootaardappelen;Bio pootaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio bruine bonen;Bio bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Bio stamslabonen;Bio stamslabonen;1;1;1;1;1;1;1;1;1;1;1
+Bio tuinbonen;Bio tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Bio doperwten;Bio doperwten;1;1;1;1;1;1;1;1;1;1;1
+Bio wintergerst;Bio wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio zomergerst;Bio zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio haver;Bio haver;1;1;1;1;1;1;1;1;1;1;1
+Bio wintertarwe;Bio wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio zomertarwe;Bio zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio knolselderij;Bio knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Bio winterpeen;Bio winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Bio zaaiuien;Bio zaaiuien;1;1;1;1;1;1;1;1;1;1;1
+Bio luzerne;Bio luzerne;1;1;1;1;1;1;1;1;1;1;1
+Bio suikerbieten;Bio suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Bio kroten;Bio kroten;1;1;1;1;1;1;1;1;1;1;1
+Bio witlofwortel;Bio witlofwortel;1;1;1;1;1;1;1;1;1;1;1
+Blauwmaanzaad;Blauwmaanzaad;1;1;1;1;1;1;1;1;1;1;1
+Tulpen;Tulpen;1;1;1;1;1;1;1;1;1;1;1
+Braakland;Braakland;1;1;1;1;1;1;1;1;1;1;1
+Braakland regio 2;Braakland regio 2;1;1;1;1;1;1;1;1;1;1;1
+Bruine bonen;Bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Cichorei;Cichorei;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen hoge norm;Consumptieaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen overig;Consumptieaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen lage norm;Consumptieaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Conservenerwten;Conservenerwten;1;1;1;1;1;1;1;1;1;1;1
+Zetmeelaardappelen;Zetmeelaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Geen;Geen;1;1;1;1;1;1;1;1;1;1;1
+Grasland met beweiden;Grasland met beweiden;1;1;1;1;1;1;1;1;1;1;1
+Grasland met volledig maaien;Grasland met volledig maaien;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. Engels raaigras. 1e jaars;Graszaad Engels raaigras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. roodzwenkgras. 1e jaars;Graszaad roodzwenkgras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. rietzwenkgras;graszaad rietzwenkgras;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. veldbeemd;Graszaad veldbeemd;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. westerwolds;Graszaad westerwolds;1;1;1;1;1;1;1;1;1;1;1
+Groene erwten;Groene erwten;1;1;1;1;1;1;1;1;1;1;1
+Haver;Haver;1;1;1;1;1;1;1;1;1;1;1
+Kapucijners;Kapucijners;1;1;1;1;1;1;1;1;1;1;1
+Karwijzaad;Karwijzaad;1;1;1;1;1;1;1;1;1;1;1
+Knolselderij;Knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Koolzaad;Koolzaad;1;1;1;1;1;1;1;1;1;1;1
+Korrelmaïs;Korrelmaïs;1;1;1;1;1;1;1;1;1;1;1
+Kunstweide;Kunstweide;1;1;1;1;1;1;1;1;1;1;1
+Luzerne;Luzerne;1;1;1;1;1;1;1;1;1;1;1
+Natuur. faunarand;Natuur faunarand;1;1;1;1;1;1;1;1;1;1;1
+Natuur. akkerflora;Natuur akkerflora;1;1;1;1;1;1;1;1;1;1;1
+Akkerbouw overig;Akkerbouw overig;1;1;1;1;1;1;1;1;1;1;1
+Ov. tuinbouw;Ov. tuinbouw;1;1;1;1;1;1;1;1;1;1;1
+Ui. zaaiui. overig;Ui en zaaiui en overig;1;1;1;1;1;1;1;1;1;1;1
+Winterui. 2e jaars plantui;Winterui en 2e jaars plantui;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen hoge norm;Pootaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen overig;Pootaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen lage norm;Pootaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Prei;Prei;1;1;1;1;1;1;1;1;1;1;1
+Winterrogge;Winterrogge;1;1;1;1;1;1;1;1;1;1;1
+Schorseneer;Schorseneren;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven met derogatie;Snijmaïs bedrijven met derogatie;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven zonder derogatie;Snijmaïs bedrijven zonder derogatie;1;1;1;1;1;1;1;1;1;1;1
+Spinazie;Spinazie;1;1;1;1;1;1;1;1;1;1;1
+Spruitkool;Spruitkool;1;1;1;1;1;1;1;1;1;1;1
+Stam-. stokboon. vers;Stam en stokboon vers;1;1;1;1;1;1;1;1;1;1;1
+Suikerbieten;Suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Triticale;Triticale;1;1;1;1;1;1;1;1;1;1;1
+Tuinbonen;Tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Valeriaan;Valeriaan;1;1;1;1;1;1;1;1;1;1;1
+Veld- en tuinbonen. vers + rijp zaad;Veld en tuinbonen vers en rijp zaad;1;1;1;1;1;1;1;1;1;1;1
+Vlas;Vlas;1;1;1;1;1;1;1;1;1;1;1
+Voederbieten;Voederbieten;1;1;1;1;1;1;1;1;1;1;1
+Waspeen;Waspeen;1;1;1;1;1;1;1;1;1;1;1
+Wintergerst;Wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Winterpeen;Winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Wintertarwe;Wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Witlof;Witlof;1;1;1;1;1;1;1;1;1;1;1
+Witte bonen;Witte bonen;1;1;1;1;1;1;1;1;1;1;1
+Witte kool;Witte kool;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €1000;Zaaikl. verhuurd €1000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €2000;Zaaikl. verhuurd €2000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €3000;Zaaikl. verhuurd €3000;1;1;1;1;1;1;1;1;1;1;1
+Zomergerst;Zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Zomertarwe;Zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Melk;Melkkoeien;80;80;80;80;80;80;80;80;80;80;80
+Omzet en aanwas;Melkkoeien;1;1;1;1;1;1;1;1;1;1;1
+Dierpremies;Melkkoeien;1;1;1;1;1;1;1;1;1;1;1
+Overige opbrengst;Melkkoeien;1;1;1;1;1;1;1;1;1;1;1
+
+ ;;;;;;;;;;;;
+Alea Rendement;     bedrijf 1 ronde 1;;;;;;;;;;;
+
+;Activiteit;;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Asperges;Asperges;1;1;1;1;1;1;1;1;1;1;1
+Bio cons. aardappelen;Bio cons. aardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio pootaardappelen;Bio pootaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio bruine bonen;Bio bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Bio stamslabonen;Bio stamslabonen;1;1;1;1;1;1;1;1;1;1;1
+N kunstmest;Asperges; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio cons. aardappelen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio pootaardappelen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio bruine bonen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio stamslabonen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio tuinbonen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio doperwten; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio wintergerst; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio zomergerst; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio haver; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio wintertarwe; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio zomertarwe; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio knolselderij; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio winterpeen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio zaaiuien; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio luzerne; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio suikerbieten; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio kroten; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bio witlofwortel; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Blauwmaanzaad; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Tulpen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Braakland; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Braakland regio 2; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Bruine bonen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Cichorei; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Consumptieaardappelrassen hoge norm; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Consumptieaardappelrassen overig; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Consumptieaardappelrassen lage norm; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Conservenerwten; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Zetmeelaardappelen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Geen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Grasland met beweiden; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Grasland met volledig maaien; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Graszaad Engels raaigras 1e jaars; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Graszaad roodzwenkgras 1e jaars; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;graszaad rietzwenkgras; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Graszaad veldbeemd; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Graszaad westerwolds; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Groene erwten; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Haver; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Kapucijners; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Karwijzaad; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Knolselderij; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Koolzaad; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Korrelmaïs; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Kunstweide; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Luzerne; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Natuur faunarand; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Natuur akkerflora; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Akkerbouw overig; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Ov. tuinbouw; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Ui en zaaiui en overig; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Winterui en 2e jaars plantui; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Pootaardappelrassen hoge norm; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Pootaardappelrassen overig; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Pootaardappelrassen lage norm; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Prei; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Winterrogge; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Schorseneren; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Snijmaïs bedrijven met derogatie; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Snijmaïs bedrijven zonder derogatie; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Spinazie; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Spruitkool; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Stam en stokboon vers; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Suikerbieten; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Triticale; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Tuinbonen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Valeriaan; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Veld en tuinbonen vers en rijp zaad; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Vlas; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Voederbieten; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Waspeen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Wintergerst; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Winterpeen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Wintertarwe; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Witlof; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Witte bonen; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Witte kool; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Zaaikl. verhuurd €1000; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Zaaikl. verhuurd €2000; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Zaaikl. verhuurd €3000; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Zomergerst; ; ; ; ; ; ; ; ; ; ; 
+N kunstmest;Zomertarwe; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Asperges; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio cons. aardappelen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio pootaardappelen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio bruine bonen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio stamslabonen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio tuinbonen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio doperwten; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio wintergerst; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio zomergerst; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio haver; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio wintertarwe; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio zomertarwe; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio knolselderij; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio winterpeen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio zaaiuien; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio luzerne; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio suikerbieten; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio kroten; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bio witlofwortel; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Blauwmaanzaad; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Tulpen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Braakland; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Braakland regio 2; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Bruine bonen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Cichorei; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Consumptieaardappelrassen hoge norm; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Consumptieaardappelrassen overig; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Consumptieaardappelrassen lage norm; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Conservenerwten; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Zetmeelaardappelen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Geen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Grasland met beweiden; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Grasland met volledig maaien; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Graszaad Engels raaigras 1e jaars; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Graszaad roodzwenkgras 1e jaars; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;graszaad rietzwenkgras; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Graszaad veldbeemd; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Graszaad westerwolds; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Groene erwten; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Haver; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Kapucijners; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Karwijzaad; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Knolselderij; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Koolzaad; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Korrelmaïs; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Kunstweide; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Luzerne; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Natuur faunarand; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Natuur akkerflora; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Akkerbouw overig; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Ov. tuinbouw; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Ui en zaaiui en overig; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Winterui en 2e jaars plantui; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Pootaardappelrassen hoge norm; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Pootaardappelrassen overig; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Pootaardappelrassen lage norm; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Prei; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Winterrogge; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Schorseneren; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Snijmaïs bedrijven met derogatie; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Snijmaïs bedrijven zonder derogatie; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Spinazie; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Spruitkool; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Stam en stokboon vers; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Suikerbieten; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Triticale; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Tuinbonen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Valeriaan; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Veld en tuinbonen vers en rijp zaad; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Vlas; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Voederbieten; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Waspeen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Wintergerst; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Winterpeen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Wintertarwe; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Witlof; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Witte bonen; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Witte kool; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Zaaikl. verhuurd €1000; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Zaaikl. verhuurd €2000; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Zaaikl. verhuurd €3000; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Zomergerst; ; ; ; ; ; ; ; ; ; ; 
+P Kunstmest;Zomertarwe; ; ; ; ; ; ; ; ; ; ; 
+krachtvoer;Melkkoeien;25;25;25;25;25;25;25;25;25;25;25
+natte bijproducten;Melkkoeien;1;1;1;1;1;1;1;1;1;1;1
+melkproducten;Melkkoeien;1;1;1;1;1;1;1;1;1;1;1
+ruwvoer;Melkkoeien;1;1;1;1;1;1;1;1;1;1;1
+diergezondheid;Melkkoeien;1;1;1;1;1;1;1;1;1;1;1
+veeverbetering;Melkkoeien;1;1;1;1;1;1;1;1;1;1;1
+Bio tuinbonen;Bio tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Bio doperwten;Bio doperwten;1;1;1;1;1;1;1;1;1;1;1
+Bio wintergerst;Bio wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio zomergerst;Bio zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio haver;Bio haver;1;1;1;1;1;1;1;1;1;1;1
+Bio wintertarwe;Bio wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio zomertarwe;Bio zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio knolselderij;Bio knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Bio winterpeen;Bio winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Bio zaaiuien;Bio zaaiuien;1;1;1;1;1;1;1;1;1;1;1
+Bio luzerne;Bio luzerne;1;1;1;1;1;1;1;1;1;1;1
+Bio suikerbieten;Bio suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Bio kroten;Bio kroten;1;1;1;1;1;1;1;1;1;1;1
+Bio witlofwortel;Bio witlofwortel;1;1;1;1;1;1;1;1;1;1;1
+Blauwmaanzaad;Blauwmaanzaad;1;1;1;1;1;1;1;1;1;1;1
+Tulpen;Tulpen;1;1;1;1;1;1;1;1;1;1;1
+Braakland;Braakland;1;1;1;1;1;1;1;1;1;1;1
+Braakland regio 2;Braakland regio 2;1;1;1;1;1;1;1;1;1;1;1
+Bruine bonen;Bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Cichorei;Cichorei;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen hoge norm;Consumptieaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen overig;Consumptieaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen lage norm;Consumptieaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Conservenerwten;Conservenerwten;1;1;1;1;1;1;1;1;1;1;1
+Zetmeelaardappelen;Zetmeelaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Geen;Geen;1;1;1;1;1;1;1;1;1;1;1
+Grasland met beweiden;Grasland met beweiden;1;1;1;1;1;1;1;1;1;1;1
+Grasland met volledig maaien;Grasland met volledig maaien;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. Engels raaigras. 1e jaars;Graszaad Engels raaigras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. roodzwenkgras. 1e jaars;Graszaad roodzwenkgras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. rietzwenkgras;graszaad rietzwenkgras;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. veldbeemd;Graszaad veldbeemd;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. westerwolds;Graszaad westerwolds;1;1;1;1;1;1;1;1;1;1;1
+Groene erwten;Groene erwten;1;1;1;1;1;1;1;1;1;1;1
+Haver;Haver;1;1;1;1;1;1;1;1;1;1;1
+Kapucijners;Kapucijners;1;1;1;1;1;1;1;1;1;1;1
+Karwijzaad;Karwijzaad;1;1;1;1;1;1;1;1;1;1;1
+Knolselderij;Knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Koolzaad;Koolzaad;1;1;1;1;1;1;1;1;1;1;1
+Korrelmaïs;Korrelmaïs;1;1;1;1;1;1;1;1;1;1;1
+Kunstweide;Kunstweide;1;1;1;1;1;1;1;1;1;1;1
+Luzerne;Luzerne;1;1;1;1;1;1;1;1;1;1;1
+Natuur. faunarand;Natuur faunarand;1;1;1;1;1;1;1;1;1;1;1
+Natuur. akkerflora;Natuur akkerflora;1;1;1;1;1;1;1;1;1;1;1
+Akkerbouw overig;Akkerbouw overig;1;1;1;1;1;1;1;1;1;1;1
+Ov. tuinbouw;Ov. tuinbouw;1;1;1;1;1;1;1;1;1;1;1
+Ui. zaaiui. overig;Ui en zaaiui en overig;1;1;1;1;1;1;1;1;1;1;1
+Winterui. 2e jaars plantui;Winterui en 2e jaars plantui;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen hoge norm;Pootaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen overig;Pootaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen lage norm;Pootaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Prei;Prei;1;1;1;1;1;1;1;1;1;1;1
+Winterrogge;Winterrogge;1;1;1;1;1;1;1;1;1;1;1
+Schorseneer;Schorseneren;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven met derogatie;Snijmaïs bedrijven met derogatie;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven zonder derogatie;Snijmaïs bedrijven zonder derogatie;1;1;1;1;1;1;1;1;1;1;1
+Spinazie;Spinazie;1;1;1;1;1;1;1;1;1;1;1
+Spruitkool;Spruitkool;1;1;1;1;1;1;1;1;1;1;1
+Stam-. stokboon. vers;Stam en stokboon vers;1;1;1;1;1;1;1;1;1;1;1
+Suikerbieten;Suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Triticale;Triticale;1;1;1;1;1;1;1;1;1;1;1
+Tuinbonen;Tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Valeriaan;Valeriaan;1;1;1;1;1;1;1;1;1;1;1
+Veld- en tuinbonen. vers + rijp zaad;Veld en tuinbonen vers en rijp zaad;1;1;1;1;1;1;1;1;1;1;1
+Vlas;Vlas;1;1;1;1;1;1;1;1;1;1;1
+Voederbieten;Voederbieten;1;1;1;1;1;1;1;1;1;1;1
+Waspeen;Waspeen;1;1;1;1;1;1;1;1;1;1;1
+Wintergerst;Wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Winterpeen;Winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Wintertarwe;Wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Witlof;Witlof;1;1;1;1;1;1;1;1;1;1;1
+Witte bonen;Witte bonen;1;1;1;1;1;1;1;1;1;1;1
+Witte kool;Witte kool;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €1000;Zaaikl. verhuurd €1000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €2000;Zaaikl. verhuurd €2000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €3000;Zaaikl. verhuurd €3000;1;1;1;1;1;1;1;1;1;1;1
+Zomergerst;Zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Zomertarwe;Zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Asperges;Asperges;1;1;1;1;1;1;1;1;1;1;1
+Bio cons. aardappelen;Bio cons. aardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio pootaardappelen;Bio pootaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio bruine bonen;Bio bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Bio stamslabonen;Bio stamslabonen;1;1;1;1;1;1;1;1;1;1;1
+Bio tuinbonen;Bio tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Bio doperwten;Bio doperwten;1;1;1;1;1;1;1;1;1;1;1
+Bio wintergerst;Bio wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio zomergerst;Bio zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio haver;Bio haver;1;1;1;1;1;1;1;1;1;1;1
+Bio wintertarwe;Bio wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio zomertarwe;Bio zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio knolselderij;Bio knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Bio winterpeen;Bio winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Bio zaaiuien;Bio zaaiuien;1;1;1;1;1;1;1;1;1;1;1
+Bio luzerne;Bio luzerne;1;1;1;1;1;1;1;1;1;1;1
+Bio suikerbieten;Bio suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Bio kroten;Bio kroten;1;1;1;1;1;1;1;1;1;1;1
+Bio witlofwortel;Bio witlofwortel;1;1;1;1;1;1;1;1;1;1;1
+Blauwmaanzaad;Blauwmaanzaad;1;1;1;1;1;1;1;1;1;1;1
+Tulpen;Tulpen;1;1;1;1;1;1;1;1;1;1;1
+Braakland;Braakland;1;1;1;1;1;1;1;1;1;1;1
+Braakland regio 2;Braakland regio 2;1;1;1;1;1;1;1;1;1;1;1
+Bruine bonen;Bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Cichorei;Cichorei;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen hoge norm;Consumptieaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen overig;Consumptieaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen lage norm;Consumptieaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Conservenerwten;Conservenerwten;1;1;1;1;1;1;1;1;1;1;1
+Zetmeelaardappelen;Zetmeelaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Geen;Geen;1;1;1;1;1;1;1;1;1;1;1
+Grasland met beweiden;Grasland met beweiden;1;1;1;1;1;1;1;1;1;1;1
+Grasland met volledig maaien;Grasland met volledig maaien;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. Engels raaigras. 1e jaars;Graszaad Engels raaigras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. roodzwenkgras. 1e jaars;Graszaad roodzwenkgras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. rietzwenkgras;graszaad rietzwenkgras;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. veldbeemd;Graszaad veldbeemd;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. westerwolds;Graszaad westerwolds;1;1;1;1;1;1;1;1;1;1;1
+Groene erwten;Groene erwten;1;1;1;1;1;1;1;1;1;1;1
+Haver;Haver;1;1;1;1;1;1;1;1;1;1;1
+Kapucijners;Kapucijners;1;1;1;1;1;1;1;1;1;1;1
+Karwijzaad;Karwijzaad;1;1;1;1;1;1;1;1;1;1;1
+Knolselderij;Knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Koolzaad;Koolzaad;1;1;1;1;1;1;1;1;1;1;1
+Korrelmaïs;Korrelmaïs;1;1;1;1;1;1;1;1;1;1;1
+Kunstweide;Kunstweide;1;1;1;1;1;1;1;1;1;1;1
+Luzerne;Luzerne;1;1;1;1;1;1;1;1;1;1;1
+Natuur. faunarand;Natuur faunarand;1;1;1;1;1;1;1;1;1;1;1
+Natuur. akkerflora;Natuur akkerflora;1;1;1;1;1;1;1;1;1;1;1
+Akkerbouw overig;Akkerbouw overig;1;1;1;1;1;1;1;1;1;1;1
+Ov. tuinbouw;Ov. tuinbouw;1;1;1;1;1;1;1;1;1;1;1
+Ui. zaaiui. overig;Ui en zaaiui en overig;1;1;1;1;1;1;1;1;1;1;1
+Winterui. 2e jaars plantui;Winterui en 2e jaars plantui;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen hoge norm;Pootaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen overig;Pootaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen lage norm;Pootaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Prei;Prei;1;1;1;1;1;1;1;1;1;1;1
+Winterrogge;Winterrogge;1;1;1;1;1;1;1;1;1;1;1
+Schorseneer;Schorseneren;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven met derogatie;Snijmaïs bedrijven met derogatie;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven zonder derogatie;Snijmaïs bedrijven zonder derogatie;1;1;1;1;1;1;1;1;1;1;1
+Spinazie;Spinazie;1;1;1;1;1;1;1;1;1;1;1
+Spruitkool;Spruitkool;1;1;1;1;1;1;1;1;1;1;1
+Stam-. stokboon. vers;Stam en stokboon vers;1;1;1;1;1;1;1;1;1;1;1
+Suikerbieten;Suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Triticale;Triticale;1;1;1;1;1;1;1;1;1;1;1
+Tuinbonen;Tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Valeriaan;Valeriaan;1;1;1;1;1;1;1;1;1;1;1
+Veld- en tuinbonen. vers + rijp zaad;Veld en tuinbonen vers en rijp zaad;1;1;1;1;1;1;1;1;1;1;1
+Vlas;Vlas;1;1;1;1;1;1;1;1;1;1;1
+Voederbieten;Voederbieten;1;1;1;1;1;1;1;1;1;1;1
+Waspeen;Waspeen;1;1;1;1;1;1;1;1;1;1;1
+Wintergerst;Wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Winterpeen;Winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Wintertarwe;Wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Witlof;Witlof;1;1;1;1;1;1;1;1;1;1;1
+Witte bonen;Witte bonen;1;1;1;1;1;1;1;1;1;1;1
+Witte kool;Witte kool;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €1000;Zaaikl. verhuurd €1000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €2000;Zaaikl. verhuurd €2000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €3000;Zaaikl. verhuurd €3000;1;1;1;1;1;1;1;1;1;1;1
+Zomergerst;Zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Zomertarwe;Zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Asperges;Asperges;1;1;1;1;1;1;1;1;1;1;1
+Bio cons. aardappelen;Bio cons. aardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio pootaardappelen;Bio pootaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio bruine bonen;Bio bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Bio stamslabonen;Bio stamslabonen;1;1;1;1;1;1;1;1;1;1;1
+Bio tuinbonen;Bio tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Bio doperwten;Bio doperwten;1;1;1;1;1;1;1;1;1;1;1
+Bio wintergerst;Bio wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio zomergerst;Bio zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio haver;Bio haver;1;1;1;1;1;1;1;1;1;1;1
+Bio wintertarwe;Bio wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio zomertarwe;Bio zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio knolselderij;Bio knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Bio winterpeen;Bio winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Bio zaaiuien;Bio zaaiuien;1;1;1;1;1;1;1;1;1;1;1
+Bio luzerne;Bio luzerne;1;1;1;1;1;1;1;1;1;1;1
+Bio suikerbieten;Bio suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Bio kroten;Bio kroten;1;1;1;1;1;1;1;1;1;1;1
+Bio witlofwortel;Bio witlofwortel;1;1;1;1;1;1;1;1;1;1;1
+Blauwmaanzaad;Blauwmaanzaad;1;1;1;1;1;1;1;1;1;1;1
+Tulpen;Tulpen;1;1;1;1;1;1;1;1;1;1;1
+Braakland;Braakland;1;1;1;1;1;1;1;1;1;1;1
+Braakland regio 2;Braakland regio 2;1;1;1;1;1;1;1;1;1;1;1
+Bruine bonen;Bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Cichorei;Cichorei;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen hoge norm;Consumptieaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen overig;Consumptieaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen lage norm;Consumptieaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Conservenerwten;Conservenerwten;1;1;1;1;1;1;1;1;1;1;1
+Zetmeelaardappelen;Zetmeelaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Geen;Geen;1;1;1;1;1;1;1;1;1;1;1
+Grasland met beweiden;Grasland met beweiden;1;1;1;1;1;1;1;1;1;1;1
+Grasland met volledig maaien;Grasland met volledig maaien;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. Engels raaigras. 1e jaars;Graszaad Engels raaigras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. roodzwenkgras. 1e jaars;Graszaad roodzwenkgras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. rietzwenkgras;graszaad rietzwenkgras;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. veldbeemd;Graszaad veldbeemd;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. westerwolds;Graszaad westerwolds;1;1;1;1;1;1;1;1;1;1;1
+Groene erwten;Groene erwten;1;1;1;1;1;1;1;1;1;1;1
+Haver;Haver;1;1;1;1;1;1;1;1;1;1;1
+Kapucijners;Kapucijners;1;1;1;1;1;1;1;1;1;1;1
+Karwijzaad;Karwijzaad;1;1;1;1;1;1;1;1;1;1;1
+Knolselderij;Knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Koolzaad;Koolzaad;1;1;1;1;1;1;1;1;1;1;1
+Korrelmaïs;Korrelmaïs;1;1;1;1;1;1;1;1;1;1;1
+Kunstweide;Kunstweide;1;1;1;1;1;1;1;1;1;1;1
+Luzerne;Luzerne;1;1;1;1;1;1;1;1;1;1;1
+Natuur. faunarand;Natuur faunarand;1;1;1;1;1;1;1;1;1;1;1
+Natuur. akkerflora;Natuur akkerflora;1;1;1;1;1;1;1;1;1;1;1
+Akkerbouw overig;Akkerbouw overig;1;1;1;1;1;1;1;1;1;1;1
+Ov. tuinbouw;Ov. tuinbouw;1;1;1;1;1;1;1;1;1;1;1
+Ui. zaaiui. overig;Ui en zaaiui en overig;1;1;1;1;1;1;1;1;1;1;1
+Winterui. 2e jaars plantui;Winterui en 2e jaars plantui;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen hoge norm;Pootaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen overig;Pootaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen lage norm;Pootaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Prei;Prei;1;1;1;1;1;1;1;1;1;1;1
+Winterrogge;Winterrogge;1;1;1;1;1;1;1;1;1;1;1
+Schorseneer;Schorseneren;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven met derogatie;Snijmaïs bedrijven met derogatie;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven zonder derogatie;Snijmaïs bedrijven zonder derogatie;1;1;1;1;1;1;1;1;1;1;1
+Spinazie;Spinazie;1;1;1;1;1;1;1;1;1;1;1
+Spruitkool;Spruitkool;1;1;1;1;1;1;1;1;1;1;1
+Stam-. stokboon. vers;Stam en stokboon vers;1;1;1;1;1;1;1;1;1;1;1
+Suikerbieten;Suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Triticale;Triticale;1;1;1;1;1;1;1;1;1;1;1
+Tuinbonen;Tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Valeriaan;Valeriaan;1;1;1;1;1;1;1;1;1;1;1
+Veld- en tuinbonen. vers + rijp zaad;Veld en tuinbonen vers en rijp zaad;1;1;1;1;1;1;1;1;1;1;1
+Vlas;Vlas;1;1;1;1;1;1;1;1;1;1;1
+Voederbieten;Voederbieten;1;1;1;1;1;1;1;1;1;1;1
+Waspeen;Waspeen;1;1;1;1;1;1;1;1;1;1;1
+Wintergerst;Wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Winterpeen;Winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Wintertarwe;Wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Witlof;Witlof;1;1;1;1;1;1;1;1;1;1;1
+Witte bonen;Witte bonen;1;1;1;1;1;1;1;1;1;1;1
+Witte kool;Witte kool;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €1000;Zaaikl. verhuurd €1000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €2000;Zaaikl. verhuurd €2000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €3000;Zaaikl. verhuurd €3000;1;1;1;1;1;1;1;1;1;1;1
+Zomergerst;Zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Zomertarwe;Zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Asperges;Asperges;1;1;1;1;1;1;1;1;1;1;1
+Bio cons. aardappelen;Bio cons. aardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio pootaardappelen;Bio pootaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio bruine bonen;Bio bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Bio stamslabonen;Bio stamslabonen;1;1;1;1;1;1;1;1;1;1;1
+Bio tuinbonen;Bio tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Bio doperwten;Bio doperwten;1;1;1;1;1;1;1;1;1;1;1
+Bio wintergerst;Bio wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio zomergerst;Bio zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio haver;Bio haver;1;1;1;1;1;1;1;1;1;1;1
+Bio wintertarwe;Bio wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio zomertarwe;Bio zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio knolselderij;Bio knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Bio winterpeen;Bio winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Bio zaaiuien;Bio zaaiuien;1;1;1;1;1;1;1;1;1;1;1
+Bio luzerne;Bio luzerne;1;1;1;1;1;1;1;1;1;1;1
+Bio suikerbieten;Bio suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Bio kroten;Bio kroten;1;1;1;1;1;1;1;1;1;1;1
+Bio witlofwortel;Bio witlofwortel;1;1;1;1;1;1;1;1;1;1;1
+Blauwmaanzaad;Blauwmaanzaad;1;1;1;1;1;1;1;1;1;1;1
+Tulpen;Tulpen;1;1;1;1;1;1;1;1;1;1;1
+Braakland;Braakland;1;1;1;1;1;1;1;1;1;1;1
+Braakland regio 2;Braakland regio 2;1;1;1;1;1;1;1;1;1;1;1
+Bruine bonen;Bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Cichorei;Cichorei;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen hoge norm;Consumptieaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen overig;Consumptieaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen lage norm;Consumptieaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Conservenerwten;Conservenerwten;1;1;1;1;1;1;1;1;1;1;1
+Zetmeelaardappelen;Zetmeelaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Geen;Geen;1;1;1;1;1;1;1;1;1;1;1
+Grasland met beweiden;Grasland met beweiden;1;1;1;1;1;1;1;1;1;1;1
+Grasland met volledig maaien;Grasland met volledig maaien;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. Engels raaigras. 1e jaars;Graszaad Engels raaigras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. roodzwenkgras. 1e jaars;Graszaad roodzwenkgras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. rietzwenkgras;graszaad rietzwenkgras;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. veldbeemd;Graszaad veldbeemd;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. westerwolds;Graszaad westerwolds;1;1;1;1;1;1;1;1;1;1;1
+Groene erwten;Groene erwten;1;1;1;1;1;1;1;1;1;1;1
+Haver;Haver;1;1;1;1;1;1;1;1;1;1;1
+Kapucijners;Kapucijners;1;1;1;1;1;1;1;1;1;1;1
+Karwijzaad;Karwijzaad;1;1;1;1;1;1;1;1;1;1;1
+Knolselderij;Knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Koolzaad;Koolzaad;1;1;1;1;1;1;1;1;1;1;1
+Korrelmaïs;Korrelmaïs;1;1;1;1;1;1;1;1;1;1;1
+Kunstweide;Kunstweide;1;1;1;1;1;1;1;1;1;1;1
+Luzerne;Luzerne;1;1;1;1;1;1;1;1;1;1;1
+Natuur. faunarand;Natuur faunarand;1;1;1;1;1;1;1;1;1;1;1
+Natuur. akkerflora;Natuur akkerflora;1;1;1;1;1;1;1;1;1;1;1
+Akkerbouw overig;Akkerbouw overig;1;1;1;1;1;1;1;1;1;1;1
+Ov. tuinbouw;Ov. tuinbouw;1;1;1;1;1;1;1;1;1;1;1
+Ui. zaaiui. overig;Ui en zaaiui en overig;1;1;1;1;1;1;1;1;1;1;1
+Winterui. 2e jaars plantui;Winterui en 2e jaars plantui;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen hoge norm;Pootaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen overig;Pootaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen lage norm;Pootaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Prei;Prei;1;1;1;1;1;1;1;1;1;1;1
+Winterrogge;Winterrogge;1;1;1;1;1;1;1;1;1;1;1
+Schorseneer;Schorseneren;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven met derogatie;Snijmaïs bedrijven met derogatie;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven zonder derogatie;Snijmaïs bedrijven zonder derogatie;1;1;1;1;1;1;1;1;1;1;1
+Spinazie;Spinazie;1;1;1;1;1;1;1;1;1;1;1
+Spruitkool;Spruitkool;1;1;1;1;1;1;1;1;1;1;1
+Stam-. stokboon. vers;Stam en stokboon vers;1;1;1;1;1;1;1;1;1;1;1
+Suikerbieten;Suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Triticale;Triticale;1;1;1;1;1;1;1;1;1;1;1
+Tuinbonen;Tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Valeriaan;Valeriaan;1;1;1;1;1;1;1;1;1;1;1
+Veld- en tuinbonen. vers + rijp zaad;Veld en tuinbonen vers en rijp zaad;1;1;1;1;1;1;1;1;1;1;1
+Vlas;Vlas;1;1;1;1;1;1;1;1;1;1;1
+Voederbieten;Voederbieten;1;1;1;1;1;1;1;1;1;1;1
+Waspeen;Waspeen;1;1;1;1;1;1;1;1;1;1;1
+Wintergerst;Wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Winterpeen;Winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Wintertarwe;Wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Witlof;Witlof;1;1;1;1;1;1;1;1;1;1;1
+Witte bonen;Witte bonen;1;1;1;1;1;1;1;1;1;1;1
+Witte kool;Witte kool;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €1000;Zaaikl. verhuurd €1000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €2000;Zaaikl. verhuurd €2000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €3000;Zaaikl. verhuurd €3000;1;1;1;1;1;1;1;1;1;1;1
+Zomergerst;Zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Zomertarwe;Zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Asperges;Asperges;1;1;1;1;1;1;1;1;1;1;1
+Bio cons. aardappelen;Bio cons. aardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio pootaardappelen;Bio pootaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio bruine bonen;Bio bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Bio stamslabonen;Bio stamslabonen;1;1;1;1;1;1;1;1;1;1;1
+Bio tuinbonen;Bio tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Bio doperwten;Bio doperwten;1;1;1;1;1;1;1;1;1;1;1
+Bio wintergerst;Bio wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio zomergerst;Bio zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio haver;Bio haver;1;1;1;1;1;1;1;1;1;1;1
+Bio wintertarwe;Bio wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio zomertarwe;Bio zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio knolselderij;Bio knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Bio winterpeen;Bio winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Bio zaaiuien;Bio zaaiuien;1;1;1;1;1;1;1;1;1;1;1
+Bio luzerne;Bio luzerne;1;1;1;1;1;1;1;1;1;1;1
+Bio suikerbieten;Bio suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Bio kroten;Bio kroten;1;1;1;1;1;1;1;1;1;1;1
+Bio witlofwortel;Bio witlofwortel;1;1;1;1;1;1;1;1;1;1;1
+Blauwmaanzaad;Blauwmaanzaad;1;1;1;1;1;1;1;1;1;1;1
+Tulpen;Tulpen;1;1;1;1;1;1;1;1;1;1;1
+Braakland;Braakland;1;1;1;1;1;1;1;1;1;1;1
+Braakland regio 2;Braakland regio 2;1;1;1;1;1;1;1;1;1;1;1
+Bruine bonen;Bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Cichorei;Cichorei;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen hoge norm;Consumptieaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen overig;Consumptieaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen lage norm;Consumptieaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Conservenerwten;Conservenerwten;1;1;1;1;1;1;1;1;1;1;1
+Zetmeelaardappelen;Zetmeelaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Geen;Geen;1;1;1;1;1;1;1;1;1;1;1
+Grasland met beweiden;Grasland met beweiden;1;1;1;1;1;1;1;1;1;1;1
+Grasland met volledig maaien;Grasland met volledig maaien;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. Engels raaigras. 1e jaars;Graszaad Engels raaigras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. roodzwenkgras. 1e jaars;Graszaad roodzwenkgras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. rietzwenkgras;graszaad rietzwenkgras;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. veldbeemd;Graszaad veldbeemd;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. westerwolds;Graszaad westerwolds;1;1;1;1;1;1;1;1;1;1;1
+Groene erwten;Groene erwten;1;1;1;1;1;1;1;1;1;1;1
+Haver;Haver;1;1;1;1;1;1;1;1;1;1;1
+Kapucijners;Kapucijners;1;1;1;1;1;1;1;1;1;1;1
+Karwijzaad;Karwijzaad;1;1;1;1;1;1;1;1;1;1;1
+Knolselderij;Knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Koolzaad;Koolzaad;1;1;1;1;1;1;1;1;1;1;1
+Korrelmaïs;Korrelmaïs;1;1;1;1;1;1;1;1;1;1;1
+Kunstweide;Kunstweide;1;1;1;1;1;1;1;1;1;1;1
+Luzerne;Luzerne;1;1;1;1;1;1;1;1;1;1;1
+Natuur. faunarand;Natuur faunarand;1;1;1;1;1;1;1;1;1;1;1
+Natuur. akkerflora;Natuur akkerflora;1;1;1;1;1;1;1;1;1;1;1
+Akkerbouw overig;Akkerbouw overig;1;1;1;1;1;1;1;1;1;1;1
+Ov. tuinbouw;Ov. tuinbouw;1;1;1;1;1;1;1;1;1;1;1
+Ui. zaaiui. overig;Ui en zaaiui en overig;1;1;1;1;1;1;1;1;1;1;1
+Winterui. 2e jaars plantui;Winterui en 2e jaars plantui;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen hoge norm;Pootaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen overig;Pootaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen lage norm;Pootaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Prei;Prei;1;1;1;1;1;1;1;1;1;1;1
+Winterrogge;Winterrogge;1;1;1;1;1;1;1;1;1;1;1
+Schorseneer;Schorseneren;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven met derogatie;Snijmaïs bedrijven met derogatie;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven zonder derogatie;Snijmaïs bedrijven zonder derogatie;1;1;1;1;1;1;1;1;1;1;1
+Spinazie;Spinazie;1;1;1;1;1;1;1;1;1;1;1
+Spruitkool;Spruitkool;1;1;1;1;1;1;1;1;1;1;1
+Stam-. stokboon. vers;Stam en stokboon vers;1;1;1;1;1;1;1;1;1;1;1
+Suikerbieten;Suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Triticale;Triticale;1;1;1;1;1;1;1;1;1;1;1
+Tuinbonen;Tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Valeriaan;Valeriaan;1;1;1;1;1;1;1;1;1;1;1
+Veld- en tuinbonen. vers + rijp zaad;Veld en tuinbonen vers en rijp zaad;1;1;1;1;1;1;1;1;1;1;1
+Vlas;Vlas;1;1;1;1;1;1;1;1;1;1;1
+Voederbieten;Voederbieten;1;1;1;1;1;1;1;1;1;1;1
+Waspeen;Waspeen;1;1;1;1;1;1;1;1;1;1;1
+Wintergerst;Wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Winterpeen;Winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Wintertarwe;Wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Witlof;Witlof;1;1;1;1;1;1;1;1;1;1;1
+Witte bonen;Witte bonen;1;1;1;1;1;1;1;1;1;1;1
+Witte kool;Witte kool;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €1000;Zaaikl. verhuurd €1000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €2000;Zaaikl. verhuurd €2000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €3000;Zaaikl. verhuurd €3000;1;1;1;1;1;1;1;1;1;1;1
+Zomergerst;Zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Zomertarwe;Zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Asperges;Asperges;1;1;1;1;1;1;1;1;1;1;1
+Bio cons. aardappelen;Bio cons. aardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio pootaardappelen;Bio pootaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Bio bruine bonen;Bio bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Bio stamslabonen;Bio stamslabonen;1;1;1;1;1;1;1;1;1;1;1
+Bio tuinbonen;Bio tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Bio doperwten;Bio doperwten;1;1;1;1;1;1;1;1;1;1;1
+Bio wintergerst;Bio wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio zomergerst;Bio zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Bio haver;Bio haver;1;1;1;1;1;1;1;1;1;1;1
+Bio wintertarwe;Bio wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio zomertarwe;Bio zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+Bio knolselderij;Bio knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Bio winterpeen;Bio winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Bio zaaiuien;Bio zaaiuien;1;1;1;1;1;1;1;1;1;1;1
+Bio luzerne;Bio luzerne;1;1;1;1;1;1;1;1;1;1;1
+Bio suikerbieten;Bio suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Bio kroten;Bio kroten;1;1;1;1;1;1;1;1;1;1;1
+Bio witlofwortel;Bio witlofwortel;1;1;1;1;1;1;1;1;1;1;1
+Blauwmaanzaad;Blauwmaanzaad;1;1;1;1;1;1;1;1;1;1;1
+Tulpen;Tulpen;1;1;1;1;1;1;1;1;1;1;1
+Braakland;Braakland;1;1;1;1;1;1;1;1;1;1;1
+Braakland regio 2;Braakland regio 2;1;1;1;1;1;1;1;1;1;1;1
+Bruine bonen;Bruine bonen;1;1;1;1;1;1;1;1;1;1;1
+Cichorei;Cichorei;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen hoge norm;Consumptieaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen overig;Consumptieaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Consumptieaardappelrassen lage norm;Consumptieaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Conservenerwten;Conservenerwten;1;1;1;1;1;1;1;1;1;1;1
+Zetmeelaardappelen;Zetmeelaardappelen;1;1;1;1;1;1;1;1;1;1;1
+Geen;Geen;1;1;1;1;1;1;1;1;1;1;1
+Grasland met beweiden;Grasland met beweiden;1;1;1;1;1;1;1;1;1;1;1
+Grasland met volledig maaien;Grasland met volledig maaien;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. Engels raaigras. 1e jaars;Graszaad Engels raaigras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. roodzwenkgras. 1e jaars;Graszaad roodzwenkgras 1e jaars;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. rietzwenkgras;graszaad rietzwenkgras;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. veldbeemd;Graszaad veldbeemd;1;1;1;1;1;1;1;1;1;1;1
+Graszaad. westerwolds;Graszaad westerwolds;1;1;1;1;1;1;1;1;1;1;1
+Groene erwten;Groene erwten;1;1;1;1;1;1;1;1;1;1;1
+Haver;Haver;1;1;1;1;1;1;1;1;1;1;1
+Kapucijners;Kapucijners;1;1;1;1;1;1;1;1;1;1;1
+Karwijzaad;Karwijzaad;1;1;1;1;1;1;1;1;1;1;1
+Knolselderij;Knolselderij;1;1;1;1;1;1;1;1;1;1;1
+Koolzaad;Koolzaad;1;1;1;1;1;1;1;1;1;1;1
+Korrelmaïs;Korrelmaïs;1;1;1;1;1;1;1;1;1;1;1
+Kunstweide;Kunstweide;1;1;1;1;1;1;1;1;1;1;1
+Luzerne;Luzerne;1;1;1;1;1;1;1;1;1;1;1
+Natuur. faunarand;Natuur faunarand;1;1;1;1;1;1;1;1;1;1;1
+Natuur. akkerflora;Natuur akkerflora;1;1;1;1;1;1;1;1;1;1;1
+Akkerbouw overig;Akkerbouw overig;1;1;1;1;1;1;1;1;1;1;1
+Ov. tuinbouw;Ov. tuinbouw;1;1;1;1;1;1;1;1;1;1;1
+Ui. zaaiui. overig;Ui en zaaiui en overig;1;1;1;1;1;1;1;1;1;1;1
+Winterui. 2e jaars plantui;Winterui en 2e jaars plantui;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen hoge norm;Pootaardappelrassen hoge norm;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen overig;Pootaardappelrassen overig;1;1;1;1;1;1;1;1;1;1;1
+Pootaardappelrassen lage norm;Pootaardappelrassen lage norm;1;1;1;1;1;1;1;1;1;1;1
+Prei;Prei;1;1;1;1;1;1;1;1;1;1;1
+Winterrogge;Winterrogge;1;1;1;1;1;1;1;1;1;1;1
+Schorseneer;Schorseneren;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven met derogatie;Snijmaïs bedrijven met derogatie;1;1;1;1;1;1;1;1;1;1;1
+Snijmaïs. bedrijven zonder derogatie;Snijmaïs bedrijven zonder derogatie;1;1;1;1;1;1;1;1;1;1;1
+Spinazie;Spinazie;1;1;1;1;1;1;1;1;1;1;1
+Spruitkool;Spruitkool;1;1;1;1;1;1;1;1;1;1;1
+Stam-. stokboon. vers;Stam en stokboon vers;1;1;1;1;1;1;1;1;1;1;1
+Suikerbieten;Suikerbieten;1;1;1;1;1;1;1;1;1;1;1
+Triticale;Triticale;1;1;1;1;1;1;1;1;1;1;1
+Tuinbonen;Tuinbonen;1;1;1;1;1;1;1;1;1;1;1
+Valeriaan;Valeriaan;1;1;1;1;1;1;1;1;1;1;1
+Veld- en tuinbonen. vers + rijp zaad;Veld en tuinbonen vers en rijp zaad;1;1;1;1;1;1;1;1;1;1;1
+Vlas;Vlas;1;1;1;1;1;1;1;1;1;1;1
+Voederbieten;Voederbieten;1;1;1;1;1;1;1;1;1;1;1
+Waspeen;Waspeen;1;1;1;1;1;1;1;1;1;1;1
+Wintergerst;Wintergerst;1;1;1;1;1;1;1;1;1;1;1
+Winterpeen;Winterpeen;1;1;1;1;1;1;1;1;1;1;1
+Wintertarwe;Wintertarwe;1;1;1;1;1;1;1;1;1;1;1
+Witlof;Witlof;1;1;1;1;1;1;1;1;1;1;1
+Witte bonen;Witte bonen;1;1;1;1;1;1;1;1;1;1;1
+Witte kool;Witte kool;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €1000;Zaaikl. verhuurd €1000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €2000;Zaaikl. verhuurd €2000;1;1;1;1;1;1;1;1;1;1;1
+Zaaikl.verhuurd. €3000;Zaaikl. verhuurd €3000;1;1;1;1;1;1;1;1;1;1;1
+Zomergerst;Zomergerst;1;1;1;1;1;1;1;1;1;1;1
+Zomertarwe;Zomertarwe;1;1;1;1;1;1;1;1;1;1;1
+opfok door derden;Melkkoeien;1;1;1;1;1;1;1;1;1;1;1
+overige dierkosten;Melkkoeien;1;1;1;1;1;1;1;1;1;1;1
+
+
+Gewassen;;;;;;;;;;;
+NAAM;Categorie;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Asperges;gewassen;10;10;10;10;10;10;10;10;10;10
+Tulpen;gewassen;20;10;10;10;10;10;10;10;10;10
+
+Dieren;;;;;;;;;;;
+Naam;Categorie;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Melkkoeien;Rundvee;50;50;50;50;50;50;50;50;50;50
+
+VasteActiva;;;;;;;;;;;
+Naam;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Restwaarde;100000;90000;80000;70000;60000;50000;40000;30000;20000;10000;0
+Afschrijving;;10007;10008;10009;10010;10011;10012;10013;10014;10015;10016
+Aankoop;;;;;;;;;;;
+
+Financiën;;;;;;;;;;;
+Naam;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Schuld;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000;50000
+Vergoeding;;;;;;;;;;;
+Rente;0;5007;5008;5009;5010;5011;5012;5013;5014;5015;5016
+
+Vaste kosten;;;;;;;;;;;
+NAAM;Categorie;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Betaalde arbeid;Constante kosten;1007;1008;1009;1010;1011;1012;1013;1014;1015;1016
+
+Variabelen;;;;;;;;;;;
+NAAM;Categorie;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Ton fokzeugenmest;Dierlijke mest;3007;3008;3009;3010;3011;3012;3013;3014;3015;3016
+
+Inventaris;;;;;;;;;;;
+NAAM;;;;;;
+grond b;500000;10;2003;N;50;Zonder
+gebouw b;300000;10;2003;D;30;Normaal
+machine b;150000;10;2003;L;12;Normaal
+quota b;60000;10;2003;L;8;Normaal
+overig b;10000;10;2003;D;30;Zonder
+grond 1;1;10;2007;N;50;Zonder
+grond 2;1;10;2008;N;50;Zonder
+grond 3;1;10;2009;N;50;Zonder
+grond 4;1;10;2010;N;50;Zonder
+grond 5;1;11;2011;N;50;Zonder
+grond 6;1;11;2012;N;50;Zonder
+grond 7;1;11;2013;N;50;Zonder
+grond 8;1;11;2014;N;50;Zonder
+grond 9;1;11;2015;N;50;Zonder
+grond 10;1;11;2016;N;50;Zonder
+gebouw 1;1;7;2007;D;30;Normaal
+gebouw 2;1;7;2008;D;30;Normaal
+gebouw 3;1;7;2009;D;30;Normaal
+gebouw 4;1;7;2010;D;30;Normaal
+gebouw 5;1;7;2011;D;30;Normaal
+gebouw 6;1;7;2012;D;30;Normaal
+gebouw 7;1;7;2013;D;30;Normaal
+gebouw 8;1;7;2014;D;30;Normaal
+gebouw 9;1;7;2015;D;30;Normaal
+gebouw 10;1;7;2016;D;30;Normaal
+machine 1;18000;6;2007;L;12;Normaal
+machine 2;15000;6;2008;L;12;Normaal
+machine 3;1;6;2009;L;12;Normaal
+machine 4;1;6;2010;L;12;Normaal
+machine 5;1;6;2011;L;12;Normaal
+machine 6;5000;6;2012;L;12;Normaal
+machine 7;1;6;2013;L;12;Normaal
+machine 8;5000;6;2014;L;12;Normaal
+machine 9;1;6;2015;L;12;Normaal
+machine 10;1;6;2016;L;12;Normaal
+quota 1;1;5;2007;L;8;Normaal
+quota 2;1;5;2008;L;7;Normaal
+quota 3;1;5;2009;L;6;Normaal
+quota 4;1;5;2010;L;5;Normaal
+quota 5;1;5;2011;L;4;Normaal
+quota 6;1;5;2012;L;3;Normaal
+quota 7;1;5;2013;L;2;Normaal
+quota 8;1;5;2014;L;1;Normaal
+quota 9;1;5;2015;L;1;Normaal
+quota 10;1;5;2016;L;1;Normaal
+overig 1;1;4;2007;D;30;Zonder
+overig 2;1;4;2008;D;30;Zonder
+overig 3;1;4;2009;D;30;Zonder
+overig 4;1;4;2010;D;30;Zonder
+overig 5;1;4;2011;D;30;Zonder
+overig 6;1;4;2012;D;30;Zonder
+overig 7;1;4;2013;D;30;Zonder
+overig 8;1;4;2014;D;30;Zonder
+overig 9;1;4;2015;D;30;Zonder
+overig 10;1;4;2016;D;30;Zonder
+
+Klein Materiaal;;;;;;
+;2007;107;Zonder;;;
+;2008;108;Zonder;;;
+;2009;109;;;;
+;2010;110;;;;
+;2011;111;;;;
+;2012;112;;;;
+;2013;113;;;;;;;;;
+;204;114;;;;;;;;;
+;2015;115;;;;;;;;;
+;2016;116;;;;;;;;;
+
+DIVERSE INKOMSTEN;;;;;;;;;;;
+NAAM;Categorie;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Verhuur quota;Andere opbrengsten;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+Verhuur toeslagrechten;Andere opbrengsten;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+Opbrengst energie;Andere opbrengsten;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+Andere opbrengsten;Andere opbrengsten;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+
+DIVERSE UITGAVEN;;;;;;;;;;;
+NAAM;Categorie;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Huur quota;Andere kosten;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+Huur toeslagrechten;Andere kosten;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+Kosten energie;Andere kosten;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+Andere kosten;Andere kosten;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+
+Privé inkomsten;;;;;;;;;;;
+NAAM;Categorie;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Arbeid;Inkomen buiten bedrijf;10;10;10;10;10;10;10;  ;  ;  
+Vermogen;Inkomen buiten bedrijf;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+Ander inkomen buiten bedrijf;Inkomen buiten bedrijf;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+
+Privé uitgaven;;;;;;;;;;;
+NAAM;Categorie;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Kosten arbeid en vermogen;Uitgaven buiten bedrijf;10;10;10;10;10;10;10;10;  ;  
+Belastingen;Uitgaven buiten bedrijf;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+Gezinsuitgaven;Uitgaven buiten bedrijf;  ;  ;  ;  ;  ;  ;  ;  ;  ;  
+
+
+
+Landbouwer;gerrit 2;;;;;;;;;;
+
+
+
+Gewassen;;;;;;;;;;;
+Naam;Categorie;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Gewas 1;Gewassen;12;13;14;15;16;17;18;19;20;21
+Gewas 2;Gewassen;10;10;10;10;10;10;10;10;10;10
+
+
+DIEREN;;;;;;;;;;;
+Naam;Categorie;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016
+Melkkoeien;Melkvee;52;52;52;52;52;52;52;52;52;52

@@ -1,0 +1,3 @@
+	CallHelp = false;
+	AideFrm->AfficherAide(Langue,HelpContext);
+    return true;

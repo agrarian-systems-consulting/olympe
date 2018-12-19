@@ -1,0 +1,4 @@
+C:\OlympeInter\Wag\07 03 30 flexibel.oly
+Langue N
+Delimiter ;
+C:\OlympeInter\Wag\07 03 30 flexibel.csv

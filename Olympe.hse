@@ -1,0 +1,20 @@
+//                                  OLYMPE.HSE
+#include <stdio.h>
+#include <stdlib.h>
+
+//extern int Version;
+
+extern int N;              //aNnée de simulation en cours
+extern int N_x;            // nb maxi d'annees de simulation doit etre < N_X
+extern int An_0;
+extern int Mois_0;
+
+extern char *LibCategorie[];
+
+
+
+extern char *LibPeriode[];
+
+extern char *LibAgent[];
+
+
